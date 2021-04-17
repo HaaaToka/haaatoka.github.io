@@ -6,5 +6,18 @@
 
     <body>
         <h1>hhhhhhhh</h1>
+        <script>
+
+            alert(1);
+
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.onreadystatechange = function() { 
+                if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+                    console.log(xmlHttp.responseText);
+            }
+            xmlHttp.open("GET", "dene1.hmtl", true); // true for asynchronous 
+            xmlHttp.send(null);
+
+        </script>
     </body>
 </html>
