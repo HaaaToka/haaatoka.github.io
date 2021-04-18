@@ -1,11 +1,11 @@
 {
     "1" : {
-        "link" : "./posts/1.html",
-        "title" : "okan",
-        "postUpdate" : "alt baslik",
-        "foreword" :"<p><strong>asda</strong>asfdsaf</p>",
-        "date":"sdafds",
-        "last update" : "safdsaf",
-        "category" : "python"
+        "link" : "./posts/huprog18.html",
+        "title" : "HUPROG'18",
+        "postUpdate" : "",
+        "foreword" :"<p><strong>HUPROG</strong> is Hacettepe University Programming Competition...</p>",
+        "date":"24.03.2018",
+        "last update" : "24.03.2018",
+        "category" : "participated"
     }
 }
