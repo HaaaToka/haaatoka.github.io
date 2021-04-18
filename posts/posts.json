@@ -7,5 +7,14 @@
         "date":"24.03.2018",
         "last update" : "24.03.2018",
         "category" : "participated"
+    },
+    "2" : {
+        "link" : "./posts/huprog19.html",
+        "title" : "HUPROG'19",
+        "postUpdate" : "",
+        "foreword" :"<p><strong>HUPROG</strong> is Hacettepe University Programming Competition...</p>",
+        "date":"10.04.2019",
+        "last update" : "10.04.2019",
+        "category" : "participated"
     }
 }
