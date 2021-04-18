@@ -1,0 +1,11 @@
+{
+    "1" : {
+        "link" : "./posts/1.html",
+        "title" : "okan",
+        "postUpdate" : "alt baslik",
+        "foreword" :"<p><strong>asda</strong>asfdsaf</p>",
+        "date":"sdafds",
+        "last update" : "safdsaf",
+        "category" : "python"
+    }
+}

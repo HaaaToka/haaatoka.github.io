@@ -61,7 +61,7 @@
                 <h1 class="content-subhead">
                     Posted by HaaaToka
                  </h1>
-                <div id="myposts" class="posts">
+                <div id="mycategoryposts" class="posts">
 
                 </div>
             </div>
@@ -73,7 +73,11 @@
 
     <script src="/js/magic.js"></script>
     <script>
-        arrangePost("myposts");
+        var url = new URL(window.location.href);
+        var c = encodeURI(url.searchParams.get("c"));
+        console.log(c);
+        arrangePost("mycategoryposts",c);
+        
     </script>
 
     <footer class="footer">
