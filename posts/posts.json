@@ -1,11 +1,20 @@
 {
-    "1" : {
-        "link" : "./posts/huprog18.html",
-        "title" : "HUPROG'18",
+    "4" : {
+        "link" : "./posts/tr/gpt3unturkceileimtehani.html",
+        "title" : "GPT-3'ün Türkçe ile İmtihanı",
         "postUpdate" : "",
-        "foreword" :"<p><strong>HUPROG</strong> is Hacettepe University Programming Competition...</p>",
-        "date":"24.03.2018",
-        "last update" : "24.03.2018",
+        "foreword" :"<p><em>`Generative Pre-trained Transformer 3</em> (Türkçe: Üretken Ön İşlemeli Dönüştürücü 3) kısaca GPT-3, insanların yazdığı metinlere benzer içerik üretmek için derin öğrenmeyi kullanan öz bağlanımlı dil modelidir. GPT-n serisindeki üçüncü nesil dil tahmin modeli olan GPT-3, San Francisco merkezli yapay zeka araştırma laboratuvarı OpenAI tarafından geliştirilmiştir.</p>",
+        "date":"01.02.2021",
+        "last update" : "01.02.2021",
+        "category" : "gpt-3"
+    },
+    "3" : {
+        "link" : "./posts/huprog19.html",
+        "title" : "HUPROG'19",
+        "postUpdate" : "",
+        "foreword" :"<p><strong>HUPROG</strong> is Hacettepe University Programming Competition 2019 is the greatest success of my life.</p>",
+        "date":"10.04.2019",
+        "last update" : "10.04.2019",
         "category" : "participated"
     },
     "2" : {
@@ -17,13 +26,13 @@
         "last update" : "20.05.2018",
         "category" : "participated"
     },
-    "3" : {
-        "link" : "./posts/huprog19.html",
-        "title" : "HUPROG'19",
+    "1" : {
+        "link" : "./posts/huprog18.html",
+        "title" : "HUPROG'18",
         "postUpdate" : "",
-        "foreword" :"<p><strong>HUPROG</strong> is Hacettepe University Programming Competition...</p>",
-        "date":"10.04.2019",
-        "last update" : "10.04.2019",
+        "foreword" :"<p><strong>HUPROG</strong>(Hacettepe University Programming Contest) is a competitive programming competition. We are the organizers of first the first and only programming contest of our university and we reached out to top programmer students, encouraged them in competitive programming for 2 years.</p>",
+        "date":"24.03.2018",
+        "last update" : "24.03.2018",
         "category" : "participated"
     }
 }

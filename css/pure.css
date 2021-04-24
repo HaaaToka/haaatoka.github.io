@@ -357,3 +357,12 @@ pre {
         background-position: 0;
     }
 }
+
+code {
+    background-color: antiquewhite;
+    color: gray;
+}
+
+figcaption{
+    text-align: center;
+}

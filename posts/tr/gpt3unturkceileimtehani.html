@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Okan ALAN Personal Blog">
+    <meta name="description" content="used https://github.com/PurePelicanTheme/pure">
+
+    <link rel="stylesheet" href="/css/pure.css">
+    <link rel="stylesheet" href="/css/pygments.css">
+
+    <script src="/js/magic.js"></script>
+
+    <title>Okan ALAN</title>
+
+</head>
+
+<body>
+
+    <div class="pure-g-r" id="layout">
+
+        <!-- Index Page Left Sidebar Begin -->
+        <div class="sidebar sidebar-article pure-u">
+            <header class="header-article">
+                <hgroup>
+                    <a href="https://haaatoka.github.io/author.html" title="See posts by HaaaToka">
+                            <img class="avatar" alt="HaaaToka" src="https://avatars.githubusercontent.com/u/27926328?v=4">
+                    </a>
+                    <h2 class="article-info">HaaaToka</h2>
+                    <small class="about-author"></small>
+                    <h5>Published</h5>
+                    <p>01.02.2021</p>
+                    <a href="/">&larr;Home</a>
+                </hgroup>
+            </header>
+        </div>
+        <!-- Index Page Left Sidebar End -->
+
+        <!-- POST -->
+        <div class="pure-u">
+            <div class="content">
+                <section class="post">
+                    <header class="post-header">
+                        <h1>GPT-3'ün Türkçe ile İmtihanı</h1>
+                            <p class="post-meta">
+                                // under <a class="post-category" href="/category.html?c=gpt-3">gpt-3</a>
+                            </p>
+                    </header>
+                </section>
+                <p> 
+                    <p>
+                        Dünyanın en büyük ansiklopedisinden biraz yararlanarak GPT-3'ün ne olduğundan kısaca bahsedeyim. 
+                        `Generative Pre-trained Transformer 3 (Türkçe: Üretken Ön İşlemeli Dönüştürücü 3) kısaca GPT-3, insanların yazdığı metinlere benzer içerik üretmek için derin öğrenmeyi kullanan öz bağlanımlı dil modelidir. 
+                        GPT-n serisindeki üçüncü nesil dil tahmin modeli olan GPT-3, San Francisco merkezli yapay zeka araştırma laboratuvarı OpenAI tarafından geliştirilmiştir. 
+                        GPT-3'ün tam sürümü, veri işleyecek 175 milyar parametreye sahiptir. 
+                        Bu rakam GPT-2'nin öğrenme kapasitesinin 2 katıdır. 
+                        14 Mayıs 2020'de tanıtılan ve Temmuz 2020 itibarıyla beta aşamasında olan GPT-3, önceden öğrenilmiş dil örnekleriyle doğal dil işleme (NLP) sistemini kullanmaktadır.
+                        `[1] Daha fazla teknik bilgi vermek isterdim ancak benim de fazla bir bilgi ve tecrübem olmadığını göz önünde bulundurarak sizleri yanlış yönlendirmek istemem.<br><br>
+    
+                        İnternette genelde İngilizce içeriklerle yapılan örnekler bulunmakta o yüzden bu yazıda OpenAI’ın GPT-3 doğal dil işleme modelinin Türkçe içerik üretiminde ne kadar etkili olduğunu dilim döndüğünce size örneklerle anlatmaya çalışacağım.<br><br>
+                    </p>
+
+                    <iframe src="https://giphy.com/embed/XyaQAnihoZBU3GmFPl/twitter/iframe" allowfullscreen="" frameborder="0" height="242" width="435" title="Start GIF by memecandy - Find &amp; Share on GIPHY" class="fd el ei is w" scrolling="auto"></iframe><br><br>
+
+                    <p>
+                        <strong>OpenAI GPT-3 Nasıl Kullanılıyor?</strong><br><br>
+
+                        Bu modeli alıp eğitmek gibi bir ihtiyaca gerek olmadan OpenAI’ın ticarileştirmiş olduğu API’yı üzerinden kullanacağız. 
+                        Burada önümüze iki seçenek çıkıyor; ilki yazılımcılar için geliştirilmiş olan HTTP istekleri ile bu API ile iletişime geçmek. 
+                        Bu durum GPT-3'ü kendi ürünlerinize adapte edebilmemize olanak sağlıyor. 
+                        Diğeri ise OpenAI’ın web sitesi üzerinden basit bir kelime işlemci arayüzü ile bize sunduğunu “Playground” adını verdikleri tarayıcı uygulaması. 
+    
+                        Basit bir örnek ile tarayıcı uygulamasını kullanmaya başlayalım.<br>
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r1.png">
+                        <figcaption>Resim 1: Akıl Dolu Anlamlı Sözler</figcaption>
+                    </figure>
+
+                    <p>
+                        Uygulamayı ikiyi bölersek sol tarafta modelle iletişime geçtiğimiz kısım, sağ tarafta ise modelin ince ayarlarını yaptığımız bir panel bulunmakta. 
+                        Kısaca sağ panelde bulunan ayarların ne işe yaradığından bahsediyim.<br>
+                        <strong>Engine:</strong> <code>davinci, cruie, babbage, ada</code> isimlerinde 4 farklı engine modeli var. 
+                        <code>davinci</code> en kapsamlı olanı, diğer modeller ise spesifik görevler için daha iyi ve hızlı olabiliyorlar. 
+                        Hangi engine hangi konuda daha iyi dersek; <code>davinci</code> : karmaşık içerikler üretme, sebep-sonuç bulma, ve özet çıkarma, 
+                        <code>cruie</code> : tercüme etme, karmaşık sınıflandırma, metin analizleme ve özetleme, 
+                        <code>babbage</code> : metin parçalama, basit sınıflandırma, kelime doğrulama, görevlerinde daha iyi.<br>
+                        <strong>Response Length:</strong> İstediğimiz göreve verilecek cevabın maksimum uzunluğunu buradan ayarlıyoruz.<br>
+                        <strong>Temperature:</strong> Modelin cevabının ne kadar yaratıcı olmasını istiyorsanız bu ayarı artırmamız gerekiyor. Düşük seviyede monoton cevaplar alınıyor.<br>
+                        <strong>Top P:</strong> Temperature parametresine alternatif, ikisinden biri seçilmeli.<br>
+                        <strong>Frequency Penalty:</strong> Modelin uzun cevaplarda kendini tekrarlamasını engellemek için arttırmak gerekiyor.<br>
+                        <strong>Presence Penalty:</strong> Frequency Penalty ile benzer şekilde, modelin cevap üretme aşamasında aynı konu çevresinde dolanmak yerine yeni konular bulmasına yardımcı oluyor.<br>
+                        <strong>Best of: </strong>Modelin ürettiği en iyi kaç çıktıyı bize göstereceğini belirliyoruz.
+                    </p>
+
+                    <p>
+                        Ekranın sol tarafında ise öğrenmemiz gereken iki konsept var.<br>
+                        <strong>Prompt: </strong>API’ya derdimizi anlattığımız kısım. (Uygulama ekranlarındaki koyu renkli yazılar). 
+                        Şu anda API’ya maksimum 1500 tokenlik bir prompt yollayabiliyoruz .<br>
+                        <strong>Completion: </strong>API’ın bize döndürdüğü yanıt.(Uygulama ekranlarındaki açık renkli yazılar)<br>
+                        Yeri gelmişken ticari dememdeki sebebe de değineyim. 
+                        API ile iletişim sırasında gidip gelen her bir kelime <strong>token</strong> olarak adlandırılıyor gibi düşünebiliriz. 
+                        Bu API’yı kullanırken de bizim yakıtımız bu tokenlar. Ne kadar çok token kullanırsan o kadar masraf çıkar. 
+                        Tabii ki kullanım ücretinin belirlenmesinde hangi engine kullanıldığı da önemli. 
+                        Mesela <code>davinci</code> ‘de 1k token kullanımı $0.06 iken <code>cruie</code>’de bu fiyat $0.006.
+                    </p>
+
+                    <p>
+                        Resim 1'de, google amcamıza instagram postu altına yazmalık anlamlı cümleler bulmasını istedim ve bu isteğe karşılık gösterdiklerinden rastgele seçtiğim cümleleri prompt olarak API’a yolladım. 
+                        Burada herhangi bir istek açıklaması vermeden direkt konuya girip 4 tane cümleyi yolladım. 
+                        Dikkatinizi çekmiştir, <code>###</code> ile cümleleri birbirinden ayırıp sol paneldeki <strong>Stop Sequence</strong> ayarına bunu belirttim. 
+                        Bu ayar ona verilen sekansı ürettiğinde dur demek. 
+                        Bu ayar dertlerimizi GPT-3 e daha iyi anlatmada işe yarıyor. 
+                        Bu örnekte bana benzer bir cümle kurmasını istediğimi model kendi anladı ve bana <em>marx </em>diye birinin bir sözünü üretti. 
+                        Ayrıca belki farketmişsinizdir, GPT-3 herhangi bir şey belirtmememe rağmen cümleleri tırnak işareti arasına yazdı ve bir yazar atadı.
+                    </p>
+
+                    <p>
+                        Aynı prompt ile ürettiğim diğer cümleler:<br>
+                        - <em>“insanların çoğu gözünde bir kandırmacadır. tatlı sözler ve hoşgörüsüzlüklere dalmaktadır.” [hz. mevlana]</em><br>
+                        - <em>“gerçekten sevmeyen değil, bildiğini anlayan insandır.” [hazret-i. ali]</em><br>
+                        - <em>“bir kimse sevmiyorsa onun sevgisi yoktur.”</em>
+                    </p>
+
+                    <p>
+                        <strong class="bk">Şair Olmak Mı?</strong><br>
+                        Ara sıra şiir yazan bir arkadaşım kendi dizelerini internette paylaşıyor ve okuma fırsatım oluyor. 
+                        Yazıp yayınlanan şiirine devam etsem ne olur diye düşünüp Resim 2'de gördüğünüz şekilde GPT-3'ten şiirin bittiği yerden devam etmesini bekledim.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r2.png">
+                        <figcaption>Resim 2</figcaption>
+                    </figure>
+
+                    <p>
+                        İkinci kere çalıştırdığımda ise alttaki dizelerle devam etti.<br> 
+                        <em>
+                            Geliyor zaman arkamdan vuruyor<br> 
+                            Yapayalnız beni yanıyor senden…<br> 
+                            Seni kaldırmak istemiyorum.<br> 
+                            Biliyorum ki öpüşmek, konuşmak, yürümek bizim için ebedidir. <br> 
+                            BİZDEN BERİLER KALDI SEN VE BEN
+                        </em>
+                    </p>
+
+                    <p>
+                        Şaire devamını gösterdiğimde pek beğenmedi; şiirinin orada bittiğini, devamını kabul etmediğini belirtti.
+                    </p>
+
+                    <p>
+                        O zaman ben de bilinen bir şair gibi yazsa ne olur şeklinde düşünüp. 
+                        Atilla İlhan’ın ‘Ben Sana Mecburum’ şiirini devam ettirmesini istedim ve sonuç Resim 3'teki gibi oldu. 
+                        Edebiyattan zerre anlamadığım için yorumu size bırakıyorum.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r3.png">
+                        <figcaption>Resim 3 : Ben Sana Mecburum — Atilla İlhan</figcaption>
+                    </figure>
+
+                    <p>
+                        Veyahut sıfırdan yeni bir şeyler kaleme aldırsak? 
+                        Hmmmm, etkilemek istediğiniz bir kişi mi var? Hemen size cillop gibi, hiç kullanılmamış GPT-3 den bir şiir yazalım. 
+                        Ne dersiniz, işe yarar mı?
+                    </p>
+
+                    
+                    <figure>
+                        <img src="/img/gpt3/r4.png">
+                        <figcaption>Resim 4</figcaption>
+                    </figure>
+
+                    
+                    <figure>
+                        <img src="/img/gpt3/r5.png">
+                        <figcaption>Resim 5</figcaption>
+                    </figure>
+
+                    <p>
+                        Resim 4–5'te görüldüğü gibi tanınmış şairlerin şiirlerinden örnek verip bir dörtlük istediğimizde bu şekilde cevaplar aldık. 
+                        Resim 4'te ise cevabını kırmızı renkle renklendirmiş olmasının sebebi ise ürettiği metnin istenmeyen şeyler içerebileceğini düşünmesinden dolayı bizi uyarmak istemesiydi. 
+                        Peki GPT-3 sürekli böyle düzgün içerikler mi üretiyor? Hayır. 
+                        Resim 6'da görüldüğü gibi şiir istiyorum, ancak düz yazı üretiyor. (Fazla edebiyatın sonucu bu)
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r6.png">
+                        <figcaption>Resim 6</figcaption>
+                    </figure>
+
+                    <p>
+                        <strong>Google Translate Yeni Rakip mi Geliyor?</strong><br>
+                        Birazcık da tercüme olaylarına bakalım ne kadar doğru tercümeler yapıyormuş.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r7.png">
+                        <figcaption>Resim 7</figcaption>
+                    </figure>
+
+                    <p>
+                        Bu basit örnekte öncekilerden farklı olarak başta bir açıklama ile ne yapması gerektiğini belirttim. 
+                        Sonrasında ise çevirmesini istediğim ‘Hello. How are you?’ yazdım. 
+                        Bu basit görevi hızlıca yaptı ve durdurma sekansını yazmadığım için kendileri benim bir sonraki cümlemin ne olabileceğini tahmin ederek ‘I’m fine, thank you’ yazıp yine kendi kendine çevirmesini yaptı. 
+                        İşte bu kendi kendine devam etmesi beni gerçekten korkutan bir özellik. 
+                        Bu aslında API için yapılmış insan gibi davranması ve konuşmaları devam ettirmeye adapte olma özelliğinden kaynaklı. 
+                        En azından dökümantasyonlarda böyle söylüyorlar.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r8.png">
+                        <figcaption>Resim 8</figcaption>
+                    </figure>
+
+                    <p>
+                        Yavaştan vitesi arttırarak daha kompleks cümleler çevirmedeki becerilerine bakalım. 
+                        Resim 8'deki İngilizce metni OpenAI’ın GPT-3 API dökümanlarından kopyaladım. 
+                        Eğer ki siteyi uygulamanın kendisini kullanarak tercüme etseydik bu Türkçe tercüme ile karşılaşacaktık.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r9.png">
+                        <figcaption>Resim 9</figcaption>
+                    </figure>
+
+                    <p>
+                        Dünyanın en büyük modeli de olsan çeviri de hala büyük eksikleri olduğunu düşünüyorum. 
+                        En basitinden ‘…üç büyük kulübü’ gibi sayısal basit bir hatayı yapmasını beklemezdim. 
+                        Anlamsız cümleler oluşturulabilir ama böyle de olmaz diye düşünüp OpenAI’ın tercüme ettirme konusunda önerdiği ince ayarları yapıp tekrar denedim ve sonuç Resim 10.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r10.png">
+                        <figcaption>Resim 10</figcaption>
+                    </figure>
+
+                    <p>
+                        <h2>GPT-3, Danışmadan Bekleniyorsunuz</h2><br>
+                        Şimdi de, olmazsa olmazlarımızdan ve popüler NLP projelerinden biri olan chatbot’ların gücünü katlayacak GPT-3 örneklerine geldik. 
+                        Burada direkt zorlu bir teste sokalım modelimizi.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r11.png">
+                        <figcaption>Resim 11</figcaption>
+                    </figure>
+
+                    <p>
+                        Burada <strong>Frequency ve Presence Penalty</strong> değerlerini bilerek 0 bıraktım ve konuyu tekrarlamanın nasıl olduğunu göstermek istedim. 
+                        Cevapta da gördüğünüz gibi tekrarlı şekilde sakatlık ve organ nakli çevresinde örnekler üretti.
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r12.png">
+                        <figcaption>Resim 12</figcaption>
+                    </figure>
+
+                    <p>
+                        Aynı prompt ve farklı ince ayarlar ile Resim 12'deki gibi bir sonuç aldım. 
+                        Yine Stop Sequence ayarını yapmadığım için kendi kendine sorular üretip cevapladı. 
+                        (Düzgün yapılan ayarlar ile daha berrak ve güzel cevaplar almamız kaçınılmaz. 
+                         Tabiki mavi ile işaretlediğim yerde de görebileceğiniz gibi bazen devrelerinin yandığı da oluyor)
+                    </p>
+
+                    <p>
+                        <h2>Sen Ne Ayaksın GPT-3?</h2><br>
+                        Sınıflandırma konusunda da iyi olduğunu anlatan ve bir çok yerde bunun örnekleriyle gösteren OpenAI bakalım Türk menşeli firmaları kategorileme işinde nasıldı?
+                    </p>
+
+                    <figure>
+                        <img src="/img/gpt3/r13.png">
+                        <figcaption>Resim 13</figcaption>
+                    </figure>
+                    
+                    <p>
+                        Resim 13'te gördüğünüz gibi ben sadece ‘Çiçeksepeti’nin kategorisini tahmin ettirmek isterken, kendi kendine tahmine devam etti ve bence işinin hakkını oldukça iyi verdi.<br><br>
+
+                        Bu blog yazısı ücretsiz ürün yerleştirme içermektedir. 
+                        Son olarak biraz da eğlenelim. Geçen yaz arkadaşlarla parkta otururken açlıktan gidip aldığımız çift katlı halley’in hatalı üretilmiş olanı almışız ve bunu son halleyde fark ettik. 
+                        Sonra internette ara sıra gördüğümüz böyle büyük markaların hatalı ürününü twit atıyorsun onlarda sana bir sepet kendi ürünlerinden yolluyor. 
+                        Tabi bu benim üşengeçliğimden dolayı 6–7 ay rötarlandı ve bu yüzden GPT-3'e benim yerime bir şikayet twiti yazmasını istedim. 
+                        Resim 14'de görüldüğü gibi ilginç bir şeyler karaladı kendi çapında. (Orjinal twite destek olalım bir sepet ülker aburcuburu istiyorum)
+                    </p>
+                    
+                    <figure>
+                        <img src="/img/gpt3/r14.png">
+                        <figcaption>Resim 14</figcaption>
+                    </figure>
+
+                    <p>
+                        Yazımı bitirirken Open AI API ile GPT-3 dil modelini nasıl kullanma imkanı bulduğumu da belirtmek isterim. 
+                        Çalıştığım şirket, JotForm, OpenAI firmasından GPT-3 modelini deneyimlemek amacıyla bir davetiye aldı. 
+                        Bu sayede OpenAI API’ı ile ben de bu yazıyı yazdığım sırada dünyadaki en güçlü dil modelini kullanma şansına sahip oldum. 
+                        Yazımı okuduğunuz için teşekkür ederim, esen kalın.
+                    </p>
+
+                    <p>
+                        <h1>Kaynakça</h1>
+                        <em>
+                            - [1] https://tr.wikipedia.org/wiki/GPT-3 <br>
+                            - https://openai.com/blog/openai-api/ <br>
+                            - https://www.twilio.com/blog/ultimate-guide-openai-gpt-3-language-model <br>
+                            - https://www.infoq.com/articles/gpt3-enabled-applications/ <br>
+                            - https://www.gwern.net/newsletter/2020/05 <br>
+                            - https://www.notion.so/OpenAI-API-Community-Examples-ce088785e541498698c1895798e67664 <br>
+                        </em>
+                    </p>
+
+
+                </p>        
+            </div>
+
+            <footer class="footer">
+                <p>
+                    Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+                </p>
+            </footer>
+            
+        </div>
+        <!-- /POST -->
+    </div>
+
+    
+
+</body>
+
+</html>

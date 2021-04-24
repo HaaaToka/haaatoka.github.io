@@ -71,11 +71,12 @@ function createNewPostPreview(info){
 }
 
 function arrangePost(elementid,category="all"){
+  
     readTextFile("/posts/posts.json", function(postList){
 
         var myposts = document.getElementById(elementid);
 
-        Object.entries(postList).forEach(entry=>{
+        Object.entries(postList).reverse().forEach(entry=>{
           const[key, info] = entry;
           if(category==="all" || category===info.category){
             myposts.appendChild(createNewPostPreview(info));
@@ -83,4 +84,5 @@ function arrangePost(elementid,category="all"){
         });
 
     });
+
 }
