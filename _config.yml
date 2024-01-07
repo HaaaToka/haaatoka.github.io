@@ -1,3 +1,5 @@
-# this is a comment
+title: Haaatoka GitHub IO
+description: Personal Blog
 
 theme: jekyll-theme-cayman
+markdown: kramdown
