@@ -1,6 +1,6 @@
 {
     "5" : {
-        "link" : "./posts/rwl.md",
+        "link" : "./posts/rwl.html",
         "title" : "Reading/Watching/Listening List",
         "postUpdate" : "",
         "foreword" :"<p><em>`Generative Pre-trained Transformer 3</em> (Türkçe: Üretken Ön İşlemeli Dönüştürücü 3) kısaca GPT-3, insanların yazdığı metinlere benzer içerik üretmek için derin öğrenmeyi kullanan öz bağlanımlı dil modelidir. GPT-n serisindeki üçüncü nesil dil tahmin modeli olan GPT-3, San Francisco merkezli yapay zeka araştırma laboratuvarı OpenAI tarafından geliştirilmiştir.</p>",
