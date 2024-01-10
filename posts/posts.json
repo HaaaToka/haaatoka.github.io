@@ -3,9 +3,9 @@
         "link" : "./posts/rwl.html",
         "title" : "Reading/Watching/Listening List",
         "postUpdate" : "",
-        "foreword" :"<p><em>`Generative Pre-trained Transformer 3</em> (Türkçe: Üretken Ön İşlemeli Dönüştürücü 3) kısaca GPT-3, insanların yazdığı metinlere benzer içerik üretmek için derin öğrenmeyi kullanan öz bağlanımlı dil modelidir. GPT-n serisindeki üçüncü nesil dil tahmin modeli olan GPT-3, San Francisco merkezli yapay zeka araştırma laboratuvarı OpenAI tarafından geliştirilmiştir.</p>",
+        "foreword" :"<p>I share the articles I read, videos I watch, and podcasts I listen to daily(at least I try).</p>",
         "date":"01.07.2024",
-        "last update" : "01.07.2024",
+        "last update" : "See the latest date in the table in the post ;)",
         "category" : "rwl"
     },
     "4" : {
