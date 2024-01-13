@@ -86,3 +86,54 @@ function arrangePost(elementid,category="all"){
     });
 
 }
+
+function createRWLTable() {
+
+    elementid = "rwl-table-div";
+    console.log("ALAS");
+    readTextFile("/posts/rwl_list.json", function(rwlList){
+
+      var rwltablediv = document.getElementById(elementid);
+
+      var rwltable = document.createElement("table");
+      var thead = document.createElement("thead");
+      var headtr = document.createElement("tr");
+
+      [" Date ", "Title", "Link"].forEach(column => {
+        var headth = document.createElement("th");
+        headth.innerText = column;
+        headtr.appendChild(headth);
+      })
+      thead.appendChild(headtr);
+      rwltable.appendChild(thead);
+
+      var tbody = document.createElement("tbody");
+
+      Object.entries(rwlList["rwl"]).reverse().forEach(entry=>{
+        var bodytr = document.createElement("tr");
+
+        var date = document.createElement("td");
+        date.innerText = entry[1][0];
+        var title = document.createElement("td");
+        title.innerText = entry[1][1];
+        var link = document.createElement("td");
+        var linka = document.createElement("a");
+        linka.innerText = entry[1][2];
+        linka.setAttribute("href",entry[1][2]);
+
+        link.appendChild(linka);
+
+        bodytr.appendChild(date);
+        bodytr.appendChild(title);
+        bodytr.appendChild(link);
+
+        tbody.appendChild(bodytr);
+      });
+
+      rwltable.appendChild(tbody);
+
+      rwltablediv.appendChild(rwltable);
+
+  });
+
+}
