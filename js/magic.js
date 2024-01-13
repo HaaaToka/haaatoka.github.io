@@ -90,7 +90,6 @@ function arrangePost(elementid,category="all"){
 function createRWLTable() {
 
     elementid = "rwl-table-div";
-    console.log("ALAS");
     readTextFile("/posts/rwl_list.json", function(rwlList){
 
       var rwltablediv = document.getElementById(elementid);
