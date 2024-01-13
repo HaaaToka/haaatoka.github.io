@@ -8,6 +8,7 @@ a {
     text-decoration: none;
     color: rgb(142, 142, 214);
 }
+
 a:hover,
 a:focus {
     text-decoration: underline;
@@ -51,9 +52,9 @@ pre {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    -webkit-box-shadow: inset -1px 0 0 rgba(0,0,0,0.3);
-    -moz-box-shadow: inset -1px 0 0 rgba(0,0,0,0.3);
-    box-shadow: inset -1px 0 0 rgba(0,0,0,0.3);
+    -webkit-box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.3);
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.3);
 }
 
 .cover-body {
@@ -62,13 +63,14 @@ pre {
     max-width: 100%;
     padding-bottom: 0;
     padding-top: 100px;
-    background-image: linear-gradient(to top,rgba(0,0,0,0.5) 0,rgba(0,0,0,0.3) 70%,rgba(0,0,0,0) 100%);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.3) 70%, rgba(0, 0, 0, 0) 100%);
 }
 
 .brand-title,
 .brand-tagline {
     margin: 0;
 }
+
 .brand-title {
     text-transform: uppercase;
 }
@@ -90,9 +92,9 @@ pre {
     border: 3px solid #fff;
     z-index: 500;
     background-color: #fff;
-    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
-    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
-    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 
 .about-author {
@@ -102,12 +104,13 @@ pre {
     float: right;
     margin-bottom: 35px;
 }
-    hr {
-        border: 1px solid #f2f2f0;
-        width: 10%;
-        margin-top: 20px;
-        margin-right: 0px;
-    }
+
+hr {
+    border: 1px solid #f2f2f0;
+    width: 10%;
+    margin-top: 20px;
+    margin-right: 0px;
+}
 
 .header-article {
     width: 767px;
@@ -132,9 +135,9 @@ pre {
     margin-left: 15px;
     font-size: 25px;
     color: #fff;
-    border-bottom: 1px solid rgba(255,255,255,0.3);
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-    font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    font-family: "freight-sans-pro", "Myriad Pro", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
 }
 
 .tagline {
@@ -142,17 +145,18 @@ pre {
     margin-top: -15px;
     line-height: 15px;
     font-size: 80%;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
     color: #fff;
 }
 
 .social {
     display: inline-block;
 }
+
 .social a {
     text-decoration: none;
     margin-left: 15px;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
     color: #fff;
 }
 
@@ -161,7 +165,7 @@ pre {
     padding-left: 15px;
     font-family: sans-serif;
     letter-spacing: 2px;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
     text-decoration: none;
     color: #fff;
 }
@@ -188,11 +192,13 @@ pre {
     padding-bottom: 1em;
     border-bottom: 1px solid #f2f2f0;
 }
+
 .post-title {
     font-size: 1.5em;
     color: #333332;
     letter-spacing: -1px;
 }
+
 .post-meta {
     color: #999;
     font-size: 90%;
@@ -240,6 +246,7 @@ pre {
     padding: 2em 0;
     font-size: 75%;
 }
+
 .footer .pure-menu a:hover,
 .footer .pure-menu a:focus {
     background: none;
@@ -248,10 +255,13 @@ pre {
 .pagination-wrapper {
     padding-top: 6px;
 }
-.pagination-left, .pagination-right {
+
+.pagination-left,
+.pagination-right {
     position: absolute;
     top: 0;
 }
+
 .pagination {
     font-size: 80%;
     text-align: center;
@@ -260,9 +270,11 @@ pre {
     margin: 0 auto;
     max-width: 100%;
 }
+
 .pagination-left {
     left: 0;
 }
+
 .pagination-right {
     right: 0;
 }
@@ -289,9 +301,11 @@ pre {
 
 /* LAYOUT CSS */
 #layout {
-    padding-left: 25%; /* "left col (nav + list)" width */
+    padding-left: 25%;
+    /* "left col (nav + list)" width */
     position: relative;
 }
+
 @media (max-width: 767px) {
     .sidebar {
         width: 100%;
@@ -299,6 +313,7 @@ pre {
         margin: 0;
         height: 325px;
     }
+
     .sidebar.sidebar-article {
         height: auto;
         border-bottom: 1px #dededc solid;
@@ -363,6 +378,38 @@ code {
     color: gray;
 }
 
-figcaption{
+figcaption {
     text-align: center;
 }
+
+/* RWL Style S*/
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: bisque;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+}
+
+/* RWL Style END*/
