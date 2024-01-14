@@ -1,5 +1,6 @@
 {
     "rwl" : {
+        "15": ["Jan 15", "What is browser isolation?", "https://www.cloudflare.com/learning/access-management/what-is-browser-isolation/"],
         "14": ["Jan 14", "Is your mic really muted?", "https://www.kaspersky.com/blog/mute-button/44193/"],
         "13": ["Jan 13", "CVE-2022-4908: SOP bypass in Chrome using Navigation API", "https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/"],
         "12": ["Jan 12", "Integrate developer security training into vulnerability management", "https://gitlab.com/groups/gitlab-org/-/epics/6176"],
