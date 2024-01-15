@@ -1,5 +1,6 @@
 {
     "rwl" : {
+        "16": ["Jan 16", "Moving Fast and Securing Things", "https://slack.engineering/moving-fast-and-securing-things/"],
         "15": ["Jan 15", "What is browser isolation?", "https://www.cloudflare.com/learning/access-management/what-is-browser-isolation/"],
         "14": ["Jan 14", "Is your mic really muted?", "https://www.kaspersky.com/blog/mute-button/44193/"],
         "13": ["Jan 13", "CVE-2022-4908: SOP bypass in Chrome using Navigation API", "https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/"],
@@ -18,6 +19,7 @@
         "0": ["↑2024↑", "↑2024↑", "↑2024↑"]
     },
     "snacks" : {
+        "1" : ["On Empathy & Pull Requests", "https://slack.engineering/on-empathy-pull-requests/"],
         "0" : ["Understanding \"same-site\" and \"same-origin\"", "https://web.dev/articles/same-site-same-origin"]
     }
 }
