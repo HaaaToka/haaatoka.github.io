@@ -1,5 +1,9 @@
 {
     "rwl" : {
+        "20": ["Jan 20", "A Guide On Implementing An Effective SAST Workflow", "https://www.anshumanbhartiya.com/posts/sast-workflow"],
+        "19": ["Jan 19", "A Lightweight Approach To Implement Secure Software Development LifeCycle (Secure SDLC)", "https://www.anshumanbhartiya.com/posts/secure-sdlc"],
+        "18": ["Jan 18", "Product Security Roadmap", "https://www.anshumanbhartiya.com/posts/prodsec-roadmap"],
+        "17": ["Jan 17", "Building a Product Security program from scratch", "https://www.anshumanbhartiya.com/posts/building-product-security-program"],
         "16": ["Jan 16", "Moving Fast and Securing Things", "https://slack.engineering/moving-fast-and-securing-things/"],
         "15": ["Jan 15", "What is browser isolation?", "https://www.cloudflare.com/learning/access-management/what-is-browser-isolation/"],
         "14": ["Jan 14", "Is your mic really muted?", "https://www.kaspersky.com/blog/mute-button/44193/"],
