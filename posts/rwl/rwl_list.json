@@ -1,0 +1,31 @@
+{
+    "2024": {
+            "20": ["Jan 20", "A Guide On Implementing An Effective SAST Workflow", "https://www.anshumanbhartiya.com/posts/sast-workflow"],
+            "19": ["Jan 19", "A Lightweight Approach To Implement Secure Software Development LifeCycle (Secure SDLC)", "https://www.anshumanbhartiya.com/posts/secure-sdlc"],
+            "18": ["Jan 18", "Product Security Roadmap", "https://www.anshumanbhartiya.com/posts/prodsec-roadmap"],
+            "17": ["Jan 17", "Building a Product Security program from scratch", "https://www.anshumanbhartiya.com/posts/building-product-security-program"],
+            "16": ["Jan 16", "Moving Fast and Securing Things", "https://slack.engineering/moving-fast-and-securing-things/"],
+            "15": ["Jan 15", "What is browser isolation?", "https://www.cloudflare.com/learning/access-management/what-is-browser-isolation/"],
+            "14": ["Jan 14", "Is your mic really muted?", "https://www.kaspersky.com/blog/mute-button/44193/"],
+            "13": ["Jan 13", "CVE-2022-4908: SOP bypass in Chrome using Navigation API", "https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/"],
+            "12": ["Jan 12", "Integrate developer security training into vulnerability management", "https://gitlab.com/groups/gitlab-org/-/epics/6176"],
+            "11": ["Jan 11", "Analysis of ‘Adblock Professional for Youtube’ Extension", "https://medium.com/trendyol-tech/analysis-of-adblock-professional-for-youtube-extension-fab6042bc3ea"],
+            "10": ["Jan 10", "PyTorch TorchServer Vulnerability :: CVE-2023-43654 (SSRF + Deserialization → RCE)", "https://www.youtube.com/watch?v=IPrRccHlgLM"],
+            "9": ["Jan 9", "CVE-2022-4908: SOP bypass in Chrome using Navigation API", "https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/"],
+            "8": ["Jan 8", "10x Your AppSec Program with this One Simple Trick", "https://securing.dev/posts/10x-your-appsec-program/"],
+            "7": ["Jan 7", "Dropbox Engineering Career Framework", "https://dropbox.github.io/dbx-career-framework/ic3_security_engineer.html"],
+            "6": ["Jan 6", "Security at GitLab", "https://handbook.gitlab.com/handbook/security/"],
+            "5": ["Jan 5", "How to be in the top 1% in 2024", "https://medium.com/practice-in-public/how-to-be-in-the-top-1-in-2024-92266c1fe7ab"],
+            "4": ["Jan 4", "A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages! (blackhat 2017)", "https://www.youtube.com/watch?v=R9pJ2YCXoJQ"],
+            "3": ["Jan 3", "bitwarden heist - how to break into password vaults without using passwords", "https://blog.redteam-pentesting.de/2024/bitwarden-heist/"],
+            "2": ["Jan 2", "The SPACE of Developer Productivity", "https://queue.acm.org/detail.cfm?id=3454124"],
+            "1": ["Jan 1", "The WebP 0day", "https://blog.isosceles.com/the-webp-0day/"]
+    },
+    "2025" : {
+        "1" : ["jan 1", "test", "test"]
+    },
+    "snacks": {
+        "1": ["On Empathy & Pull Requests", "https://slack.engineering/on-empathy-pull-requests/"],
+        "0": ["Understanding \"same-site\" and \"same-origin\"", "https://web.dev/articles/same-site-same-origin"]
+    }
+}
