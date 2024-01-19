@@ -182,7 +182,6 @@ hr {
 
 .content {
     padding: 2em 3em 0;
-    max-width: 1000px;
     font-size: 110%;
     line-height: 1.45;
     color: #333332;
@@ -419,6 +418,7 @@ body {font-family: Arial;}
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
+  max-width: fit-content;
 }
 
 /* Style the buttons inside the tab */
@@ -441,7 +441,7 @@ body {font-family: Arial;}
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: rgb(18, 194, 32);
 }
 
 /* RWL Style END*/

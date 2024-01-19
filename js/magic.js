@@ -97,7 +97,6 @@ function createRWLTable(year) {
         rwltablediv.innerText = "";
 
         var rwltable = document.createElement("table");
-        rwltable.setAttribute("class", "responsive");
         var thead = document.createElement("thead");
         var headtr = document.createElement("tr");
     
