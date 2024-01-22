@@ -1,5 +1,6 @@
 {
     "2024": {
+        "22": ["Jan 22", "When URL parsers disagree (CVE-2023-38633) - Canva Engineering Blog", "https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/"],
         "21": ["Jan 21", "37C3 - Breaking \"DRM\" in Polish trains", "https://www.youtube.com/watch?v=XrlrbfGZo2k"],
         "20": ["Jan 20", "A Guide On Implementing An Effective SAST Workflow", "https://www.anshumanbhartiya.com/posts/sast-workflow"],
         "19": ["Jan 19", "A Lightweight Approach To Implement Secure Software Development LifeCycle (Secure SDLC)", "https://www.anshumanbhartiya.com/posts/secure-sdlc"],
@@ -26,6 +27,7 @@
         "1" : ["jan 1", "test", "test"]
     },
     "snacks": {
+        "2": ["Multi-Account Containers", "https://support.mozilla.org/en-US/kb/containers"],
         "1": ["On Empathy & Pull Requests", "https://slack.engineering/on-empathy-pull-requests/"],
         "0": ["Understanding \"same-site\" and \"same-origin\"", "https://web.dev/articles/same-site-same-origin"]
     }
