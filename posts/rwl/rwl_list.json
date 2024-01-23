@@ -1,5 +1,6 @@
 {
     "2024": {
+        "23": ["Jan 23", "Maker's Schedule, Manager's Schedule", "https://www.paulgraham.com/makersschedule.html"],
         "22": ["Jan 22", "When URL parsers disagree (CVE-2023-38633) - Canva Engineering Blog", "https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/"],
         "21": ["Jan 21", "37C3 - Breaking \"DRM\" in Polish trains", "https://www.youtube.com/watch?v=XrlrbfGZo2k"],
         "20": ["Jan 20", "A Guide On Implementing An Effective SAST Workflow", "https://www.anshumanbhartiya.com/posts/sast-workflow"],
