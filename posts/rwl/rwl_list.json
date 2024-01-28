@@ -1,5 +1,7 @@
 {
     "2024": {
+        "29": ["Jan 29", "Yes, GitHub's Copilot can Leak (Real) Secrets", "https://blog.gitguardian.com/yes-github-copilot-can-leak-secrets/"],
+        "28": ["Jan 28", "Size Matters: A Practical Guide to a 98% Reduction in Package Size with Day.js", "https://medium.com/insiderengineering/size-matters-a-practical-guide-to-a-98-reduction-in-package-size-with-day-js-8853a44d3546"],
         "27": ["Jan 27", "MLOps Nedir?", "https://www.veribilimiokulu.com/mlops-nedir/"],
         "26": ["Jan 26", "PHP Development Server <= 7.4.21 - Remote Source Disclosure", "https://blog.projectdiscovery.io/php-http-server-source-disclosure/"],
         "25": ["Jan 25", "Beyond The Code / SBOM: Supply Chain Security", "https://www.youtube.com/watch?v=30lIhTUpzOQ"],
