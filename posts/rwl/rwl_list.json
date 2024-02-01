@@ -1,5 +1,6 @@
 {
     "2024": {
+        "32": ["Feb 1", "Securely Hosting User Data in Modern Web Applications", "https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html"],
         "31": ["Jan 31", "Bypass kyc using deepfake", "https://infosecwriteups.com/bypassing-kyc-using-deepfake-e11f0722c722"],
         "30": ["Jan 30", "Using Cloudflare to bypass Cloudflare", "https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/"],
         "29": ["Jan 29", "Yes, GitHub's Copilot can Leak (Real) Secrets", "https://blog.gitguardian.com/yes-github-copilot-can-leak-secrets/"],
