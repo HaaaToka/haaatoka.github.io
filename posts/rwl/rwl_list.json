@@ -1,5 +1,6 @@
 {
     "2024": {
+        "33": ["Feb 2", "Do You Speak My Language? Make Static Analysis Engines Understand Each Other", "https://www.youtube.com/watch?v=6B_Q9HTVlWI&ab_channel=BlackHat"],
         "32": ["Feb 1", "Securely Hosting User Data in Modern Web Applications", "https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html"],
         "31": ["Jan 31", "Bypass kyc using deepfake", "https://infosecwriteups.com/bypassing-kyc-using-deepfake-e11f0722c722"],
         "30": ["Jan 30", "Using Cloudflare to bypass Cloudflare", "https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/"],
