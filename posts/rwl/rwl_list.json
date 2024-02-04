@@ -1,5 +1,7 @@
 {
     "2024": {
+        "35": ["Feb 4", "Zoncolan: How Facebook uses static analysis to detect and prevent security issues", "https://engineering.fb.com/2019/08/15/security/zoncolan/"],
+        "34": ["Feb 3", "Shannon Zhu - Leveraging the Type System to Write Secure Applications - PyCon 2019", " https://www.youtube.com/watch?v=ZplZ8ZBwu0Q"],
         "33": ["Feb 2", "Do You Speak My Language? Make Static Analysis Engines Understand Each Other", "https://www.youtube.com/watch?v=6B_Q9HTVlWI&ab_channel=BlackHat"],
         "32": ["Feb 1", "Securely Hosting User Data in Modern Web Applications", "https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html"],
         "31": ["Jan 31", "Bypass kyc using deepfake", "https://infosecwriteups.com/bypassing-kyc-using-deepfake-e11f0722c722"],
