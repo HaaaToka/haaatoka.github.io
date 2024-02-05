@@ -1,5 +1,7 @@
 {
     "2024": {
+        "37": ["Feb 6", "Breaking Bitlocker - Bypassing the Windows Disk Encryption", "https://www.youtube.com/watch?v=wTl4vEednkQ"],
+        "36": ["Feb 5", "Appsec Development: Keeping it all together at scale", "https://semgrep.dev/blog/2021/appsec-development-keeping-it-all-together-at-scale/"],
         "35": ["Feb 4", "Zoncolan: How Facebook uses static analysis to detect and prevent security issues", "https://engineering.fb.com/2019/08/15/security/zoncolan/"],
         "34": ["Feb 3", "Shannon Zhu - Leveraging the Type System to Write Secure Applications - PyCon 2019", " https://www.youtube.com/watch?v=ZplZ8ZBwu0Q"],
         "33": ["Feb 2", "Do You Speak My Language? Make Static Analysis Engines Understand Each Other", "https://www.youtube.com/watch?v=6B_Q9HTVlWI&ab_channel=BlackHat"],
