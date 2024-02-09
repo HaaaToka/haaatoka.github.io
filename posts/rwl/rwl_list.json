@@ -1,5 +1,7 @@
 {
     "2024": {
+        "41": ["Feb 10", "Scaling Appsec at Netflix (Part 2)", "https://netflixtechblog.com/scaling-appsec-at-netflix-part-2-c9e0f1488bc5"],
+        "40": ["Feb 9", "Scaling Appsec at Netflix", "https://netflixtechblog.medium.com/scaling-appsec-at-netflix-6a13d7ab6043"],
         "39": ["Feb 8", "Designing Security for Billions", "https://about.fb.com/news/2019/01/designing-security-for-billions/"],
         "38": ["Feb 7", "Secure Defaults: A Scalable Security Approach For Modern Development", "https://www.youtube.com/watch?app=desktop&v=dgBjOPZdqtI"],
         "37": ["Feb 6", "Breaking Bitlocker - Bypassing the Windows Disk Encryption", "https://www.youtube.com/watch?v=wTl4vEednkQ"],
