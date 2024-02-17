@@ -1,5 +1,6 @@
 {
     "2024": {
+        "48": ["Feb 17", "Yes, GitHub's Copilot can Leak (Real) Secrets", "https://blog.gitguardian.com/yes-github-copilot-can-leak-secrets"],
         "47": ["Feb 16", "AI-Powered Fuzzing: Breaking the Bug Hunting Barrier", "https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html"],
         "46": ["Feb 15", "OWASP Top 10 for LLM", "https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0.pdf"],
         "45": ["Feb 14", "Inside the Workflow Metrics of Elite Dev Teams", "https://devinterrupted.substack.com/p/inside-the-workflow-metrics-of-elite"],
