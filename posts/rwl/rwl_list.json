@@ -1,5 +1,6 @@
 {
     "2024": {
+        "50": ["Feb 19", "Magika: AI powered fast and efficient file type identification", "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"],
         "49": ["Feb 18", "Google SRE Effective Troubleshooting ", "https://sre.google/sre-book/effective-troubleshooting/"],
         "48": ["Feb 17", "Google SRE Introduction", "https://sre.google/sre-book/introduction/ "],
         "47": ["Feb 16", "AI-Powered Fuzzing: Breaking the Bug Hunting Barrier", "https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html"],
