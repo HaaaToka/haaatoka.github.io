@@ -1,5 +1,6 @@
 {
     "2024": {
+        "52": ["Feb 21", "Cross-site leaks(XS Leaks) Cheat Sheet", "https://cheatsheetseries.owasp.org/cheatsheets/XS_Leaks_Cheat_Sheet.html"],
         "51": ["Feb 20", "Qrljacking", "https://owasp.org/www-community/attacks/Qrljacking"],
         "50": ["Feb 19", "Magika: AI powered fast and efficient file type identification", "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"],
         "49": ["Feb 18", "Google SRE Effective Troubleshooting ", "https://sre.google/sre-book/effective-troubleshooting/"],
@@ -38,7 +39,7 @@
         "16": ["Jan 16", "Moving Fast and Securing Things", "https://slack.engineering/moving-fast-and-securing-things/"],
         "15": ["Jan 15", "What is browser isolation?", "https://www.cloudflare.com/learning/access-management/what-is-browser-isolation/"],
         "14": ["Jan 14", "Is your mic really muted?", "https://www.kaspersky.com/blog/mute-button/44193/"],
-        "13": ["Jan 13", "CVE-2022-4908: SOP bypass in Chrome using Navigation API", "https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/"],
+        "13": ["Jan 13", "Vulnerability Management with DefectDojo — is it great for DevSecOps?", "https://itnext.io/vulnerability-management-with-defectdojo-is-it-great-for-devsecops-3da455d2852b"],
         "12": ["Jan 12", "Integrate developer security training into vulnerability management", "https://gitlab.com/groups/gitlab-org/-/epics/6176"],
         "11": ["Jan 11", "Analysis of ‘Adblock Professional for Youtube’ Extension", "https://medium.com/trendyol-tech/analysis-of-adblock-professional-for-youtube-extension-fab6042bc3ea"],
         "10": ["Jan 10", "PyTorch TorchServer Vulnerability :: CVE-2023-43654 (SSRF + Deserialization → RCE)", "https://www.youtube.com/watch?v=IPrRccHlgLM"],
