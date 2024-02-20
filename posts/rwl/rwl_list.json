@@ -1,5 +1,6 @@
 {
     "2024": {
+        "51": ["Feb 20", "Qrljacking", "https://owasp.org/www-community/attacks/Qrljacking"],
         "50": ["Feb 19", "Magika: AI powered fast and efficient file type identification", "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"],
         "49": ["Feb 18", "Google SRE Effective Troubleshooting ", "https://sre.google/sre-book/effective-troubleshooting/"],
         "48": ["Feb 17", "Google SRE Introduction", "https://sre.google/sre-book/introduction/ "],
