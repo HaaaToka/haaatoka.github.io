@@ -1,5 +1,6 @@
 {
     "2024": {
+        "53": ["Feb 22", "The fundamentals of static analysis for vulnerability research", "https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research"],
         "52": ["Feb 21", "Cross-site leaks(XS Leaks) Cheat Sheet", "https://cheatsheetseries.owasp.org/cheatsheets/XS_Leaks_Cheat_Sheet.html"],
         "51": ["Feb 20", "Qrljacking", "https://owasp.org/www-community/attacks/Qrljacking"],
         "50": ["Feb 19", "Magika: AI powered fast and efficient file type identification", "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"],
