@@ -1,5 +1,6 @@
 {
     "2024": {
+        "55": ["Feb 24", "5 ways to make your DevSecOps strategy developer-friendly", "https://github.blog/2024-01-05-5-ways-to-make-your-devsecops-strategy-developer-friendly/"],
         "54": ["Feb 23", "The architecture of SAST tools: An explainer for developers", "https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/"],
         "53": ["Feb 22", "The fundamentals of static analysis for vulnerability research", "https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research"],
         "52": ["Feb 21", "Cross-site leaks(XS Leaks) Cheat Sheet", "https://cheatsheetseries.owasp.org/cheatsheets/XS_Leaks_Cheat_Sheet.html"],
