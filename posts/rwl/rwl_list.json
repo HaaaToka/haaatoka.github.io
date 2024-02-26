@@ -1,5 +1,6 @@
 {
     "2024": {
+        "57": ["Feb 26", "Breaking PHP’s Garbage Collection and Unserialize", "https://www.evonide.com/breaking-phps-garbage-collection-and-unserialize/"],
         "56": ["Feb 25", "How we broke PHP, hacked Pornhub and earned $20,000", "https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/"],
         "55": ["Feb 24", "5 ways to make your DevSecOps strategy developer-friendly", "https://github.blog/2024-01-05-5-ways-to-make-your-devsecops-strategy-developer-friendly/"],
         "54": ["Feb 23", "The architecture of SAST tools: An explainer for developers", "https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/"],
