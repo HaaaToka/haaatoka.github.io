@@ -1,5 +1,7 @@
 {
     "2024": {
+        "63": ["Mar 3", "Microsoft Edge (Chromium) - EoP via XSS to Potential RCE", "https://leucosite.com/Edge-Chromium-EoP-RCE/"],
+        "62": ["Mar 2", "runC Escape Vulnerability CVE-2024-21626", "https://nitroc.org/en/posts/cve-2024-21626-illustrated/"],
         "61": ["Mar 1", "Pareto Principle", "https://asana.com/resources/pareto-principle-80-20-rule"],
         "60": ["Feb 29", "The Science Behind Quotes", "https://www.linkedin.com/pulse/science-behind-quotes-how-use-them-8-benefits-5-tips-tom/"],
         "59": ["Feb 28", "Magika ai powered file type identification", "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html?m=1"],
