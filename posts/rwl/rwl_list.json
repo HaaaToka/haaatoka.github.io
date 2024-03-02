@@ -68,6 +68,7 @@
         "1" : ["jan 1", "test", "test"]
     },
     "snacks": {
+        "3": ["Frame Sandboxing", "https://webkit.org/demos/frames/sandboxing/"],
         "2": ["Multi-Account Containers", "https://support.mozilla.org/en-US/kb/containers"],
         "1": ["On Empathy & Pull Requests", "https://slack.engineering/on-empathy-pull-requests/"],
         "0": ["Understanding \"same-site\" and \"same-origin\"", "https://web.dev/articles/same-site-same-origin"]
