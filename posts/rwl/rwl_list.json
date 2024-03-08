@@ -1,5 +1,6 @@
 {
     "2024": {
+        "68": ["Mar 8", "Disrupting malicious uses of AI by state-affiliated threat actors", "https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors"],
         "67": ["Mar 7", "A Recipe for Scaling Security", "https://bughunters.google.com/blog/5896512897417216/a-recipe-for-scaling-security"],
         "66": ["Mar 6", "Prevent DOM-based cross-site scripting vulnerabilities with Trusted Types", "https://web.dev/articles/trusted-types"],
         "65": ["Mar 5", "ChatGpt xss", "https://www.imperva.com/blog/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/"],
