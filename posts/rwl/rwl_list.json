@@ -1,5 +1,6 @@
 {
     "2024": {
+        "72": ["Mar 12", "SMS Security & Privacy Gaps Make It Clear Users Need a Messaging Upgrade", "https://security.googleblog.com/2023/09/sms-security-privacy-gaps-make-it-clear.html"],
         "71": ["Mar 11", "Using shadow DOM", "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM"],
         "70": ["Mar 10", "AppSec is harder than you think. Here’s how AI can help", "https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help"],
         "69": ["Mar 9", "Fixing sec vulnerability with ai", "https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/"],
