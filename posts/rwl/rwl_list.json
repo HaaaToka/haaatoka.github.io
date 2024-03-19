@@ -1,5 +1,6 @@
 {
     "2024": {
+        "79": ["Mar 19", "Why Google Stores Billions of Lines of Code in a Single Repository", "https://dl.acm.org/doi/pdf/10.1145/2854146"],
         "78": ["Mar 18", "AI-powered patching: the future of automated vulnerability fixes", "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/4fd3441fe40bb74e3f94f5203a17399af07b115c.pdf"],
         "77": ["Mar 17", "Bypass Two-Factor Authentication of Facebook Accounts", "https://www.linkedin.com/pulse/bypass-two-factor-authentication-facebook-accounts-25300-bazzoun"],
         "76": ["Mar 16", "Mastering Chaos - A Netflix Guide to Microservices", "https://www.infoq.com/presentations/netflix-chaos-microservices/"],
