@@ -1,5 +1,8 @@
 {
     "2024": {
+        "83": ["Mar 23", "[TR]How do I plan a productive week? 4 basic principles", "https://www.youtube.com/watch?v=kg9ky1VpIpo"],
+        "82": ["Mar 22", "Could Passwordless be Worse than Passwords?", "https://www.youtube.com/watch?v=3iLEWRIu4ww"],
+        "81": ["Mar 21", "Regular expressions are good, actually", "https://www.youtube.com/watch?v=aqlZKOaIDL0"],
         "80": ["Mar 20", "Hacking Hackers for fun and profit", "https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8"],
         "79": ["Mar 19", "Why Google Stores Billions of Lines of Code in a Single Repository", "https://dl.acm.org/doi/pdf/10.1145/2854146"],
         "78": ["Mar 18", "AI-powered patching: the future of automated vulnerability fixes", "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/4fd3441fe40bb74e3f94f5203a17399af07b115c.pdf"],
@@ -53,7 +56,7 @@
         "30": ["Jan 30", "Using Cloudflare to bypass Cloudflare", "https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/"],
         "29": ["Jan 29", "Yes, GitHub's Copilot can Leak (Real) Secrets", "https://blog.gitguardian.com/yes-github-copilot-can-leak-secrets/"],
         "28": ["Jan 28", "Size Matters: A Practical Guide to a 98% Reduction in Package Size with Day.js", "https://medium.com/insiderengineering/size-matters-a-practical-guide-to-a-98-reduction-in-package-size-with-day-js-8853a44d3546"],
-        "27": ["Jan 27", "MLOps Nedir?", "https://www.veribilimiokulu.com/mlops-nedir/"],
+        "27": ["Jan 27", "[TR]What is MLOps?", "https://www.veribilimiokulu.com/mlops-nedir/"],
         "26": ["Jan 26", "PHP Development Server <= 7.4.21 - Remote Source Disclosure", "https://blog.projectdiscovery.io/php-http-server-source-disclosure/"],
         "25": ["Jan 25", "Beyond The Code / SBOM: Supply Chain Security", "https://www.youtube.com/watch?v=30lIhTUpzOQ"],
         "24": ["Jan 24", "Model Confusion - Weaponizing ML models for red teams and bounty hunters", "https://5stars217.github.io/2023-08-08-red-teaming-with-ml-models/"],
