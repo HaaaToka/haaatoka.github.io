@@ -1,5 +1,6 @@
 {
     "2024": {
+        "86": ["Mar 26", "Web LLM attacks Lab", "https://portswigger.net/web-security/llm-attacks"],
         "85": ["Mar 25", "Comparing Semgrep and CodeQL", "https://blog.doyensec.com/2022/10/06/semgrep-codeql.html"],
         "84": ["Mar 24", "Real-time Messaging", "https://slack.engineering/real-time-messaging/"],
         "83": ["Mar 23", "[TR]How do I plan a productive week? 4 basic principles", "https://www.youtube.com/watch?v=kg9ky1VpIpo"],
