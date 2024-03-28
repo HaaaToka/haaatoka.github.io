@@ -1,5 +1,6 @@
 {
     "2024": {
+        "88": ["Mar 28", "Discovery of Known Vulnerabilities and Inventories for Modern Applications", "https://medium.com/sda-se/discovery-of-known-vulnerabilities-and-inventories-for-modern-applications-fb8542555c05"],
         "87": ["Mar 27", "Unleashing Engineering Creativity: GitHub’s Blueprint for Security and Innovation", "https://mission.org/it-visionaries/unleashing-engineering-creativity-githubs-blueprint-for-security-and-innovation/"],
         "86": ["Mar 26", "Web LLM attacks Lab", "https://portswigger.net/web-security/llm-attacks"],
         "85": ["Mar 25", "Comparing Semgrep and CodeQL", "https://blog.doyensec.com/2022/10/06/semgrep-codeql.html"],
