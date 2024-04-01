@@ -1,5 +1,7 @@
 {
     "2024": {
+        "92": ["Apr 1", "April Fool's Day", "https://en.wikipedia.org/wiki/April_Fools%27_Day"],
+        "91": ["Mar 31", "The Paved PaaS to Microservices at Netflix", "https://www.youtube.com/watch?v=BjKJyWeg88c"],
         "90": ["Mar 30", "backdoor in upstream xz/liblzma leading to ssh server compromise", "https://lwn.net/ml/oss-security/20240329155126.kjjfduxw2yrlxgzm@awork3.anarazel.de/"],
         "89": ["Mar 29", "Can AI(ChatGPT) Fix Vulnerable Code?", "https://www.youtube.com/watch?v=nM6BZDrez9I"],
         "88": ["Mar 28", "Discovery of Known Vulnerabilities and Inventories for Modern Applications", "https://medium.com/sda-se/discovery-of-known-vulnerabilities-and-inventories-for-modern-applications-fb8542555c05"],
