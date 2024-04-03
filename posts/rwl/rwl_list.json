@@ -1,5 +1,6 @@
 {
     "2024": {
+        "94": ["Apr 3", "Bypassing the 'run-as' debuggability check on Android via newline injection", "https://rtx.meta.security/exploitation/2024/03/04/Android-run-as-forgery.html"],
         "93": ["Apr 2", "No heroes needed", "https://rpadovani.com/no-heroes"],
         "92": ["Apr 1", "April Fool's Day", "https://en.wikipedia.org/wiki/April_Fools%27_Day"],
         "91": ["Mar 31", "The Paved PaaS to Microservices at Netflix", "https://www.youtube.com/watch?v=BjKJyWeg88c"],
