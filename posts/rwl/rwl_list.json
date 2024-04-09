@@ -1,5 +1,9 @@
 {
     "2024": {
+        "100": ["Apr 9", "Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%", "https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90"],
+        "99": ["Apr 8", "Google OAuth is broken (sort of)", "https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/"],
+        "98": ["Apr 7", "How to Stay Motivated Even If You Don't Feel Like It?", "https://www.youtube.com/watch?v=auXXdzlKbOY"],
+        "97": ["Apr 6", "Capturing A Billion Emo(j)i-ons", "https://blog.hotstar.com/capturing-a-billion-emojis-62114cc0b440"],
         "96": ["Apr 5", "Global AppSec Dublin: [T]OTPs Are Not As Secure As You Might Believe", "https://www.youtube.com/watch?v=K3myOx4HI90"],
         "95": ["Apr 4", "#HITB2023AMS - How MySQL Servers Can Attack YOU", "https://www.youtube.com/watch?v=Qz92QTo9yr8"],
         "94": ["Apr 3", "Bypassing the 'run-as' debuggability check on Android via newline injection", "https://rtx.meta.security/exploitation/2024/03/04/Android-run-as-forgery.html"],
