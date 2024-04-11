@@ -1,5 +1,6 @@
 {
     "2024": {
+        "102": ["Apr 11", "SLSA dip — At the Source of the problem!", "https://medium.com/boostsecurity/slsa-dip-source-of-the-problem-a1dac46a976"],
         "101": ["Apr 10", "Developer Productivity Engineering at Netflix", "https://thenewstack.io/developer-productivity-engineering-at-netflix"],
         "100": ["Apr 9", "Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%", "https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90"],
         "99": ["Apr 8", "Google OAuth is broken (sort of)", "https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/"],
