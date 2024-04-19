@@ -1,5 +1,7 @@
 {
     "2024": {
+        "110": ["Apr 19", "Better dSAFER than Sorry - An Attacker's Overview of Ghostscript", "https://blog.redteam-pentesting.de/2023/ghostscript-overview/"],
+        "109": ["Apr 18", "X-Content-Type-Options HTTP Header", "https://www.keycdn.com/support/x-content-type-options"],
         "108": ["Apr 17", "Telegram Has Been Hacked", "https://www.youtube.com/watch?v=6JY3uaLSflk"],
         "107": ["Apr 16", "BSidesLV23 - Build hybrid mobile applications like a security pro", "https://www.youtube.com/watch?v=gtmxnTZdUr8"],
         "106": ["Apr 15", "Turn Tree into Graph: Automatic Code Review via Simplified AST Driven Graph Convolutional Network", "https://arxiv.org/pdf/2202.07946.pdf"],
