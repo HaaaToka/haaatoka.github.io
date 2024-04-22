@@ -1,5 +1,6 @@
 {
     "2024": {
+        "113": ["Apr 22", "Device Bound Session Credentials explainer", "https://github.com/WICG/dbsc/blob/main/README.md"],
         "112": ["Apr 21", "What is shadow IT?", "https://www.cloudflare.com/learning/access-management/what-is-shadow-it/"],
         "111": ["Apr 20", "What is Zero Trust?", "https://www.crowdstrike.com/cybersecurity-101/zero-trust-security/"],
         "110": ["Apr 19", "Better dSAFER than Sorry - An Attacker's Overview of Ghostscript", "https://blog.redteam-pentesting.de/2023/ghostscript-overview/"],
