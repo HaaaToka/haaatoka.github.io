@@ -1,5 +1,7 @@
 {
     "2024": {
+        "116": ["Apr 25", "Rook to XSS: How I hacked chess.com with a rookie exploit", "https://skii.dev/rook-to-xss/"],
+        "115": ["Apr 24", "Malicious Code Campaign on GitHub Repos: Is it Hype or a Dire Threat?", "https://www.arnica.io/blog/malicious-code-campaign-on-github-repos"],
         "114": ["Apr 23", "Finding Hidden Gems in Temporary Mail Services", "https://www.youtube.com/watch?v=0Zbp-LAQZb8"],
         "113": ["Apr 22", "Device Bound Session Credentials explainer", "https://github.com/WICG/dbsc/blob/main/README.md"],
         "112": ["Apr 21", "What is shadow IT?", "https://www.cloudflare.com/learning/access-management/what-is-shadow-it/"],
