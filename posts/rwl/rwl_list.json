@@ -1,5 +1,6 @@
 {
     "2024": {
+        "119": ["Apr 28", "Thanksgiving 2023 security incident", "https://blog.cloudflare.com/thanksgiving-2023-security-incident/"],
         "118": ["Apr 27", "GitHub “besieged” by malware repositories and repo confusion: Why you'll be ok", "https://snyk.io/blog/github-malware-repositories-repo-confusion/"],
         "117": ["Apr 26", "Trusted vs trustworthy", "https://www.oreilly.com/content/trusted-vs-trustworthy/"],
         "116": ["Apr 25", "Rook to XSS: How I hacked chess.com with a rookie exploit", "https://skii.dev/rook-to-xss/"],
