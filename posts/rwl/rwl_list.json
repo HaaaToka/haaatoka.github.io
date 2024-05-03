@@ -1,5 +1,6 @@
 {
     "2024": {
+        "124": ["May 3", "uBlock, I exfiltrate: exploiting ad blockers with CSS", "https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css"],
         "123": ["May 2", "Don’t Force Yourself to Become a Bug Bounty Hunter", "https://samcurry.net/dont-force-yourself-to-become-a-bug-bounty-hunter/"],
         "122": ["May 1", "International Workers' Day", "https://en.wikipedia.org/wiki/International_Workers%27_Day"],
         "121": ["Apr 30", "Accelerating incident response using generative AI", "https://security.googleblog.com/2024/04/accelerating-incident-response-using.html"],
