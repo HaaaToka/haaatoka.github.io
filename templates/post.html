@@ -1,6 +1,7 @@
 <!doctype html>
 
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,11 +44,11 @@
                 <section class="post">
                     <header class="post-header">
                         <h1>{{ article.title }}</h1>
-                            <p class="post-meta">
-                                // under {% for tag in article.tags %}
-                                    <a class="post-category" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-                                {% endfor %}
-                            </p>
+                        <p class="post-meta">
+                            // under {% for tag in article.tags %}
+                            <a class="post-category" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+                            {% endfor %}
+                        </p>
                     </header>
                 </section>
                 {{ article.content }}
@@ -60,12 +61,10 @@
                     Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
                 </p>
             </footer>
-            
+
         </div>
         <!-- /POST -->
     </div>
-
-    
 
 </body>
 

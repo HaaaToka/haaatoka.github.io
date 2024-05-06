@@ -445,9 +445,10 @@ body {
 .tab button.active {
     background-color: rgb(18, 194, 32);
 }
+
 /* RWL Style END*/
 
-/* QR2QH Style END*/
+/* QR2QH Style*/
 .container img {
     height: 100%;
     width: 100%;
