@@ -1,47 +1,44 @@
 {
+    "6" : {
+        "link" : "./posts/qr2qh.html",
+        "title" : "Quick Response(QR) to Quick Hack",
+        "foreword" :"<p>Funny hack story on how I got the golden ticket to enter the gym</p>",
+        "date":"12.05.2024",
+        "last update" : "12.05.2024"
+    },
     "5" : {
         "link" : "./posts/rwl/rwl.html",
         "title" : "Reading/Watching/Listening List",
-        "postUpdate" : "",
         "foreword" :"<p>I share the articles I read, videos I watch, and podcasts I listen to daily(at least I try).</p>",
-        "date":"01.07.2024",
-        "last update" : "See the latest date in the table in the post ;)",
-        "category" : "rwl"
+        "date":"07.01.2024",
+        "last update" : "See the latest date in the table in the post ;)"
     },
     "4" : {
         "link" : "./posts/tr/gpt3unturkceileimtehani.html",
         "title" : "GPT-3'ün Türkçe ile İmtihanı",
-        "postUpdate" : "",
         "foreword" :"<p><em>`Generative Pre-trained Transformer 3</em> (Türkçe: Üretken Ön İşlemeli Dönüştürücü 3) kısaca GPT-3, insanların yazdığı metinlere benzer içerik üretmek için derin öğrenmeyi kullanan öz bağlanımlı dil modelidir. GPT-n serisindeki üçüncü nesil dil tahmin modeli olan GPT-3, San Francisco merkezli yapay zeka araştırma laboratuvarı OpenAI tarafından geliştirilmiştir.</p>",
         "date":"01.02.2021",
-        "last update" : "01.02.2021",
-        "category" : "gpt-3"
+        "last update" : "01.02.2021"
     },
     "3" : {
         "link" : "./posts/huprog19.html",
         "title" : "HUPROG'19",
-        "postUpdate" : "",
         "foreword" :"<p><strong>HUPROG</strong> is Hacettepe University Programming Competition 2019 is the greatest success of my life.</p>",
         "date":"10.04.2019",
-        "last update" : "10.04.2019",
-        "category" : "participated"
+        "last update" : "10.04.2019"
     },
     "2" : {
         "link" : "./posts/acmhacettepectf.html",
         "title" : "ACMCTF'18",
-        "postUpdate" : "",
         "foreword" :"<p><strong>ACMCTF</strong> is capture the flag competition</p>",
         "date":"20.05.2018",
-        "last update" : "20.05.2018",
-        "category" : "participated"
+        "last update" : "20.05.2018"
     },
     "1" : {
         "link" : "./posts/huprog18.html",
         "title" : "HUPROG'18",
-        "postUpdate" : "",
         "foreword" :"<p><strong>HUPROG</strong>(Hacettepe University Programming Contest) is a competitive programming competition. We are the organizers of first the first and only programming contest of our university and we reached out to top programmer students, encouraged them in competitive programming for 2 years.</p>",
         "date":"24.03.2018",
-        "last update" : "24.03.2018",
-        "category" : "participated"
+        "last update" : "24.03.2018"
     }
 }
