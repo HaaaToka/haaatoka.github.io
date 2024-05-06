@@ -224,3 +224,25 @@ function createSnackTable() {
   });
 
 }
+
+// QR2QH
+
+function popmeup(el) {
+  console.log(el);
+  console.log(el.childNodes);
+  // Get the modal
+  var modal = document.getElementById("popUpModal");
+  var captionText = document.getElementById("caption");
+
+  var modalImg = document.getElementById("imgHere");
+
+  modal.style.display = "block";
+  modalImg.src = el.childNodes[1].src;
+  captionText.innerHTML = el.childNodes[3].innerText;
+}
+function closePopUp() {
+  var modal = document.getElementById("popUpModal");
+  // Get the <span> element that closes the modal
+  // When the user clicks on <span> (x), close the modal
+  modal.style.display = "none";
+}
