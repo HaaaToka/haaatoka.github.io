@@ -1,5 +1,6 @@
 {
     "2024": {
+        "127": ["May 6", "How to Prevent the next Heartbleed", "https://dwheeler.com/essays/heartbleed.html"],
         "126": ["May 5", "Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds", "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/"],
         "125": ["May 4", "The three-or-four-hours rule for getting creative work done", "https://www.oliverburkeman.com/fourhours"],
         "124": ["May 3", "uBlock, I exfiltrate: exploiting ad blockers with CSS", "https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css"],
