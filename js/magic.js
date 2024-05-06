@@ -87,7 +87,7 @@ function arrangePost(elementid, category = "all") {
 
     Object.entries(postList).reverse().forEach(entry => {
       const [key, info] = entry;
-      if (category === "all" || category === info.category) {
+      if (category === "all" || info.category.includes(category)) {
         myposts.appendChild(createNewPostPreview(info));
       }
     });
