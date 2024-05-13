@@ -1,5 +1,7 @@
 {
     "2024": {
+        "135": ["May 14", "Hacking AI Bias while Hacking Human Bias", "https://securing.dev/posts/hacking-ai-bias/"],
+        "134": ["May 13", "Starting Strong: Strategies for Developing an Effective Application Security Program", "https://medium.com/doubleverify-engineering/starting-strong-strategies-for-developing-an-effective-application-security-program-ef3f954242c8"],
         "133": ["May 12", "Mother's Day", "https://en.wikipedia.org/wiki/Mother's_Day"],
         "132": ["May 11", "Securing the Software Supply Chain with LLMs", "https://a16z.com/podcast/securing-the-software-supply-chain-with-llms/"],
         "131": ["May 10", "Hacking Google Bard - From Prompt Injection to Data Exfiltration", "https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/"],
