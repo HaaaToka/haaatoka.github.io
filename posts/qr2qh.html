@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Okan ALAN Personal Blog">
+    <meta name="description" content="used https://github.com/PurePelicanTheme/pure">
+
+    <link rel="stylesheet" href="/css/pure.css">
+    <link rel="stylesheet" href="/css/pygments.css">
+
+    <script src="/js/magic.js"></script>
+
+    <title>Quick Response(QR) to Quick Hack</title>
+</head>
+
+<body>
+
+    <!-- The Modal -->
+    <div id="popUpModal" class="modal">
+        <span class="close" onclick="closePopUp()">&times;</span>
+        <img class="modal-content" id="imgHere">
+        <div id="caption"></div>
+    </div>
+
+    <div class="pure-g-r" id="layout">
+
+        <!-- Index Page Left Sidebar Begin -->
+        <div class="sidebar sidebar-article pure-u">
+            <header class="header-article">
+                <hgroup>
+                    <a href="https://haaatoka.github.io/author.html" title="See posts by HaaaToka">
+                        <img class="avatar" alt="HaaaToka" src="https://avatars.githubusercontent.com/u/27926328?v=4">
+                    </a>
+                    <h2 class="article-info">HaaaToka</h2>
+                    <small class="about-author"></small>
+                    <h5>Published</h5>
+                    <p>30.05.2024</p>
+                    <a href="/">&larr;Home</a>
+                </hgroup>
+            </header>
+        </div>
+        <!-- Index Page Left Sidebar End -->
+
+        <!-- POST -->
+        <div class="pure-u">
+            <div class="content">
+
+                <section class="post">
+                    <header class="post-header">
+                        <h1>Quick Response(QR) to Quick Hack</h1>
+                        <p class="post-meta">
+                            // under <a class="post-category" href="/category.html?c=hack">hack</a>
+                        </p>
+                    </header>
+                </section>
+
+                <div class="container">
+
+                    <p>
+                        This blog post explains how I obtained a gym golden ticket by using my cyber security knowledge
+                        in the entrance turnstile system used by more than 100 gyms across Turkey. Since I have a
+                        sedentary job as a security engineer, I go to the gym regularly for a healthy life. A few weeks
+                        ago, the owners of the gym completely transformed the place by rearranging things such as the
+                        location of equipment, the sections of the locker rooms, the entrance method of the gym, etc. We
+                        were using the ID card they gave us to enter the gym, but now the system has changed and it is
+                        possible to enter with QR (Quick Response) code using a mobile app.
+                    </p>
+
+                    <p>
+                        To use this new QR entrance system, we need to do the following steps in order:
+                        <ol>
+                            <li>Download the gym’s mobile application</li>
+                            <li>To log in to the mobile app we need to request login credentials(in the form of a QR code)
+                                generated specifically for us from personal trainers.</li>
+                            <li>Using the mobile application, we can trigger the turnstile system and enter the gym by
+                                scanning the QR code on the turnstile's monitor.</li>
+                        </ol>
+                    </p>
+
+                    <figure class="fgrimgf" onclick="popmeup(this)">
+                        <img src="/img/htg/happy-path-flow.png">
+                        <figcaption>Image 1 - Happy Path of New Enterance Flow</figcaption>
+                    </figure>
+
+                    <h3> Step 1: Download app </h3>
+
+                    <p>
+                        As a habit from CTFs for mobile application questions, I immediately opened the Android emulator
+                        to test the gym mobile application and downloaded and installed the APK.
+                        At the same time, I also decompiled the APK in hopes of finding forgotten secret information or
+                        something interesting.
+                        The application welcomes us as seen in the 2nd image.
+                    </p>
+
+                    <figure class="fgrimgv" onclick="popmeup(this)">
+                        <img src="/img/htg/welcoming.png">
+                        <figcaption>Image 2</figcaption>
+                    </figure>
+
+                    <h3> Step 2: Log in to the app </h3>
+
+                    <h4> The HARDEST WAY </h4>
+
+                    <p>
+                        As you can see from the welcoming screen(Image 2) we have 2 options:
+                    </p>
+
+                    <h5> Login Method #1 : Add Account Manually </h5>
+
+                    <p>
+                        The application expects me to enter my account code to log in. There's a hint about where the
+                        code is. `The account code can be sent to you by your gym, if you are a subscriber, in cases
+                        where your camera is faulty and cannot read the QR code. The decision to send this code depends
+                        entirely on the will of the gym you subscribe to.` Ok. Now, let's begin poking around the mobile
+                        application a little bit and examining the traffic created by the mobile application using the
+                        proxy setup I made with Burp. I first looked at the manual option (Image 3) because I had to
+                        find only the account code.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/addAccountManually.png">
+                        <figcaption>Image 3</figcaption>
+                    </figure>
+
+                    <p>
+                        As you can see from the request, when I typed some random account code and click on the `Add
+                        Account` button, the app sends the request above. Even if I change any parameters in the POST
+                        body, the API server returns the same dummy JSON response to me till I give it the correct one.
+                        After the application receives a response, even a fake one, from the API server, it directs us
+                        to the home screen and adds a login button. However, if I click the login button, an information box
+                        with the following warning message(Image 4) appears on our screen.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/manuel_login_error.png">
+                        <figcaption>Image 4</figcaption>
+                    </figure>
+
+                    <h5> Login Method #2 : Add QR Account </h5>
+
+                    <p>
+                        Let’s examine the other option which is ‘Add QR Account’. It opens the camera and expects a QR
+                        code when I click on it.
+                        To see what happens when the app reads a QR code, I generated a QR code from the response to the
+                        manual account-adding request.
+                        Surprisingly, the app is crushed when it detects the QR code. I couldn't find the root cause of
+                        the problem, yeah it was a fun ending.
+                    </p>
+
+                    <p>
+                        Time to dig deeper and look at the source code obtained from the decompiled apk of the mobile
+                        application.
+                        First of all, I looked for secrets such as sample account code or QR code.
+                        I did not have any clue but I encountered a code snippet(Image 5) that extracts some keys for
+                        account QR.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/addaccountQR_sourcecode.png">
+                        <figcaption>Image 5 (hellow)</figcaption>
+                    </figure>
+
+                    <p>
+                        I didn’t do any adding or removing lines in the source code.
+                        All the gibberish debug purpose prints and comments belong to the mobile app developer and are
+                        left behind in the application.
+                        I have added translations of Turkish texts for you in the image I specified using white arrows.
+                    </p>
+
+                    <p>
+                        Then I crafted another QR code using the `userId, qrLicense, userName, companyName, server` keys
+                        of a JSON.
+                    </p>
+
+                    <p>
+                        <code>
+                            {"userId":"1", "qrLicense":"asd", "userName":"OKAN", "companyName":"GYM", "server":"mygym"}
+                        </code>
+                    </p>
+
+                    <p>
+                        Unfortunately, the application crashed again. I insisted on creating the necessary QR code for
+                        adding accounts via QR to work properly.
+                        In the decompiled apk, I found the piece of code(Image 6) below that shows all the keys I need.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/qr_icerik.png">
+                        <figcaption>Image 6</figcaption>
+                    </figure>
+
+                    <p>
+                        <code>
+                            {"userName":"OKAN", "userId":"1", "qrLicense":"1", "urlProtokol":"http://", "server":"mygym", "qrFile":"mobile/checkuserqr.php", "companyName":"GYM", "companyPhone":"", "companyAddress":""}
+                        </code>
+                    </p>
+
+                    <p>
+                        I recreated the QR code using the above JSON. The application was no longer crashing, but it was
+                        not redirecting to the home screen and adding a login button.
+                        Then I looked at the requests sent by the app, I noticed that the request (image 7) did not receive 
+                        a response due to invalid domain name that was not resolved.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/apiservice_accountadd-unknownhost.png">
+                        <figcaption>Image 7</figcaption>
+                    </figure>
+
+                    <p>
+                        I turned back to the decompiled code.
+                        I realized the application could not create a proper request because the data in the QR I
+                        created was incorrect so I detected the faulty piece of JSON which was the server key.
+                        According to Image 5, it must be a domain name because the code tokenizes the server key to
+                        create cp_account and qr_server variables.
+                        I crafted JSON that contains a qr_server key suitable for the app's tokenization.
+                        Then, I got the ` SQLSTATE[HY000] [1049] Unknown database 'mg_xyz' ` error(image 8) until I
+                        found the correct cpaccount.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/accountadd_dbconnetc-error.png">
+                        <figcaption>Image 8</figcaption>
+                    </figure>
+
+                    <p>
+                        Guessing the correct cpaccount took a little time.
+                        While browsing through the resources I had, I found it in the QR on the turnstile screen that
+                        allows us to enter the gym by scanning it using the mobile application.
+                    </p>
+
+                    <figure class="fgrimgv" onclick="popmeup(this)">
+                        <img src="/img/htg/fake-turnstile-qrcode.jpg"
+                            style="width:15%;height:25%; display: block; margin: 0 auto;">
+                        <figcaption>Image 9 (mygym.domain.com-000123000034503ed-34057)</figcaption>
+                    </figure>
+
+                    <p>
+                        But this time I encountered the LicenseNotFound error. I needed to find the qrLicense or account 
+                        code to log in to the app. I noticed that there is a file called syncDB. SQLite Database is used
+                        to store user's information locally. It consists of functions that suffer from SQL injection.
+                        When I saw poorly written SQL queries, I assumed that it might also be on the API server and
+                        sent requests containing a malicious parameter that could cause SQL injection,
+                        but I did not get any error from the API backend. Unfortunately, it didn’t work :(
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/sql_injection.png">
+                        <figcaption>Image 10</figcaption>
+                    </figure>
+
+                    <p>
+                        I turned back to examining the source code hoping to find a hardcoded account code or qrlicense
+                        but couldn't find anything. I extracted all the links in the source code, thinking maybe I could 
+                        find an API endpoint that was having a broken access control issue and could reveal the qrLicense 
+                        or account code information. After all of the matches the links were collected, I prioritized a few 
+                        notable links and created requests for the links as implemented in the source code. I was so lucky 
+                        because using the third one I got amazing pieces of information(Image 11).
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/getqr_homeinfo.png">
+                        <figcaption>Image 11</figcaption>
+                    </figure>
+
+                    <p>
+                        I was shocked because it was returning all kinds of information I need about a user.
+                        The qrlicense was empty because a client with userid 1 had not yet defined the QR login but I
+                        increased the userid fields one by one and after tens of IDs I got a valid qrlicense.
+                        I created a QR code using the JSON below and I was in.
+                    </p>
+
+                    <p>
+                        <code>
+                            {"userName":"OKAN", "userId":"..1", "qrLicense":"topsecret!", "urlProtokol":"http://", "server":"mygym.domain.com", "qrFile":"mobile/checkuserqr.php", "companyName":"GYM", "companyPhone":"", "companyAddress":""}
+                        </code>
+                    </p>
+
+                    <figure class="fgrimgv" onclick="popmeup(this)">
+                        <img src="/img/htg/logged-in.png">
+                        <figcaption>Image 12</figcaption>
+                    </figure>
+
+                    <h4> The EASIEST WAY </h4>
+
+                    <p>
+                        After I authenticated an account into the mobile application, I visited the host address in the
+                        turnstile QR code via my web browser and encountered a login panel(Image 13).
+                        Then I tried the first default admin credentials that came to my mind... and I was in the admin
+                        panel. WTF.
+                        Again and again, <b>the default username and password problem</b>. What can I do with this
+                        panel?
+                        Update my subscription expiration date, add money to my gym e-wallet... do whatever I want.
+                    </p>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/uye_bilgileri_okanalan.png">
+                        <figcaption>Image 13</figcaption>
+                    </figure>
+
+                    <h3> Step 3: Get into the gym </h3>
+
+                    <p>
+                        The same vulnerable turnstile system is used all around Turkey, so I developed a script called QRLorce to
+                        enter gyms by abusing system flaws.
+                    </p>
+
+                    <figure class="fgrimgf" onclick="popmeup(this)">
+                        <img src="/img/htg/bypass-flow-shorcut.png" style="width:100%;height:60%; display: block; margin: 0 auto;">
+                        <figcaption>Image 13</figcaption>
+                    </figure>
+
+                    <p>
+                        <ol>
+                            <li>Go to the gym that uses the same turnstile system and scan the QR code displayed on the
+                                turnstile screen to extract the domain name.</li>
+                            <li>Exploiting the broken access control problem in Image 11, QRLorce sends requests by
+                                incrementing the user numbers one by one to obtain valid qrlicence values.</li>
+                            <li>To trigger the turnstile system, send the final request to the relevant API endpoint
+                                with the necessary parameters.</li>
+                            <li>And, I am in.</li>
+                        </ol>
+
+                        In this way, I can go into any gym that uses the same turnstile system and exercise free of charge. 
+                        <a href="https://owasp.org/www-community/attacks/Qrljacking">Login With QR codes, a feature, or a bug?
+                        (Security vs Usability)</a> I don't know the answer, but in this post, I explained how I bypassed the 
+                        turnstile system that allows entry to the gym with a QR code. Also, I informed the relevant people 
+                        and waited for them to fix this problems before publishing this blog post. Here is a video of breaking 
+                        into the gym by exploiting this vulnerability using QRLorce.
+                    </p>
+
+                    <b>Golden Ticket Entry Video:</b>
+                    <div class="bkg">
+                        <video class='vid' muted controls>
+                            <source src='/img/htg/htg.mp4' type='video/mp4'>
+                        </video>
+                    </div>
+
+                    <figure class="fgrimgh" onclick="popmeup(this)">
+                        <img src="/img/htg/enterancehall.jpg" style="width:80%;height:40%; display: block; margin: 0 auto;">
+                        <figcaption>Image 14</figcaption>
+                    </figure>
+
+                    <p>
+                        Thank you for reading my blog post.
+                    </p>
+                </div>
+
+                <div class="hr"></div>
+                <a href="#" class="go-top">Go Top</a>
+
+            </div>
+
+            <footer class="footer">
+                <p>
+                    Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+                </p>
+            </footer>
+
+        </div>
+        <!-- /POST -->
+    </div>
+
+
+
+</body>
+
+</html>

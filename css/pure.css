@@ -449,6 +449,25 @@ body {
 /* RWL Style END*/
 
 /* QR2QH Style*/
+
+.bkg {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    height: 45%;
+    width: 60%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.vid {
+    display: block;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+
+
 .container img {
     height: 100%;
     width: 100%;
