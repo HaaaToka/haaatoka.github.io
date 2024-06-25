@@ -1,5 +1,18 @@
 {
     "2024": {
+        "178": ["Jun 26", "Android Pentest: Deep Link Exploitation", "https://www.hackingarticles.in/android-pentest-deep-link-exploitation/"],
+        "177": ["Jun 25", "How to search for Open Amazon s3 Buckets and their contents", "https://grayhatwarfare.medium.com/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01"],
+        "176": ["Jun 24", "Find security bugs in web application routes with route-detect", "https://redcanary.com/blog/testing-and-validation/route-detect-appsec-tool/"],
+        "175": ["Jun 23", "The Art of the Security Double Play: How Mercari Combines Internal Audits and Custom CodeQL Queries to Keep Systems Safe", "https://engineering.mercari.com/en/blog/entry/20230512-the-art-of-the-security-double-play-how-mercari-combines-internal-audits-and-custom-codeql-queries-to-keep-systems-safe/"],
+        "174": ["Jun 22", "2013 - From Gates to Guardrails - Alternate Approaches to Product Security", "https://www.youtube.com/watch?v=geumLjxtc54"],
+        "173": ["Jun 21", "Announcing OSV-Scanner: Vulnerability Scanner for Open Source", "https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html"],
+        "172": ["Jun 20", "PHP Filters Chain What Is It and How to Use It", "https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it"],
+        "171": ["Jun 19", "One Scheme to Rule Them All: OAuth Account Takeover", "https://blog.ostorlab.co/one-scheme-to-rule-them-all.html"],
+        "170": ["Jun 18", "Using Humor Successfully on LinkedIn (because it doesn't have to die there!)", "https://www.linkedin.com/pulse/linkedin-where-humor-goes-die-kathy-klotz-guest-/"],
+        "169": ["Jun 17", "Android 14 blocks modification of system certificates, even as root", "https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/"],
+        "168": ["Jun 16", "[TR]AI drives my car! Open source OpenPilot!", "https://www.youtube.com/watch?v=-ulzpbLWHKQ"],
+        "167": ["Jun 15", "Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth", "https://engineering.fb.com/2021/09/29/security/mariana-trench/"],
+        "166": ["Jun 14", "Why SAST + DAST can't be enough", "https://blog.gitguardian.com/why-sast-dast-cant-be-enough/"],
         "165": ["Jun 13", "Eat the Frog", "https://todoist.com/productivity-methods/eat-the-frog"],
         "164": ["Jun 12", "Runtime Application Self-Protection(RASP)", "https://www.rapid7.com/fundamentals/runtime-application-self-protection/"],
         "163": ["Jun 11", "Zero-, Positive-, Negative-Sum", "https://www.beyondintractability.org/essay/sum"],
