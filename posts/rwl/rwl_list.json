@@ -1,5 +1,7 @@
 {
     "2024": {
+        "180": ["Jun 28", "How Meta is improving password security and preserving privacy", "https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/ "],
+        "179": ["Jun 27", "Polyfill supply chain attack hits 100K+ sites", "https://sansec.io/research/polyfill-supply-chain-attack "],
         "178": ["Jun 26", "Android Pentest: Deep Link Exploitation", "https://www.hackingarticles.in/android-pentest-deep-link-exploitation/"],
         "177": ["Jun 25", "How to search for Open Amazon s3 Buckets and their contents", "https://grayhatwarfare.medium.com/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01"],
         "176": ["Jun 24", "Find security bugs in web application routes with route-detect", "https://redcanary.com/blog/testing-and-validation/route-detect-appsec-tool/"],
