@@ -1,5 +1,7 @@
 {
     "2024": {
+        "182": ["Jun 30", "The System Design Primer", "https://github.com/donnemartin/system-design-primer "],
+        "181": ["Jun 29", "Top 20 Dockerfile best practices", "https://sysdig.com/blog/dockerfile-best-practices/ "],
         "180": ["Jun 28", "How Meta is improving password security and preserving privacy", "https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/ "],
         "179": ["Jun 27", "Polyfill supply chain attack hits 100K+ sites", "https://sansec.io/research/polyfill-supply-chain-attack "],
         "178": ["Jun 26", "Android Pentest: Deep Link Exploitation", "https://www.hackingarticles.in/android-pentest-deep-link-exploitation/"],
