@@ -1,5 +1,7 @@
 {
     "2024": {
+        "184": ["Jul 2", "System Design 101", "https://github.com/ByteByteGoHq/system-design-101"],
+        "183": ["Jul 1", "Portable Data exFiltration: XSS for PDFs", "https://portswigger.net/research/portable-data-exfiltration"],
         "182": ["Jun 30", "The System Design Primer", "https://github.com/donnemartin/system-design-primer "],
         "181": ["Jun 29", "Top 20 Dockerfile best practices", "https://sysdig.com/blog/dockerfile-best-practices/ "],
         "180": ["Jun 28", "How Meta is improving password security and preserving privacy", "https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/ "],
