@@ -1,5 +1,6 @@
 {
     "2024": {
+        "189": ["Jul 7", "Bypassing CSP via DOM clobbering", "https://portswigger.net/research/bypassing-csp-via-dom-clobbering"],
         "188": ["Jul 6", "Privacy by Design Checklist for Developers", "https://www.piiano.com/blog/privacy-by-design-checklist"],
         "187": ["Jul 5", "Silo Mentality", "https://www.investopedia.com/terms/s/silo-mentality.asp"],
         "186": ["Jul 4", "The regreSSHion Bug", "https://www.qualys.com/regresshion-cve-2024-6387/"],
