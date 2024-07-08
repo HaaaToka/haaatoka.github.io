@@ -143,6 +143,7 @@ function createRWLTable(year) {
           var linka = document.createElement("a");
           linka.innerText = entry[1][2];
           linka.setAttribute("href", entry[1][2]);
+          linka.setAttribute("target", "_blank");
 
           link.appendChild(linka);
 
