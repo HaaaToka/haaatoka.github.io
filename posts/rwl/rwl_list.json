@@ -1,5 +1,6 @@
 {
     "2024": {
+        "191": ["Jul 9", "KISS Principle", "https://en.wikipedia.org/wiki/KISS_principle"],
         "190": ["Jul 8", "Five security principles of Meta’s apps", "https://engineering.fb.com/2022/07/28/security/five-security-principles-for-billions-of-messages-across-metas-apps/"],
         "189": ["Jul 7", "Bypassing CSP via DOM clobbering", "https://portswigger.net/research/bypassing-csp-via-dom-clobbering"],
         "188": ["Jul 6", "Privacy by Design Checklist for Developers", "https://www.piiano.com/blog/privacy-by-design-checklist"],
