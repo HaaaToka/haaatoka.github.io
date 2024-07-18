@@ -1,5 +1,6 @@
 {
     "2024": {
+        "200": ["Jul 18", "Data Encryption - Data at Rest vs In Transit vs In Use", "https://www.mimecast.com/blog/data-in-transit-vs-motion-vs-rest/"],
         "199": ["Jul 17", "Sustaining Digital Certificate Security - Entrust Certificate Distrust", "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html?m=1 "],
         "198": ["Jul 16", "Data minimisation", "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/the-principles/data-minimisation/"],
         "197": ["Jul 15", "6 Incident Response Steps: What to Do When Under Attack", "https://www.exabeam.com/blog/incident-response/6-incident-response-steps-what-to-do-when-under-attack/"],
