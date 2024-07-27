@@ -1,5 +1,7 @@
 {
     "2024": {
+        "209": ["Jul 27", "Dropbox Engineering Career Framework", "https://dropbox.github.io/dbx-career-framework/ic2_security_engineer.html"],
+        "208": ["Jul 26", "Building Secure and Reliable Systems", "https://google.github.io/building-secure-and-reliable-systems/raw/toc.html"],
         "207": ["Jul 25", "OWASP Mobile Application Security", "https://mas.owasp.org/"],
         "206": ["Jul 24", "Security at GitLab", "https://about.gitlab.com/handbook/security/"],
         "205": ["Jul 23", "How Discord Stores Trillions of Messages", "https://discord.com/blog/how-discord-stores-trillions-of-messages"],
