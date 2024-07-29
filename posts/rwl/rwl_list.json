@@ -1,5 +1,7 @@
 {
     "2024": {
+        "211": ["Jul 29", "Cedar Policy", "https://docs.cedarpolicy.com/"],
+        "210": ["Jul 28", "How we built a custom permissions DSL at Figma", "https://www.figma.com/blog/how-we-rolled-out-our-own-permissions-dsl-at-figma/"],
         "209": ["Jul 27", "Dropbox Engineering Career Framework", "https://dropbox.github.io/dbx-career-framework/ic2_security_engineer.html"],
         "208": ["Jul 26", "Building Secure and Reliable Systems", "https://google.github.io/building-secure-and-reliable-systems/raw/toc.html"],
         "207": ["Jul 25", "OWASP Mobile Application Security", "https://mas.owasp.org/"],
