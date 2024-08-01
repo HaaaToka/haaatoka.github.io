@@ -1,5 +1,6 @@
 {
     "2024": {
+        "214": ["Aug 1", "ConfusedFunction: A Privilege Escalation Vulnerability Impacting GCP Cloud Functions", "https://www.tenable.com/blog/confusedfunction-a-privilege-escalation-vulnerability-impacting-gcp-cloud-functions"],
         "213": ["Jul 31", "Anyone can Access Deleted and Private Repository Data on GitHub", "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github"],
         "212": ["Jul 30", "Secure by Design at Google", "https://storage.googleapis.com/gweb-research2023-media/pubtools/7661.pdf"],        
         "211": ["Jul 29", "Cedar Policy", "https://docs.cedarpolicy.com/"],
