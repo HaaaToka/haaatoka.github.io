@@ -1,5 +1,6 @@
 {
     "2024": {
+        "245": ["Sept 1", "Security design principles", "https://learn.microsoft.com/en-us/azure/well-architected/security/principles"],
         "244": ["Aug 31", "CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js", "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"],
         "243": ["Aug 30", "Testing Fileless Malware that works on Every Operating System", "https://www.youtube.com/watch?v=yoMHdvXT_qw"],
         "242": ["Aug 29", "Elasticsearch is Open Source, Again", "https://www.elastic.co/blog/elasticsearch-is-open-source-again"],
