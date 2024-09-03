@@ -1,5 +1,6 @@
 {
     "2024": {
+        "247": ["Sept 3", "How Discord Stores Trillions of Messages", "https://discord.com/blog/how-discord-stores-trillions-of-messages"],
         "246": ["Sept 2", "Zoom Session Takeover - Cookie Tossing Payloads, OAuth Dirty Dancing, Browser Permissions Hijacking, and WAF abuse", "https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html"],
         "245": ["Sept 1", "Security design principles", "https://learn.microsoft.com/en-us/azure/well-architected/security/principles"],
         "244": ["Aug 31", "CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js", "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"],
