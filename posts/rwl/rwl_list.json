@@ -1,5 +1,7 @@
 {
     "2024": {
+        "251": ["Sept 7", "Attacking GitLab CI/CD via Shared Runners", "https://pulsesecurity.co.nz/articles/OMGCICD-gitlab"],
+        "250": ["Sept 6", "It's not a Feature, It's a Vulnerability", "https://blog.solidsnail.com/posts/vscode-shell-integ-rce"],
         "249": ["Sept 5", "Hunting for Nginx Alias Traversals in the wild", "https://hakaisecurity.io/nginx-alias-traversal/research-blog/"],
         "248": ["Sept 4", "Making HTTP header injection critical via response queue poisoning", "https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning"],
         "247": ["Sept 3", "How Discord Stores Trillions of Messages", "https://discord.com/blog/how-discord-stores-trillions-of-messages"],
