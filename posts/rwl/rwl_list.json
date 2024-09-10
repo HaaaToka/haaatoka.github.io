@@ -1,5 +1,6 @@
 {
     "2024": {
+        "254": ["Sept 10", "Blind CSS Exfiltration: exfiltrate unknown web pages", "https://portswigger.net/research/blind-css-exfiltration"],
         "253": ["Sept 9", "Endpoint vulnerability management at scale", "https://www.canva.dev/blog/engineering/endpoint-vulnerability-management-at-scale/"],
         "252": ["Sept 8", "HTML Sanitizer API", "https://wicg.github.io/sanitizer-api/"],
         "251": ["Sept 7", "Attacking GitLab CI/CD via Shared Runners", "https://pulsesecurity.co.nz/articles/OMGCICD-gitlab"],
