@@ -1,5 +1,7 @@
 {
     "2024": {
+        "256": ["Sept 12", "Tricks for Reliable Split-Second DNS Rebinding in Chrome and Safari", "https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari"],
+        "255": ["Sept 11", "Having some fun with JavaScript hoisting", "https://joaxcar.com/blog/2023/12/13/having-some-fun-with-javascript-hoisting/"],
         "254": ["Sept 10", "Blind CSS Exfiltration: exfiltrate unknown web pages", "https://portswigger.net/research/blind-css-exfiltration"],
         "253": ["Sept 9", "Endpoint vulnerability management at scale", "https://www.canva.dev/blog/engineering/endpoint-vulnerability-management-at-scale/"],
         "252": ["Sept 8", "HTML Sanitizer API", "https://wicg.github.io/sanitizer-api/"],
