@@ -1,5 +1,6 @@
 {
     "2024": {
+        "258": ["Sept 14", "Google mitigated the largest DDoS attack to date, peaking above 398 million rps", "https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps"],
         "257": ["Sept 13", "Tricks for Reliable Split-Second DNS Rebinding in Chrome and Safari", "https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari"],
         "256": ["Sept 12", "We Hacked Ourselves With DNS Rebinding", "https://www.intruder.io/research/we-hacked-ourselves-with-dns-rebinding"],
         "255": ["Sept 11", "Having some fun with JavaScript hoisting", "https://joaxcar.com/blog/2023/12/13/having-some-fun-with-javascript-hoisting/"],
