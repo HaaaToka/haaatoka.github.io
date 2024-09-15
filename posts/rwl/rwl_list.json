@@ -1,5 +1,6 @@
 {
     "2024": {
+        "259": ["Sept 15", "Why Companies Should Consolidate Tech Roles in the C-Suite", "https://hbr.org/2024/09/why-companies-should-consolidate-tech-roles-in-the-c-suite"],
         "258": ["Sept 14", "Google mitigated the largest DDoS attack to date, peaking above 398 million rps", "https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps"],
         "257": ["Sept 13", "Tricks for Reliable Split-Second DNS Rebinding in Chrome and Safari", "https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari"],
         "256": ["Sept 12", "We Hacked Ourselves With DNS Rebinding", "https://www.intruder.io/research/we-hacked-ourselves-with-dns-rebinding"],
