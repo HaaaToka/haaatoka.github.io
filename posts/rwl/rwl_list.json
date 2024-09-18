@@ -1,5 +1,9 @@
 {
     "2024": {
+        "263": ["Sept 19", "Improving the security of Chrome cookies on Windows", "https://security.googleblog.com/2024/07/improving-security-of-chrome-cookies-on.html"],
+        "262": ["Sept 18", "Cyber Warfare", "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/"],
+        "261": ["Sept 17", "Keeping your Android device safe from text message fraud", "https://security.googleblog.com/2024/08/keeping-your-android-device-safe-from.html"],
+        "260": ["Sept 16", "CVE-2024-45801 Detail", "https://nvd.nist.gov/vuln/detail/CVE-2024-45801"],
         "259": ["Sept 15", "Why Companies Should Consolidate Tech Roles in the C-Suite", "https://hbr.org/2024/09/why-companies-should-consolidate-tech-roles-in-the-c-suite"],
         "258": ["Sept 14", "Google mitigated the largest DDoS attack to date, peaking above 398 million rps", "https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps"],
         "257": ["Sept 13", "Tricks for Reliable Split-Second DNS Rebinding in Chrome and Safari", "https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari"],
