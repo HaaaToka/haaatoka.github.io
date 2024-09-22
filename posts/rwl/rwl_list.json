@@ -1,5 +1,8 @@
 {
     "2024": {
+        "266": ["Sept 22", "The ART of Chaining Vulnerabilities", "https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627"],
+        "265": ["Sept 21", "How Private Cache Can Lead to Mass Account Takeover", "https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/"],
+        "264": ["Sept 20", "Applying Security Engineering to Make Phishing Harder - A Case Study", "https://blog.doyensec.com/2024/09/19/phishing-case-study.html"],
         "263": ["Sept 19", "Improving the security of Chrome cookies on Windows", "https://security.googleblog.com/2024/07/improving-security-of-chrome-cookies-on.html"],
         "262": ["Sept 18", "Cyber Warfare", "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/"],
         "261": ["Sept 17", "Keeping your Android device safe from text message fraud", "https://security.googleblog.com/2024/08/keeping-your-android-device-safe-from.html"],
