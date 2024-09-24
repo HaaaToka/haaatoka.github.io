@@ -1,5 +1,7 @@
 {
     "2024": {
+        "269": ["Sept 25", "What Does AI Red-Teaming Actually Mean?", "https://cset.georgetown.edu/article/what-does-ai-red-teaming-actually-mean/"],
+        "268": ["Sept 24", "From Google Dorking to Unauthorized AWS Account Access and Account Takeover", "https://medium.com/@ar_hawk/from-google-dorking-to-unauthorized-aws-account-access-and-account-takeover-89eb2b9d284f"],
         "267": ["Sept 23", "Fake GitHub Stars: A Growing Threat Linked to Scams and Malware", "https://socket.dev/blog/3-7-million-fake-github-stars-a-growing-threat-linked-to-scams-and-malware"],
         "266": ["Sept 22", "The ART of Chaining Vulnerabilities", "https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627"],
         "265": ["Sept 21", "How Private Cache Can Lead to Mass Account Takeover", "https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/"],
