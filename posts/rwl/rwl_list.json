@@ -1,5 +1,7 @@
 {
     "2024": {
+        "271": ["Sept 27", "Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability(CVE-2024-20017)", "https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/"],
+        "270": ["Sept 26", "Attacking UNIX Systems via CUPS, Part I", "https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/"],
         "269": ["Sept 25", "What Does AI Red-Teaming Actually Mean?", "https://cset.georgetown.edu/article/what-does-ai-red-teaming-actually-mean/"],
         "268": ["Sept 24", "From Google Dorking to Unauthorized AWS Account Access and Account Takeover", "https://medium.com/@ar_hawk/from-google-dorking-to-unauthorized-aws-account-access-and-account-takeover-89eb2b9d284f"],
         "267": ["Sept 23", "Fake GitHub Stars: A Growing Threat Linked to Scams and Malware", "https://socket.dev/blog/3-7-million-fake-github-stars-a-growing-threat-linked-to-scams-and-malware"],
