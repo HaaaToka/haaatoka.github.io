@@ -1,5 +1,7 @@
 {
     "2024": {
+        "276": ["Oct 2", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 2)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p2"],
+        "275": ["Oct 1", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 1)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1"],
         "274": ["Sept 30", "Malicious “express-dompurify” npm Package Steals Browser and Cryptocurrency Wallet Data", "https://socket.dev/blog/malicious-express-dompurify-npm-package-steals-sensitive-data"],
         "273": ["Sept 29", "The power of Client-Side Path Traversal", "https://medium.com/@Nightbloodz/the-power-of-client-side-path-traversal-how-i-found-and-escalated-2-bugs-through-670338afc90f"],
         "272": ["Sept 28", "Operation Triangulation: The last (hardware) mystery", "https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/"],
