@@ -1,5 +1,6 @@
 {
     "2024": {
+        "278": ["Oct 4", "Re: [PATCH] eventfs: Have inodes have unique inode numbers", "https://lkml.iu.edu/hypermail/linux/kernel/2401.3/04208.html"],
         "277": ["Oct 3", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 3)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p3"],
         "276": ["Oct 2", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 2)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p2"],
         "275": ["Oct 1", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 1)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1"],
