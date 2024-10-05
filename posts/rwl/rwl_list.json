@@ -1,5 +1,6 @@
 {
     "2024": {
+        "279": ["Oct 5", "How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack", "https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/"],
         "278": ["Oct 4", "Re: [PATCH] eventfs: Have inodes have unique inode numbers", "https://lkml.iu.edu/hypermail/linux/kernel/2401.3/04208.html"],
         "277": ["Oct 3", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 3)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p3"],
         "276": ["Oct 2", "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 2)", "https://www.ambionics.io/blog/iconv-cve-2024-2961-p2"],
