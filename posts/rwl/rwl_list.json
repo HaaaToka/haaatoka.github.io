@@ -1,5 +1,6 @@
 {
     "2024": {
+        "282": ["Oct 8", "How Discord Reduced Websocket Traffic by 40%", "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent"],
         "281": ["Oct 7", "Your Security Program Is Shit", "https://crankysec.com/blog/shite/"],
         "280": ["Oct 6", "Remote Code Execution without ever visiting a website?", "https://www.youtube.com/watch?v=BENVZJOGsVk"], 
         "279": ["Oct 5", "How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack", "https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/"],
