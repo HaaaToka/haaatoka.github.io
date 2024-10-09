@@ -1,5 +1,7 @@
 {
     "2024": {
+        "284": ["Oct 10", "I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty", "https://bxmbn.medium.com/i-received-a-bank-offer-in-my-mailbox-and-discovered-an-idor-vulnerability-5-000-bounty-bxmbn-5209cab1fba8"],
+        "283": ["Oct 9", "GWT: Unpatched, Unauthenticated Java Deserialization", "https://bishopfox.com/blog/gwt-unpatched-unauthenticated-java-deserialization-vulnerability"],
         "282": ["Oct 8", "How Discord Reduced Websocket Traffic by 40%", "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent"],
         "281": ["Oct 7", "Your Security Program Is Shit", "https://crankysec.com/blog/shite/"],
         "280": ["Oct 6", "Remote Code Execution without ever visiting a website?", "https://www.youtube.com/watch?v=BENVZJOGsVk"], 
