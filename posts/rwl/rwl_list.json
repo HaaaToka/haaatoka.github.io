@@ -1,5 +1,6 @@
 {
     "2024": {
+        "285": ["Oct 11", "What are deep links? Vulnerabilities, attacks and security best practices", "https://www.vaadata.com/blog/what-are-deep-links-vulnerabilities-attacks-and-security-best-practices/"],
         "284": ["Oct 10", "I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty", "https://bxmbn.medium.com/i-received-a-bank-offer-in-my-mailbox-and-discovered-an-idor-vulnerability-5-000-bounty-bxmbn-5209cab1fba8"],
         "283": ["Oct 9", "GWT: Unpatched, Unauthenticated Java Deserialization", "https://bishopfox.com/blog/gwt-unpatched-unauthenticated-java-deserialization-vulnerability"],
         "282": ["Oct 8", "How Discord Reduced Websocket Traffic by 40%", "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent"],
