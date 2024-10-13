@@ -1,5 +1,7 @@
 {
     "2024": {
+        "287": ["Oct 13", "Most Common Kubernetes Security Misconfigurations", "https://www.picussecurity.com/resource/blog/the-ten-most-common-kubernetes-security-misconfigurations-how-to-address-them"],
+        "286": ["Oct 12", "Hacking misconfigured Cloudflare R2 buckets: a complete guide", "https://blog.intigriti.com/hacking-tools/hacking-misconfigured-cloudflare-r2-buckets-a-complete-guide"],
         "285": ["Oct 11", "What are deep links? Vulnerabilities, attacks and security best practices", "https://www.vaadata.com/blog/what-are-deep-links-vulnerabilities-attacks-and-security-best-practices/"],
         "284": ["Oct 10", "I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty", "https://bxmbn.medium.com/i-received-a-bank-offer-in-my-mailbox-and-discovered-an-idor-vulnerability-5-000-bounty-bxmbn-5209cab1fba8"],
         "283": ["Oct 9", "GWT: Unpatched, Unauthenticated Java Deserialization", "https://bishopfox.com/blog/gwt-unpatched-unauthenticated-java-deserialization-vulnerability"],
