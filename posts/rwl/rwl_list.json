@@ -1,5 +1,6 @@
 {
     "2024": {
+        "291": ["Oct 17", "Leeds Equity Partners Acquires OffSec", "https://finance.yahoo.com/news/leeds-equity-partners-acquires-offsec-110000208.html?guccounter=1"],
         "290": ["Oct 16", "'MyFlaw' — Cross Platform 0-Day RCE Vulnerability Discovered in Opera's Browser", "https://labs.guard.io/myflaw-cross-platform-0-day-rce-vulnerability-discovered-in-operas-browsers-099361a808ab?gi=af9abd8f6d68"],
         "289": ["Oct 15", "CVE-2023-49070/51467 - Attacking & Defending Apache OFBiz", "https://www.prio-n.com/blog/cve-2023-49070-51467-attacking-defending-Apache-OFBiz"],
         "288": ["Oct 14", "ModSecurity: Path Confusion and really easy bypass", "https://blog.sicuranext.com/modsecurity-path-confusion-bugs-bypass/"],
