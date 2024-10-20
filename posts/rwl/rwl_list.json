@@ -1,5 +1,6 @@
 {
     "2024": {
+        "295": ["Oct 21", "Dangling Domains: Security Threats, Detection and Prevalence", "https://unit42.paloaltonetworks.com/dangling-domains"],
         "294": ["Oct 20", "Postmortem Culture: Learning from Failure", "https://sre.google/sre-book/postmortem-culture/"],
         "293": ["Oct 19", "Good Retry, Bad Retry: An Incident Story", "https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6#80d1"],
         "292": ["Oct 18", "Ramblings of a Recovering Academic on the So-Called Lack of Security Talent", "https://www.darkreading.com/vulnerabilities-threats/ramblings-of-a-recovering-academic-on-the-so-called-lack-of-security-talent"],
