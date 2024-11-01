@@ -1,5 +1,6 @@
 {
     "2024": {
+        "306": ["Nov 1", "Addressing Cascading Failures", "https://sre.google/sre-book/addressing-cascading-failures/"],
         "305": ["Oct 31", "Metastable Failures in Distributed Systems", "https://charap.co/metastable-failures-in-distributed-systems/"],
         "304": ["Oct 30", "[TR]What is I-Language?", "https://terappin.com/blog/ben-dili-nedir"],
         "303": ["Oct 29", "A Helping Hand for LLMs (Retrieval Augmented Generation - RAG) - Computerphile", "https://www.youtube.com/watch?v=of4UDMvi2Kw"],
