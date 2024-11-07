@@ -1,5 +1,6 @@
 {
     "2024": {
+        "312": ["Nov 7", "Hacking into a Toyota/Eicher Motors insurance company by exploiting their premium calculator website", "https://eaton-works.com/2024/01/17/ttibi-email-hack/"],
         "311": ["Nov 6", "zxcvbn: realistic password strength estimation", "https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation"],
         "310": ["Nov 5", "Retry Storm antipattern", "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/retry-storm/"],
         "309": ["Nov 4", "[TR]combining human and AI Talents for Your Next Team!", "https://www.youtube.com/watch?v=14MOlUYOaE4"],
