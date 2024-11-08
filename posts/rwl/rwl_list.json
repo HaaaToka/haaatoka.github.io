@@ -1,5 +1,6 @@
 {
     "2024": {
+        "313": ["Nov 8", "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360", "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"],
         "312": ["Nov 7", "Hacking into a Toyota/Eicher Motors insurance company by exploiting their premium calculator website", "https://eaton-works.com/2024/01/17/ttibi-email-hack/"],
         "311": ["Nov 6", "zxcvbn: realistic password strength estimation", "https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation"],
         "310": ["Nov 5", "Retry Storm antipattern", "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/retry-storm/"],
