@@ -1,5 +1,6 @@
 {
     "2024": {
+        "315": ["Nov 10", "An Overview of Google's Commitment to Secure by Design", "https://static.googleusercontent.com/media/publicpolicy.google/en//resources/google_commitment_secure_by_design_overview.pdf"],
         "314": ["Nov 9", "abracadabra: How does Shazam work?", "https://www.cameronmacleod.com/blog/how-does-shazam-work"],
         "313": ["Nov 8", "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360", "https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/"],
         "312": ["Nov 7", "Hacking into a Toyota/Eicher Motors insurance company by exploiting their premium calculator website", "https://eaton-works.com/2024/01/17/ttibi-email-hack/"],
