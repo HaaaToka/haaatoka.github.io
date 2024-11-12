@@ -1,5 +1,6 @@
 {
     "2024": {
+        "317": ["Nov 12", "Write-up of DOMPurify 2.0.0 bypass using mutation XSS", "https://research.securitum.com/dompurify-bypass-using-mxss/"],
         "316": ["Nov 11", "Generative AI Cybersecurity Risks for Business AI Agent Workflows", "https://medium.com/@oracle_43885/generative-ai-cybersecurity-risks-for-business-agentic-workflows-d029a3844732"],
         "315": ["Nov 10", "An Overview of Google's Commitment to Secure by Design", "https://static.googleusercontent.com/media/publicpolicy.google/en//resources/google_commitment_secure_by_design_overview.pdf"],
         "314": ["Nov 9", "abracadabra: How does Shazam work?", "https://www.cameronmacleod.com/blog/how-does-shazam-work"],
