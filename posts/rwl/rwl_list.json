@@ -1,5 +1,7 @@
 {
     "2024": {
+        "319": ["Nov 14", "Redefining CNAPP: A Complete Guide To the Future of Cloud Security", "https://softwareanalyst.substack.com/p/redefining-cnapp-a-complete-guide"],
+        "318": ["Nov 13", "From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code", "https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html"],
         "317": ["Nov 12", "Write-up of DOMPurify 2.0.0 bypass using mutation XSS", "https://research.securitum.com/dompurify-bypass-using-mxss/"],
         "316": ["Nov 11", "Generative AI Cybersecurity Risks for Business AI Agent Workflows", "https://medium.com/@oracle_43885/generative-ai-cybersecurity-risks-for-business-agentic-workflows-d029a3844732"],
         "315": ["Nov 10", "An Overview of Google's Commitment to Secure by Design", "https://static.googleusercontent.com/media/publicpolicy.google/en//resources/google_commitment_secure_by_design_overview.pdf"],
