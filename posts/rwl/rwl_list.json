@@ -1,5 +1,6 @@
 {
     "2024": {
+        "326": ["Nov 21", "JSON Smuggling: A far-fetched intrusion detection evasion technique", "https://grimminck.medium.com/json-smuggling-a-far-fetched-intrusion-detection-evasion-technique-51ed8f5ee05f"],
         "325": ["Nov 20", "The Powerful HTTP Request Smuggling", "https://ricardoiramar.medium.com/the-powerful-http-request-smuggling-af208fafa142"],
         "324": ["Nov 19", "Security of AI Agents", "https://arxiv.org/html/2406.08689v2"],
         "323": ["Nov 18", "Unbelievable Hack into HR Admin", "https://medium.com/@ratnadip1998/my-unbelievable-hack-into-hr-admin-a-bug-bounty-tale-853338770d8c"],
