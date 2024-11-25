@@ -1,5 +1,6 @@
 {
     "2024": {
+        "330": ["Nov 25", "Go Go XSS Gadgets: Chaining a DOM Clobbering Exploit in the Wild", "https://buer.haus/2024/02/23/go-go-xss-gadgets-chaining-a-dom-clobbering-exploit-in-the-wild/"],
         "329": ["Nov 24", "SubdoMailing - Thousands of Hijacked Major-Brand Subdomains Found Bombarding Users With Millions of Malicious Emails", "https://labs.guard.io/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions-a5e5fb892935"],
         "328": ["Nov 23", "Piloting new ways of protecting Android users from financial fraud", "https://security.googleblog.com/2024/02/piloting-new-ways-to-protect-Android-users-from%20financial-fraud.html"],
         "327": ["Nov 22", "[TR]Next Generation Security Threats Created by the Data Broker Industry", "https://www.linkedin.com/pulse/veri-broker-end%C3%BCstrisinin-yaratt%C4%B1%C4%9F%C4%B1-yeni-nesil-bir-analiz-%C3%B6zt%C3%BCrkci%CC%87-bcqff"],
