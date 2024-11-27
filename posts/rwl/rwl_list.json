@@ -1,5 +1,7 @@
 {
     "2024": {
+        "332": ["Nov 27", "Leveling Up Fuzzing: Finding more vulnerabilities with AI", "https://security.googleblog.com/2024/11/leveling-up-fuzzing-finding-more.html?m=1"],
+        "331": ["Nov 26", "Private Cloud Compute(PCC): A new frontier for AI privacy in the cloud", "https://security.apple.com/blog/private-cloud-compute/"],
         "330": ["Nov 25", "Go Go XSS Gadgets: Chaining a DOM Clobbering Exploit in the Wild", "https://buer.haus/2024/02/23/go-go-xss-gadgets-chaining-a-dom-clobbering-exploit-in-the-wild/"],
         "329": ["Nov 24", "SubdoMailing - Thousands of Hijacked Major-Brand Subdomains Found Bombarding Users With Millions of Malicious Emails", "https://labs.guard.io/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions-a5e5fb892935"],
         "328": ["Nov 23", "Piloting new ways of protecting Android users from financial fraud", "https://security.googleblog.com/2024/02/piloting-new-ways-to-protect-Android-users-from%20financial-fraud.html"],
