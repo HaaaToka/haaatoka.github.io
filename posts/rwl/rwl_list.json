@@ -1,5 +1,7 @@
 {
     "2024": {
+        "335": ["Nov 30", "Bypassing CSP with dangling iframes", "https://portswigger.net/research/bypassing-csp-with-dangling-iframes"],
+        "334": ["Nov 29", "linpeas sneaky logging", "https://github.com/peass-ng/PEASS-ng/issues/450"],
         "333": ["Nov 28", "Enhancing Security and Developer Productivity: LinkedIn's Journey with Implementing Content Security Policy", "https://www.linkedin.com/blog/engineering/security/enhancing-security-and-developer-productivity--linkedin-s-journe"],
         "332": ["Nov 27", "Leveling Up Fuzzing: Finding more vulnerabilities with AI", "https://security.googleblog.com/2024/11/leveling-up-fuzzing-finding-more.html?m=1"],
         "331": ["Nov 26", "Private Cloud Compute(PCC): A new frontier for AI privacy in the cloud", "https://security.apple.com/blog/private-cloud-compute/"],
