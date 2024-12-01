@@ -1,5 +1,6 @@
 {
     "2024": {
+        "336": ["Dec 1", "DEF CON 32 - From getting JTAG on the iPhone 15 to hacking Apple's USB-C Controller - Stacksmashing", "https://www.youtube.com/watch?v=cFW0sYSo7ZM"],
         "335": ["Nov 30", "Bypassing CSP with dangling iframes", "https://portswigger.net/research/bypassing-csp-with-dangling-iframes"],
         "334": ["Nov 29", "linpeas sneaky logging", "https://github.com/peass-ng/PEASS-ng/issues/450"],
         "333": ["Nov 28", "Enhancing Security and Developer Productivity: LinkedIn's Journey with Implementing Content Security Policy", "https://www.linkedin.com/blog/engineering/security/enhancing-security-and-developer-productivity--linkedin-s-journe"],
