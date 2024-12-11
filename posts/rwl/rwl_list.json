@@ -1,5 +1,6 @@
 {
     "2024": {
+        "346": ["Dec 11", "Federated Credential Management API", "https://www.w3.org/TR/fedcm/"],
         "345": ["Dec 10", "Microsoft Azure Subdomain Takeover Guide", "https://www.stratussecurity.com/post/azure-subdomain-takeover-guide"],
         "344": ["Dec 9", "Announcing the launch of Vanir: Open-source Security Patch Validation", "https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html"],
         "343": ["Dec 8", "testers be warned about linpeas.sh", "https://www.reddit.com/r/hacking/comments/1h1qrea/make_sure_you_guys_dont_use_linpeas_from_linpeash/"],
