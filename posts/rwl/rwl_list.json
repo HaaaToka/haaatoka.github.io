@@ -1,5 +1,8 @@
 {
     "2024": {
+        "349": ["Dec 14", "Human 1 - sqlmap 0: defeating automation through manual exploitation", "https://hackcommander.github.io/posts/2024/03/19/human-1-sqlmap-0-defeating-automation-through-manual-exploitation/#"],
+        "348": ["Dec 13", "Shift Left is Dead: A Post Mortem", "https://www.hackerone.com/vulnerability-management/shift-left-is-dead"],
+        "347": ["Dec 12", "How-to: Detecting secrets in video content", "https://about.gitlab.com/blog/2024/02/29/how-to-detecting-secrets-in-video-content/"],
         "346": ["Dec 11", "Federated Credential Management API", "https://www.w3.org/TR/fedcm/"],
         "345": ["Dec 10", "Microsoft Azure Subdomain Takeover Guide", "https://www.stratussecurity.com/post/azure-subdomain-takeover-guide"],
         "344": ["Dec 9", "Announcing the launch of Vanir: Open-source Security Patch Validation", "https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html"],
