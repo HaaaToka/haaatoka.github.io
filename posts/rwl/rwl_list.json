@@ -1,5 +1,6 @@
 {
     "2024": {
+        "351": ["Dec 16", "Introducing Gemini 2.0: our new AI model for the agentic era", "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"],
         "350": ["Dec 15", "Meet Willow, our state-of-the-art quantum chip", "https://blog.google/technology/research/google-willow-quantum-chip/"],
         "349": ["Dec 14", "Human 1 - sqlmap 0: defeating automation through manual exploitation", "https://hackcommander.github.io/posts/2024/03/19/human-1-sqlmap-0-defeating-automation-through-manual-exploitation/#"],
         "348": ["Dec 13", "Shift Left is Dead: A Post Mortem", "https://www.hackerone.com/vulnerability-management/shift-left-is-dead"],
