@@ -1,5 +1,7 @@
 {
     "2024": {
+        "355": ["Dec 20", "Zero Trust Architecture", "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf"],
+        "354": ["Dec 19", "Attacking Android", "https://blog.devsecopsguides.com/attacking-android"],
         "353": ["Dec 18", "Adopting Trusted Types in Production Web Frameworks to Prevent DOM-Based Cross-Site Scripting: A Case Study", "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/9c56e856f0ea76454f01cabec9959f7c5b31b285.pdf"],
         "352": ["Dec 17", "mXSS Attacks: Attacking well-secured Web-Applications by using innerHTML Mutations", "https://cure53.de/fp170.pdf"],
         "351": ["Dec 16", "Introducing Gemini 2.0: our new AI model for the agentic era", "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"],
