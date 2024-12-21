@@ -1,5 +1,6 @@
 {
     "2024": {
+        "356": ["Dec 21", "Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition", "https://infosecwriteups.com/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a"],
         "355": ["Dec 20", "Zero Trust Architecture", "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf"],
         "354": ["Dec 19", "Attacking Android", "https://blog.devsecopsguides.com/attacking-android"],
         "353": ["Dec 18", "Adopting Trusted Types in Production Web Frameworks to Prevent DOM-Based Cross-Site Scripting: A Case Study", "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/9c56e856f0ea76454f01cabec9959f7c5b31b285.pdf"],
