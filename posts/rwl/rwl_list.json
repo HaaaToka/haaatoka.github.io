@@ -1,5 +1,7 @@
 {
     "2024": {
+        "359": ["Dec 24", "Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces", "https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces"],
+        "358": ["Dec 23", "Real World GitLab Account Take Over", "https://infosecwriteups.com/real-world-gitlab-account-take-over-b2e9896a1835"],
         "357": ["Dec 22", "Bypassing DOMPurify with good old XML", "https://flatt.tech/research/posts/bypassing-dompurify-with-good-old-xml/"],
         "356": ["Dec 21", "Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition", "https://infosecwriteups.com/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a"],
         "355": ["Dec 20", "Zero Trust Architecture", "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf"],
