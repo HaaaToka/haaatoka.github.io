@@ -1,5 +1,6 @@
 {
     "2024": {
+        "361": ["Dec 26", "Sometimes I cache: implementing lock-free probabilistic caching", "https://blog.cloudflare.com/sometimes-i-cache/"],
         "360": ["Dec 25", "LLM pentest: Leveraging agent integration for RCE", "https://www.blazeinfosec.com/post/llm-pentest-agent-hacking/"],
         "359": ["Dec 24", "Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces", "https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces"],
         "358": ["Dec 23", "Real World GitLab Account Take Over", "https://infosecwriteups.com/real-world-gitlab-account-take-over-b2e9896a1835"],
