@@ -1,5 +1,6 @@
 {
     "2024": {
+        "366": ["Dec 31", "Hacky New Year!", "https://www.youtube.com/watch?v=dQw4w9WgXcQ"],
         "365": ["Dec 30", "Post-Quantum Cryptography: Standards and Progress", "http://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html"],
         "364": ["Dec 29", "How a Single Vulnerability Can Bring Down the JavaScript Ecosystem", "https://www.landh.tech/blog/20240603-npm-cache-poisoning/"],
         "363": ["Dec 28", "Sustaining Digital Certificate Security - Entrust Certificate Distrust", "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"],
