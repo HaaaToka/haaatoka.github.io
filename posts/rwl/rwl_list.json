@@ -1,5 +1,8 @@
 {
     "2024": {
+        "365": ["Dec 30", "Post-Quantum Cryptography: Standards and Progress", "http://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html"],
+        "364": ["Dec 29", "How a Single Vulnerability Can Bring Down the JavaScript Ecosystem", "https://www.landh.tech/blog/20240603-npm-cache-poisoning/"],
+        "363": ["Dec 28", "Sustaining Digital Certificate Security - Entrust Certificate Distrust", "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"],
         "362": ["Dec 27", "The Technology", "https://paulbuchheit.blogspot.com/2014/07/the-technology.html?m=1"],
         "361": ["Dec 26", "Sometimes I cache: implementing lock-free probabilistic caching", "https://blog.cloudflare.com/sometimes-i-cache/"],
         "360": ["Dec 25", "LLM pentest: Leveraging agent integration for RCE", "https://www.blazeinfosec.com/post/llm-pentest-agent-hacking/"],
