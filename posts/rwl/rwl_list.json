@@ -1,4 +1,10 @@
 {
+    "2025" : {
+        "4" : ["Jan 4", "Grover's Algorithm", "https://en.m.wikipedia.org/wiki/Grover%27s_algorithm"],
+        "3" : ["Jan 3", "Secure by Default vs. Secure by Design", "https://www.petergirnus.com/blog/cybersecurity-secure-by-default-vs-secure-by-design"],
+        "2" : ["Jan 2", "What is Cursor AI?", "https://cursor-ai.io/what-is-cursor-ai/"],
+        "1" : ["Jan 1", "How We are Self Hosting Code Scanning at Reddit", "https://www.reddit.com/r/RedditEng/comments/1hks4f3/how_we_are_self_hosting_code_scanning_at_reddit/"]
+    },
     "2024": {
         "366": ["Dec 31", "Hacky New Year!", "https://www.youtube.com/watch?v=dQw4w9WgXcQ"],
         "365": ["Dec 30", "Post-Quantum Cryptography: Standards and Progress", "http://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html"],
@@ -366,9 +372,6 @@
         "3" : ["Jan 3", "bitwarden heist - how to break into password vaults without using passwords", "https://blog.redteam-pentesting.de/2024/bitwarden-heist/"],
         "2" : ["Jan 2", "The SPACE of Developer Productivity", "https://queue.acm.org/detail.cfm?id=3454124"],
         "1" : ["Jan 1", "The WebP 0day", "https://blog.isosceles.com/the-webp-0day/"]
-    },
-    "2025" : {
-        "1" : ["jan 1", "test", "test"]
     },
     "snacks": {
         "5": ["[TR]Running documentary: The event that changed my life at 25", "https://www.youtube.com/watch?v=3LrRIY56lic"],
