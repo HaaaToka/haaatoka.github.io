@@ -1,9 +1,10 @@
 {
     "2025" : {
-        "4" : ["Jan 4", "Grover's Algorithm", "https://en.m.wikipedia.org/wiki/Grover%27s_algorithm"],
-        "3" : ["Jan 3", "Secure by Default vs. Secure by Design", "https://www.petergirnus.com/blog/cybersecurity-secure-by-default-vs-secure-by-design"],
-        "2" : ["Jan 2", "What is Cursor AI?", "https://cursor-ai.io/what-is-cursor-ai/"],
-        "1" : ["Jan 1", "How We are Self Hosting Code Scanning at Reddit", "https://www.reddit.com/r/RedditEng/comments/1hks4f3/how_we_are_self_hosting_code_scanning_at_reddit/"]
+        "5": ["Jan 5", "Small Language Model(SLM): Survey, Measurements, and Insights", "https://arxiv.org/pdf/2409.15790"],
+        "4": ["Jan 4", "Grover's Algorithm", "https://en.m.wikipedia.org/wiki/Grover%27s_algorithm"],
+        "3": ["Jan 3", "Secure by Default vs. Secure by Design", "https://www.petergirnus.com/blog/cybersecurity-secure-by-default-vs-secure-by-design"],
+        "2": ["Jan 2", "What is Cursor AI?", "https://cursor-ai.io/what-is-cursor-ai/"],
+        "1": ["Jan 1", "How We are Self Hosting Code Scanning at Reddit", "https://www.reddit.com/r/RedditEng/comments/1hks4f3/how_we_are_self_hosting_code_scanning_at_reddit/"]
     },
     "2024": {
         "366": ["Dec 31", "Hacky New Year!", "https://www.youtube.com/watch?v=dQw4w9WgXcQ"],
