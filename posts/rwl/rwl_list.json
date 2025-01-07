@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "8": ["Jan 8", "Honey loses 3 million users after scam allegations", "https://mobilesyrup.com/2025/01/03/honey-loses-3-million-users-scam-allegations/"],
+        "7": ["Jan 7", "You should know about Server-Side Request Forgery", "https://fly.io/blog/practical-smokescreen-sanitizing-your-outbound-web-requests/"],
         "6": ["Jan 6", "Large Language Models Understand and Can Be Enhanced by Emotional Stimuli", "https://arxiv.org/abs/2307.11760"],
         "5": ["Jan 5", "Small Language Model(SLM): Survey, Measurements, and Insights", "https://arxiv.org/pdf/2409.15790"],
         "4": ["Jan 4", "Grover's Algorithm", "https://en.m.wikipedia.org/wiki/Grover%27s_algorithm"],
