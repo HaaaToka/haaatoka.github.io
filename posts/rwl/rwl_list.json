@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "6": ["Jan 6", "Large Language Models Understand and Can Be Enhanced by Emotional Stimuli", "https://arxiv.org/abs/2307.11760"],
         "5": ["Jan 5", "Small Language Model(SLM): Survey, Measurements, and Insights", "https://arxiv.org/pdf/2409.15790"],
         "4": ["Jan 4", "Grover's Algorithm", "https://en.m.wikipedia.org/wiki/Grover%27s_algorithm"],
         "3": ["Jan 3", "Secure by Default vs. Secure by Design", "https://www.petergirnus.com/blog/cybersecurity-secure-by-default-vs-secure-by-design"],
