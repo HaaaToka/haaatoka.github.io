@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "12": ["Jan 12", "$15k RCE Through Monitoring Debug Mode", "https://medium.com/@0xold/15k-rce-through-monitoring-debug-mode-4f474d8549d5"],
+        "11": ["Jan 11", "Whisk: Visualize and remix ideas using images and AI", "https://blog.google/technology/google-labs/whisk/"],
         "10": ["Jan 10", "Guzzle Documentation", "https://docs.guzzlephp.org/en/stable/"],
         "9": ["Jan 9", "An entirely open-source AI code assistant inside your editor", "https://ollama.com/blog/continue-code-assistant"],
         "8": ["Jan 8", "Honey loses 3 million users after scam allegations", "https://mobilesyrup.com/2025/01/03/honey-loses-3-million-users-scam-allegations/"],
