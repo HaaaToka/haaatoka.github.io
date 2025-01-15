@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "16": ["Jan 16", "Introducing the URL validation bypass cheat sheet", "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet"],
+        "15": ["Jan 15", "2024 Developer Survey", "https://survey.stackoverflow.co/2024/technology/"],
         "14": ["Jan 14", "neovim", "https://neovim.io/doc/user/index.html"],
         "13": ["Jan 13", "How we built Cedar with automated reasoning and differential testing", "https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing"],
         "12": ["Jan 12", "$15k RCE Through Monitoring Debug Mode", "https://medium.com/@0xold/15k-rce-through-monitoring-debug-mode-4f474d8549d5"],
