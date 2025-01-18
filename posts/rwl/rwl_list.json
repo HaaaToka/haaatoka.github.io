@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "18": ["Jan 18", "OWASP Top 10 Non-Human Identity Risks for 2025: What You Need to Know", "https://blog.gitguardian.com/owasp-top-10-non-human-identity-risks/"],
+        "17": ["Jan 17", "2025: The year to become Quantum-Ready", "https://azure.microsoft.com/en-us/blog/quantum/2025/01/14/2025-the-year-to-become-quantum-ready/"],
         "16": ["Jan 16", "Introducing the URL validation bypass cheat sheet", "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet"],
         "15": ["Jan 15", "2024 Developer Survey", "https://survey.stackoverflow.co/2024/technology/"],
         "14": ["Jan 14", "neovim", "https://neovim.io/doc/user/index.html"],
