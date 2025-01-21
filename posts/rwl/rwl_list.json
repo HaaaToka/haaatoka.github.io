@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "21": ["Jan 21", "Breaking Down Multipart Parsers: File upload validation bypass", "https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/"],
         "20": ["Jan 20", "Using YouTube to steal your files", "https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/"],
         "19": ["Jan 19", "Exploiting Android Client WebViews with Help from HSTS", "https://seanpesce.blogspot.com/2024/09/exploiting-android-client-webviews-with.html"],
         "18": ["Jan 18", "OWASP Top 10 Non-Human Identity Risks for 2025: What You Need to Know", "https://blog.gitguardian.com/owasp-top-10-non-human-identity-risks/"],
