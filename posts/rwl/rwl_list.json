@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "24": ["Jan 24", "12 incident response metrics your business should be tracking", "https://www.intigriti.com/blog/business-insights/12-incident-response-metrics-your-business-should-be-tracking"],
+        "23": ["Jan 23", "OpenAI: ChatGPT Crawler Vulnerability - Unauthenticated Reflective Distributed Denial of Service (DDoS)", "https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-Crawler-Reflective-DDOS-Vulnerability.md"],
         "22": ["Jan 22", "Unique 0-click deanonymization attack", "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"],
         "21": ["Jan 21", "Breaking Down Multipart Parsers: File upload validation bypass", "https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/"],
         "20": ["Jan 20", "Using YouTube to steal your files", "https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/"],
