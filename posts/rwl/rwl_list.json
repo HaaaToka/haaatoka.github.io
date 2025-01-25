@@ -1,6 +1,6 @@
 {
     "2025" : {
-        "25": ["Jan 25", "DeepSeek-V3", "https://www.deepseek.com/"],
+        "25": ["Jan 25", "DeepSeek-R1 Release", "https://api-docs.deepseek.com/news/news250120"],
         "24": ["Jan 24", "12 incident response metrics your business should be tracking", "https://www.intigriti.com/blog/business-insights/12-incident-response-metrics-your-business-should-be-tracking"],
         "23": ["Jan 23", "OpenAI: ChatGPT Crawler Vulnerability - Unauthenticated Reflective Distributed Denial of Service (DDoS)", "https://github.com/bf/security-advisories/blob/main/2025-01-ChatGPT-Crawler-Reflective-DDOS-Vulnerability.md"],
         "22": ["Jan 22", "Unique 0-click deanonymization attack", "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"],
