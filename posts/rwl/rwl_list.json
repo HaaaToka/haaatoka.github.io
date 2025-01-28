@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "28": ["Jan 28", "What is the Language Server Protocol?", "https://microsoft.github.io/language-server-protocol/overviews/lsp/overview/"],
+        "27": ["Jan 27", "Joern", "https://docs.joern.io/"],
         "26": ["Jan 26", "Bypass Email Verification in Mozilla", "https://0d-amr.medium.com/bypass-email-verification-in-mozilla-2ab45ac36c42"],
         "25": ["Jan 25", "DeepSeek-R1 Release", "https://api-docs.deepseek.com/news/news250120"],
         "24": ["Jan 24", "12 incident response metrics your business should be tracking", "https://www.intigriti.com/blog/business-insights/12-incident-response-metrics-your-business-should-be-tracking"],
