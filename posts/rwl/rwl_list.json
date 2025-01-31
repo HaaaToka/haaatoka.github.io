@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "31": ["Jan 31", "Shor's algorithm", "https://en.m.wikipedia.org/wiki/Shor%27s_algorithm"],
+        "30": ["Jan 30", "Opengrep", "https://www.opengrep.dev"],
+        "29": ["Jan 29", "Uncovering potential threats to your web application by leveraging security reports", "https://security.googleblog.com/2024/04/uncovering-potential-threats-to-your.html"],
         "28": ["Jan 28", "What is the Language Server Protocol?", "https://microsoft.github.io/language-server-protocol/overviews/lsp/overview/"],
         "27": ["Jan 27", "Joern", "https://docs.joern.io/"],
         "26": ["Jan 26", "Bypass Email Verification in Mozilla", "https://0d-amr.medium.com/bypass-email-verification-in-mozilla-2ab45ac36c42"],
