@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "33": ["Feb 2", "Wormable XSS on bing", "https://medium.com/@pedbap/wormable-xss-www-bing-com-7d7cb52e7a12"],
+        "32": ["Feb 1", "Navigating the Leap: My Journey from Software Engineering to Offensive Security", "https://www.offsec.com/blog/navigating-the-leap-my-journey-from-software-engineering-to-offensive-security/"],
         "31": ["Jan 31", "Shor's algorithm", "https://en.m.wikipedia.org/wiki/Shor%27s_algorithm"],
         "30": ["Jan 30", "Opengrep", "https://www.opengrep.dev"],
         "29": ["Jan 29", "Uncovering potential threats to your web application by leveraging security reports", "https://security.googleblog.com/2024/04/uncovering-potential-threats-to-your.html"],
