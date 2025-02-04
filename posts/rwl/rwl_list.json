@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "35": ["Feb 4", "My team's intern just found a critical bug by shitposting in our codebase", "https://www.reddit.com/r/csMajors/comments/1i7v7hg/my_teams_intern_just_found_a_critical_bug_by/"],
+        "34": ["Feb 3", "DeepSeek AI Database Exposed: Over 1 Million Log Lines, Secret Keys Leaked", "https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html"],
         "33": ["Feb 2", "Wormable XSS on bing", "https://medium.com/@pedbap/wormable-xss-www-bing-com-7d7cb52e7a12"],
         "32": ["Feb 1", "Navigating the Leap: My Journey from Software Engineering to Offensive Security", "https://www.offsec.com/blog/navigating-the-leap-my-journey-from-software-engineering-to-offensive-security/"],
         "31": ["Jan 31", "Shor's algorithm", "https://en.m.wikipedia.org/wiki/Shor%27s_algorithm"],
