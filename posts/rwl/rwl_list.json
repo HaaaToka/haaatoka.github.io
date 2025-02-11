@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "42": ["Feb 11", "Doomsday Clock", "https://en.wikipedia.org/wiki/Doomsday_Clock"],
         "41": ["Feb 10", "AST-GREP", "https://ast-grep.github.io/"],
         "40": ["Feb 9", "Tokenized Tokens", "https://fly.io/blog/tokenized-tokens/"],
         "39": ["Feb 8", "Go Supply Chain Attack: Malicious Package Exploits Go Module Proxy Caching for Persistence", "https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence"],
