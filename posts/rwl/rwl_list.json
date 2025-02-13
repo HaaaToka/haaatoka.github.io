@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "44": ["Feb 13", "https://maxwelldulin.com/BlogPost/Why-Can't-You-Fix-This-Bug-Faster", "https://maxwelldulin.com/BlogPost/Why-Can't-You-Fix-This-Bug-Faster"],
+        "43": ["Feb 12", "Pentesting Salesforce Communities - A lightning-fast journey from Guest User to Account Takeove", "https://0xbro.red/writeups/web-hacking/salesforce-hacking/"],
         "42": ["Feb 11", "Doomsday Clock", "https://en.wikipedia.org/wiki/Doomsday_Clock"],
         "41": ["Feb 10", "AST-GREP", "https://ast-grep.github.io/"],
         "40": ["Feb 9", "Tokenized Tokens", "https://fly.io/blog/tokenized-tokens/"],
