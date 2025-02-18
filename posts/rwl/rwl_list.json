@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "49": ["Feb 18", "Trusted Types", "https://w3c.github.io/trusted-types/dist/spec/#default-policy-hdr"],
+        "48": ["Feb 17", "OAuth 2.0 for Native Apps", "https://datatracker.ietf.org/doc/html/rfc8252"],
+        "47": ["Feb 16", "HTTP Desync Attacks: Request Smuggling Reborn", "https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn"],
         "46": ["Feb 15", "How an obscure PHP footgun led to RCE in Craft CMS", "https://www.assetnote.io/resources/research/how-an-obscure-php-footgun-led-to-rce-in-craft-cms"],
         "45": ["Feb 14", "Anyone Can Push Updates to the DOGE.gov Website", "https://archive.is/2025.02.14-085035/https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/"],
         "44": ["Feb 13", "Why Can't You Fix This Bug Faster?", "https://maxwelldulin.com/BlogPost/Why-Can't-You-Fix-This-Bug-Faster"],
