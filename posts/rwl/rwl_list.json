@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "52": ["Feb 21", "How to Bypass TLS Fingerprinting With Burp Suite and burp-awesome-tls", "https://www.zenrows.com/blog/burp-awesome-tls"],
+        "51": ["Feb 20", "Staying Safe with Chrome Extensions", "https://security.googleblog.com/2024/06/staying-safe-with-chrome-extensions.html"],
+        "50": ["Feb 19", "PCI DSS v4 Compliant Checkout with Sandboxing", "https://www.shopify.com/partners/blog/checkout-compliance"],
         "49": ["Feb 18", "Trusted Types", "https://w3c.github.io/trusted-types/dist/spec/#default-policy-hdr"],
         "48": ["Feb 17", "OAuth 2.0 for Native Apps", "https://datatracker.ietf.org/doc/html/rfc8252"],
         "47": ["Feb 16", "HTTP Desync Attacks: Request Smuggling Reborn", "https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn"],
