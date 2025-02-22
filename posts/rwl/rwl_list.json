@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "53": ["Feb 22", "Mitigating SSRF", "https://blog.includesecurity.com/2023/03/mitigating-ssrf-in-2023/"],
         "52": ["Feb 21", "How to Bypass TLS Fingerprinting With Burp Suite and burp-awesome-tls", "https://www.zenrows.com/blog/burp-awesome-tls"],
         "51": ["Feb 20", "Staying Safe with Chrome Extensions", "https://security.googleblog.com/2024/06/staying-safe-with-chrome-extensions.html"],
         "50": ["Feb 19", "PCI DSS v4 Compliant Checkout with Sandboxing", "https://www.shopify.com/partners/blog/checkout-compliance"],
