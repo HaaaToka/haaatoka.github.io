@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "56": ["Feb 25", "Buying a First Class Seat Changed My Perspective on Money", "https://medium.datadriveninvestor.com/buying-a-first-class-seat-changed-my-perspective-on-money-ac59358543c8"],
+        "55": ["Feb 24", "Secure by Design: Google's Blueprint for a High-Assurance Web Framework", "https://bughunters.google.com/blog/6644316274294784/secure-by-design-google-s-blueprint-for-a-high-assurance-web-framework"],
+        "54": ["Feb 23", "How I 'Cheated' My Way Into FAANG Interviews and Got the Offer", "https://www.reddit.com/r/leetcode/comments/1isriaz/how_i_cheated_my_way_into_faang_interviews_and/"],
         "53": ["Feb 22", "Mitigating SSRF", "https://blog.includesecurity.com/2023/03/mitigating-ssrf-in-2023/"],
         "52": ["Feb 21", "How to Bypass TLS Fingerprinting With Burp Suite and burp-awesome-tls", "https://www.zenrows.com/blog/burp-awesome-tls"],
         "51": ["Feb 20", "Staying Safe with Chrome Extensions", "https://security.googleblog.com/2024/06/staying-safe-with-chrome-extensions.html"],
