@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "60": ["Mar 1", "How We Accidentally Discovered a DoS Attack and Received a $25K Bounty", "https://0d.dwalletlabs.com/how-we-found-a-25k-bug-in-a-blockchain-project-by-mistake-bounty-hunting-journey-21c0c20440f6"],
+        "59": ["Feb 28", "Exploiting ML models with pickle file attacks: Part 2", "https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-2/"],
+        "58": ["Feb 27", "Exploiting ML models with pickle file attacks: Part 1", "https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-1/"],
+        "57": ["Feb 26", "OWASP LLM Exploit Generation v1.0", "https://genaisecurityproject.com/resource/owasp-llm-exploit-generation-v1-0-pdf/"],
         "56": ["Feb 25", "Buying a First Class Seat Changed My Perspective on Money", "https://medium.datadriveninvestor.com/buying-a-first-class-seat-changed-my-perspective-on-money-ac59358543c8"],
         "55": ["Feb 24", "Secure by Design: Google's Blueprint for a High-Assurance Web Framework", "https://bughunters.google.com/blog/6644316274294784/secure-by-design-google-s-blueprint-for-a-high-assurance-web-framework"],
         "54": ["Feb 23", "How I 'Cheated' My Way Into FAANG Interviews and Got the Offer", "https://www.reddit.com/r/leetcode/comments/1isriaz/how_i_cheated_my_way_into_faang_interviews_and/"],
