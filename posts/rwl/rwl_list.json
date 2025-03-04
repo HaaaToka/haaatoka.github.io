@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "63": ["Mar 4", "Bypassing Google's Magika & Bullying AI", "https://s0md3v.github.io/blog/magika-bypass"],
+        "62": ["Mar 3", "Mozilla flamed by Firefox fans after promises to not sell their data go up in smoke", "https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/"],
         "61": ["Mar 2", "How we estimate the risk from prompt injection attacks on AI systems", "https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html"],
         "60": ["Mar 1", "How We Accidentally Discovered a DoS Attack and Received a $25K Bounty", "https://0d.dwalletlabs.com/how-we-found-a-25k-bug-in-a-blockchain-project-by-mistake-bounty-hunting-journey-21c0c20440f6"],
         "59": ["Feb 28", "Exploiting ML models with pickle file attacks: Part 2", "https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-2/"],
