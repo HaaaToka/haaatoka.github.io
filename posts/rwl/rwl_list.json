@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "65": ["Mar 6", "CWE-598: Use of GET Request Method With Sensitive Query Strings", "https://cwe.mitre.org/data/definitions/598.html"],
+        "64": ["Mar 5", "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution", "https://arxiv.org/pdf/2502.18449"],
         "63": ["Mar 4", "Bypassing Google's Magika & Bullying AI", "https://s0md3v.github.io/blog/magika-bypass"],
         "62": ["Mar 3", "Mozilla flamed by Firefox fans after promises to not sell their data go up in smoke", "https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/"],
         "61": ["Mar 2", "How we estimate the risk from prompt injection attacks on AI systems", "https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html"],
