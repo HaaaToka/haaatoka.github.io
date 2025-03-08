@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "67": ["Mar 8", "OWASP Top 10 Proactive Controls" , "https://top10proactive.owasp.org/"],
+        "66": ["Mar 7", "I'm Lovin' It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny" , "https://eaton-works.com/2024/12/19/mcdelivery-india-hack/"],
         "65": ["Mar 6", "CWE-598: Use of GET Request Method With Sensitive Query Strings", "https://cwe.mitre.org/data/definitions/598.html"],
         "64": ["Mar 5", "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution", "https://arxiv.org/pdf/2502.18449"],
         "63": ["Mar 4", "Bypassing Google's Magika & Bullying AI", "https://s0md3v.github.io/blog/magika-bypass"],
