@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "70": ["Mar 11", "CWE-639: Authorization Bypass Through User-Controlled Key", "https://cwe.mitre.org/data/definitions/639.html"],
+        "69": ["Mar 10", "Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel", "https://samcurry.net/hacking-subaru"],
+        "68": ["Mar 9", "Authorization Enforcement", "https://www.osohq.com/academy/authorization-enforcement"],
         "67": ["Mar 8", "OWASP Top 10 Proactive Controls" , "https://top10proactive.owasp.org/"],
         "66": ["Mar 7", "I'm Lovin' It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny" , "https://eaton-works.com/2024/12/19/mcdelivery-india-hack/"],
         "65": ["Mar 6", "CWE-598: Use of GET Request Method With Sensitive Query Strings", "https://cwe.mitre.org/data/definitions/598.html"],
