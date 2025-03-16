@@ -1,5 +1,10 @@
 {
     "2025" : {
+        "75": ["Mar 16", "OWASP Application Security Verification Standard 4.0.3", "https://raw.githubusercontent.com/OWASP/ASVS/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.pdf"],
+        "74": ["Mar 15", "Developer Ecosystems for Software Safety", "https://dl.acm.org/doi/pdf/10.1145/3651621"],
+        "73": ["Mar 14", "Birthday", "https://en.wikipedia.org/wiki/Birthday"],
+        "72": ["Mar 13", "secure_coding_guidelines", "https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/secure_coding_guidelines.md"],
+        "71": ["Mar 12", "Gemini 2.0 is now available to everyone", "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/"],
         "70": ["Mar 11", "CWE-639: Authorization Bypass Through User-Controlled Key", "https://cwe.mitre.org/data/definitions/639.html"],
         "69": ["Mar 10", "Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel", "https://samcurry.net/hacking-subaru"],
         "68": ["Mar 9", "Authorization Enforcement", "https://www.osohq.com/academy/authorization-enforcement"],
