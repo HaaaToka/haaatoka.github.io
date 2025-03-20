@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "79": ["Mar 20", "Who is Turkish opposition leader Ekrem Imamoglu?", "https://www.bbc.com/news/articles/c4g0ylrmy1yo"],
+        "78": ["Mar 19", "democracy", "https://www.britannica.com/topic/democracy"],
+        "77": ["Mar 18", "SSD Advisory – Linux kernel hfsplus slab-out-of-bounds Write", "https://ssd-disclosure.com/ssd-advisory-linux-kernel-hfsplus-slab-out-of-bounds-write/"],
+        "76": ["Mar 17", "The leaked system prompt has people extremely uncomfortable", "https://www.reddit.com/r/ChatGPT/comments/1jb3wft/the_leaked_system_prompt_has_people_extremely/"],
         "75": ["Mar 16", "OWASP Application Security Verification Standard 4.0.3", "https://raw.githubusercontent.com/OWASP/ASVS/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.pdf"],
         "74": ["Mar 15", "Developer Ecosystems for Software Safety", "https://dl.acm.org/doi/pdf/10.1145/3651621"],
         "73": ["Mar 14", "Birthday", "https://en.wikipedia.org/wiki/Birthday"],
