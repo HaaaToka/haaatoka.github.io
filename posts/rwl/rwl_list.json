@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "81": ["Mar 22", "New GitHub Action supply chain attack:reviewdog/action-setup", "https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup"],
+        "80": ["Mar 21", "GoodbyeDPI", "https://github.com/ValdikSS/GoodbyeDPI"],
         "79": ["Mar 20", "Who is Turkish opposition leader Ekrem Imamoglu?", "https://www.bbc.com/news/articles/c4g0ylrmy1yo"],
         "78": ["Mar 19", "democracy", "https://www.britannica.com/topic/democracy"],
         "77": ["Mar 18", "SSD Advisory – Linux kernel hfsplus slab-out-of-bounds Write", "https://ssd-disclosure.com/ssd-advisory-linux-kernel-hfsplus-slab-out-of-bounds-write/"],
