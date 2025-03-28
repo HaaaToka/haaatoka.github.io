@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "87": ["Mar 28", "TLS Fingerprinting with JA3 and JA3S", "https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/"],
+        "86": ["Mar 27", "Harden-Runner detection: tj-actions/changed-files action is compromised", "https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised"],
+        "85": ["Mar 26", "What is a Security Pattern", "https://securitypatterns.io/what-is-a-security-pattern/"],
+        "84": ["Mar 25", "Paths of Turkish entrepreneurs who exited with $100 million+", "https://www.linkedin.com/pulse/100-milyon-dolar-exit-yapm%C4%B1%C5%9F-t%C3%BCrk-giri%C5%9Fimcilerin-i%CC%87sa-%C3%B6zdemir-won4f"],
         "83": ["Mar 24", "Next.js rocked by critical 9.1 level exploit...", "https://www.youtube.com/watch?v=AaCnBOqyvIM"],
         "82": ["Mar 23", "Fear of Missing Out (FOMO)", "https://en.wikipedia.org/wiki/Fear_of_missing_out"],
         "81": ["Mar 22", "New GitHub Action supply chain attack:reviewdog/action-setup", "https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup"],
