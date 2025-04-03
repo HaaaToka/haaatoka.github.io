@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "93": ["Apr 3", "Introduction to Fuzzing Android Native Components", "https://blog.convisoappsec.com/en/introduction-to-fuzzing-android-native-components/"],
+        "92": ["Apr 2", "Millions of Accounts Vulnerable due to Google’s OAuth Flaw", "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"],
+        "91": ["Apr 1", "Trusted Types explainer", "https://github.com/w3c/trusted-types/blob/main/explainer.md"],
         "90": ["Mar 31", "Clone2Leak: Your Git Credentials Belong To Us", "https://flatt.tech/research/posts/clone2leak-your-git-credentials-belong-to-us/"],
         "89": ["Mar 30", "Stealing HttpOnly cookies with the cookie sandwich technique", "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique"],
         "88": ["Mar 29", "HTTP/2: The Sequel is Always Worse", "https://portswigger.net/research/http2"],
