@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "95": ["Apr 5", "Exploiting PDF generators: A complete guide to finding SSRF vulnerabilities in PDF generators", "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-pdf-generators-a-complete-guide-to-finding-ssrf-vulnerabilities-in-pdf-generators"],
         "94": ["Apr 4", "[TR]Software Industry Salaries | 2025", "https://oncekiyazilimci.medium.com/yaz%C4%B1l%C4%B1m-sekt%C3%B6r%C3%BC-maa%C5%9Flar%C4%B1-2025-ff4d1e78739c"],
         "93": ["Apr 3", "Introduction to Fuzzing Android Native Components", "https://blog.convisoappsec.com/en/introduction-to-fuzzing-android-native-components/"],
         "92": ["Apr 2", "Millions of Accounts Vulnerable due to Google’s OAuth Flaw", "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"],
