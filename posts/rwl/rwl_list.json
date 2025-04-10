@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "100": ["Apr 10", "Dead Cat Bounce", "https://www.investopedia.com/terms/d/deadcatbounce.asp"],
+        "99": ["Apr 9", "Salary Negotiations and Employee Satisfaction: Balancing Pay and Purpose for Retention", "https://www.talentforge.com.au/salary-negotiations-and-employee-satisfaction-balancing-pay-and-purpose-for-retention/"],
         "98": ["Apr 8", "[TR] Senior Research Scientist working at Google Deepmind", "https://www.youtube.com/watch?v=QFjR-HD9xrg"],
         "97": ["Apr 7", "Bugcrowd Security Update: Password Reset and MFA Requirement", "https://www.bugcrowd.com/blog/bugcrowd-security-update-password-reset-and-mfa-requirement/"],
         "96": ["Apr 6", "Root CA Policy - Moving Forward, Together", "https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/ "],
