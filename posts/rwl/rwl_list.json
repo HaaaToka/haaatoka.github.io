@@ -1,5 +1,13 @@
 {
     "2025" : {
+        "110": ["Apr 20", "Exploring the DOMPurify library: Hunting for Misconfigurations (2/2)", "https://mizu.re/post/exploring-the-dompurify-library-hunting-for-misconfigurations"],
+        "109": ["Apr 19", "Exploring the DOMPurify library: Bypasses and Fixes (1/2)", "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes"],
+        "108": ["Apr 18", "Meta Paid Out Over $2.3 Million in Bug Bounties in 2024", "https://www.securityweek.com/meta-paid-out-over-2-3-million-in-bug-bounties-in-2024/"],
+        "107": ["Apr 17", "whoAMI: A cloud image name confusion attack", "https://securitylabs.datadoghq.com/articles/whoami-a-cloud-image-name-confusion-attack/"],
+        "106": ["Apr 16", "MITRE support for the CVE program is due to expire tomorrow.", "https://www.linkedin.com/posts/tib3rius_breaking-from-a-reliable-source-mitre-activity-7317960862332293120-t6yt/"],
+        "105": ["Apr 15", "Finding Exposed Sensitive API Keys in JS Files", "https://bitpanic.medium.com/finding-exposed-sensitive-api-keys-in-js-files-5c129fb1f2c7"],
+        "104": ["Apr 14", "Everyone knows your location: tracking myself down through in-app ads", "https://timsh.org/tracking-myself-down-through-in-app-ads/"],
+        "103": ["Apr 13", "DoubleClickjacking: A New Era of UI Redressing", "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html"],
         "102": ["Apr 12", "Google announces Sec-Gemini v1, a new experimental cybersecurity model", "https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html"],
         "101": ["Apr 11", "TeamViewer", "https://whynotsecurity.com/blog/teamviewer/"],
         "100": ["Apr 10", "Dead Cat Bounce", "https://www.investopedia.com/terms/d/deadcatbounce.asp"],
