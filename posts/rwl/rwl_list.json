@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "112": ["Apr 22", "Earth Day", "https://en.wikipedia.org/wiki/Earth_Day"],
+        "111": ["Apr 21", "Malicious ML models discovered on Hugging Face platform", "https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face"],
         "110": ["Apr 20", "Exploring the DOMPurify library: Hunting for Misconfigurations (2/2)", "https://mizu.re/post/exploring-the-dompurify-library-hunting-for-misconfigurations"],
         "109": ["Apr 19", "Exploring the DOMPurify library: Bypasses and Fixes (1/2)", "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes"],
         "108": ["Apr 18", "Meta Paid Out Over $2.3 Million in Bug Bounties in 2024", "https://www.securityweek.com/meta-paid-out-over-2-3-million-in-bug-bounties-in-2024/"],
