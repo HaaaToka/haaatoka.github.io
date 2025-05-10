@@ -1,5 +1,17 @@
 {
     "2025" : {
+        "124": ["May 4", "Google Secure AI Framework", "https://saif.google/secure-ai-framework"],
+        "123": ["May 3", "DevSecOps Series V - SCA", "https://devilinside.me/blogs/devsecops-series-v-sca"],
+        "122": ["May 2", "Protecting Chrome Traffic with Hybrid Kyber KEM", "https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html"],
+        "121": ["May 1", "May Day", "https://www.britannica.com/topic/May-Day-international-observance"],
+        "120": ["Apr 30", "Mahalanobis distance", "https://en.wikipedia.org/wiki/Mahalanobis_distance"],
+        "119": ["Apr 29", "Attackers exploit fundamental flaw in the web’s security to steal $2 million in cryptocurrency", "https://blog.citp.princeton.edu/2022/03/09/attackers-exploit-fundamental-flaw-in-the-webs-security-to-steal-2-million-in-cryptocurrency/"],
+        "118": ["Apr 28", "Principal component analysis", "https://en.wikipedia.org/wiki/Principal_component_analysis"],
+        "117": ["Apr 27", "Autoregressive integrated moving average", "https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average"],
+        "116": ["Apr 26", "Training a million models per day to save customers of all sizes from DDoS attacks", "https://blog.cloudflare.com/training-a-million-models-per-day-to-save-customers-of-all-sizes-from-ddos/"],
+        "115": ["Apr 25", "Taming the Wild West of ML: Practical Model Signing with Sigstore", "https://security.googleblog.com/2025/04/taming-wild-west-of-ml-practical-model.html"],
+        "114": ["Apr 24", "How DDoS protection works", "https://developers.cloudflare.com/ddos-protection/about/how-ddos-protection-works/"],
+        "113": ["Apr 23", "Fire And Motion", "https://www.joelonsoftware.com/2002/01/06/fire-and-motion/"],
         "112": ["Apr 22", "Earth Day", "https://en.wikipedia.org/wiki/Earth_Day"],
         "111": ["Apr 21", "Malicious ML models discovered on Hugging Face platform", "https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face"],
         "110": ["Apr 20", "Exploring the DOMPurify library: Hunting for Misconfigurations (2/2)", "https://mizu.re/post/exploring-the-dompurify-library-hunting-for-misconfigurations"],
