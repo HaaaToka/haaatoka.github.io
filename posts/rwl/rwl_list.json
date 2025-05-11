@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "131": ["May 11", "In-store physical Pentest: feedback on a real case study", "https://www.hackmosphere.fr/en/in-store-physical-pentest-feedback-on-a-real-case-study/"],
+        "130": ["May 10", "360XSS: Mass Website Exploitation via Virtual Tour Framework for SEO Poisoning", "https://olegzay.com/360xss/"],
+        "129": ["May 9", "Cross-Origin-Opener-Policy", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cross-Origin-Opener-Policy"],
+        "128": ["May 8", "Using AI to stop tech support scams in Chrome", "https://security.googleblog.com/2025/05/using-ai-to-stop-tech-support-scams-in.html"],
+        "127": ["May 7", "Hacking High-Profile Bug Bounty Targets: Deep Dive into a Client-Side Chain", "https://vitorfalcao.com/posts/hacking-high-profile-targets/"],
+        "126": ["May 6", "The Burn Notice, Part 1/5 — Revealing Shadow Copilots", "https://medium.com/@attias.dor/the-burn-notice-part-1-5-revealing-shadow-copilots-812def588a7a"],
+        "125": ["May 5", "Bypassing HackerOne 2FA due to race condition", "https://akashhamal0x01.medium.com/bypassing-hackerone-2fa-due-to-race-condition-8afe2dbff7c9"],
         "124": ["May 4", "Google Secure AI Framework", "https://saif.google/secure-ai-framework"],
         "123": ["May 3", "DevSecOps Series V - SCA", "https://devilinside.me/blogs/devsecops-series-v-sca"],
         "122": ["May 2", "Protecting Chrome Traffic with Hybrid Kyber KEM", "https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html"],
