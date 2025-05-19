@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "139": ["May 19", "From Partial IDOR to GPS Tracking", "https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a"],
+        "138": ["May 18", "AI Agents: When Everything Becomes an Attack Surface", "https://medium.com/@attias.dor/the-burn-notice-part-2-5-ai-agents-when-everything-becomes-an-attack-surface-bbcece386f02"],
+        "137": ["May 17", "Sitecore: Unsafe Deserialisation Again!", "https://slcyber.io/blog/sitecore-unsafe-deserialization-again-cve-2025-27218/"],
+        "136": ["May 16", "Advancing Our Amazing Bet on Asymmetric Cryptography", "https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html"],
+        "135": ["May 15", "89 million Steam account details just got leaked", "https://www.xda-developers.com/89-million-steam-account-details-leak/"],
+        "134": ["May 14", "XS-Leaks Wiki", "https://xsleaks.dev/"],
+        "133": ["May 13", "Hijacking Sessions with IDOR and XSS", "https://bxmbn.medium.com/hijacking-sessions-with-idor-and-xss-bxmbn-396f99761a85"],
         "132": ["May 12", "What's in Your CEO's Emails?", "https://www.linkedin.com/pulse/ceonuzun-maillerinde-ne-var-alper-ba%C5%9Faran-cissp-72bqf/"],
         "131": ["May 11", "In-store physical Pentest: feedback on a real case study", "https://www.hackmosphere.fr/en/in-store-physical-pentest-feedback-on-a-real-case-study/"],
         "130": ["May 10", "360XSS: Mass Website Exploitation via Virtual Tour Framework for SEO Poisoning", "https://olegzay.com/360xss/"],
