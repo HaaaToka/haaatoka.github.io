@@ -1,5 +1,10 @@
 {
     "2025" : {
+        "144": ["May 24", "Fuzzy logic", "https://en.wikipedia.org/wiki/Fuzzy_logic"],
+        "143": ["May 23", "Account hijacking using 'dirty dancing' in sign-in OAuth-flows", "https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/"],
+        "142": ["May 22", "An Introduction to Google’s Approach to AI Agent Security", "https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf"],
+        "141": ["May 21", "New tools and features in the Responses API", "https://openai.com/index/new-tools-and-features-in-the-responses-api/"],
+        "140": ["May 20", "A very fancy way to obtain RCE on a Solr server", "https://www.hacefresko.com/posts/rce-on-solr-server-via-replication"],
         "139": ["May 19", "From Partial IDOR to GPS Tracking", "https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a"],
         "138": ["May 18", "AI Agents: When Everything Becomes an Attack Surface", "https://medium.com/@attias.dor/the-burn-notice-part-2-5-ai-agents-when-everything-becomes-an-attack-surface-bbcece386f02"],
         "137": ["May 17", "Sitecore: Unsafe Deserialisation Again!", "https://slcyber.io/blog/sitecore-unsafe-deserialization-again-cve-2025-27218/"],
