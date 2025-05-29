@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "148": ["May 28", "Adoption of CVSS v4.0 vulnerability assessment calculator", "https://www.intigriti.com/blog/business-insights/adoption-of-cvss-v4-vulnerability-assessment-calculator"],
+        "147": ["May 27", "Turning Portal 2 into a Web Server", "https://www.youtube.com/watch?v=-v5vCLLsqbA"],
         "146": ["May 26", "How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation", "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/"],
         "145": ["May 25", "Before You Speak, Remember the W.A.I.T. Acronym: 'Why Am I Talking?'", "https://www.linkedin.com/pulse/before-you-speak-remember-wait-acronym-why-am-i-talking-adam-bryant/"],
         "144": ["May 24", "Fuzzy logic", "https://en.wikipedia.org/wiki/Fuzzy_logic"],
