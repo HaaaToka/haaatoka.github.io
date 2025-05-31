@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "151": ["May 31", "Account hijacking using 'dirty dancing' in sign-in OAuth-flows", "https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/"],
+        "150": ["May 30", "Android Pentesting", "https://pswalia2u.medium.com/android-pentesting-f277066fed6d"],
+        "149": ["May 29", "[TR] Paradox of Choice", "https://www.haldunyildiz.com/bolluk-paradoksu-nedir-king-yasasi/"],
         "148": ["May 28", "Adoption of CVSS v4.0 vulnerability assessment calculator", "https://www.intigriti.com/blog/business-insights/adoption-of-cvss-v4-vulnerability-assessment-calculator"],
         "147": ["May 27", "Turning Portal 2 into a Web Server", "https://www.youtube.com/watch?v=-v5vCLLsqbA"],
         "146": ["May 26", "How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation", "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/"],
