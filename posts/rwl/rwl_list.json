@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "153": ["Jun 2", "Length Extensions Attacks", "https://medium.com/@RosanaFS/signature-forging-cookie-manipulation-web-exploitation-length-extensios-attacks-tryhackme-a8b38e499a26"],
+        "152": ["Jun 1", "What Is a Brown Bag Meeting?", "https://www.investopedia.com/terms/b/brown-bag-meeting.asp"],
         "151": ["May 31", "Account hijacking using 'dirty dancing' in sign-in OAuth-flows", "https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/"],
         "150": ["May 30", "Android Pentesting", "https://pswalia2u.medium.com/android-pentesting-f277066fed6d"],
         "149": ["May 29", "[TR] Paradox of Choice", "https://www.haldunyildiz.com/bolluk-paradoksu-nedir-king-yasasi/"],
