@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "165": ["Jun 14", "Real-world engineering challenges: building Cursor", "https://newsletter.pragmaticengineer.com/p/cursor"],
         "164": ["Jun 13", "Chinese AI Companies Dodge U.S. Chip Curbs by Flying Suitcases of Hard Drives Abroad", "https://www.wsj.com/tech/china-ai-chip-curb-suitcases-7c47dab1"],
         "163": ["Jun 12", "Escaping '<' and '>' in attributes – How it helps protect against mutation XSS", "https://bughunters.google.com/blog/5038742869770240/escaping-and-in-attributes-how-it-helps-protect-against-mutation-xss"],
         "162": ["Jun 11", "Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot", "https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/"],
