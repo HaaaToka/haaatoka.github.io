@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "169": ["Jun 18", "I had an existential crisis while reading about the web — and you should too", "https://medium.com/@kybek/i-had-an-existential-crisis-while-reading-about-the-web-and-you-should-too-b9c1b4226638"],
+        "168": ["Jun 17", "A bit more on Twitter/X's new encrypted messaging", "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"],
         "167": ["Jun 16", "Merging Humans and AI: The Rise of Biological Computers", "https://www.youtube.com/watch?v=DfUkaE7HcnU"],
         "166": ["Jun 15", "Multiple GCP products are experiencing Service issues : Incident Report", "https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW"],
         "165": ["Jun 14", "Real-world engineering challenges: building Cursor", "https://newsletter.pragmaticengineer.com/p/cursor"],
