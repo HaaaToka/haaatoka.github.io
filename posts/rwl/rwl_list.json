@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "171": ["Jun 20", "Securing React With Trusted Types by Philippe De Ryck", "https://www.youtube.com/watch?v=Hw8Tq3jq2Xc"],
+        "170": ["Jun 19", "Cookies Having Independent Partitioned State (CHIPS)", "https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/Privacy_sandbox/Partitioned_cookies"],
         "169": ["Jun 18", "I had an existential crisis while reading about the web — and you should too", "https://medium.com/@kybek/i-had-an-existential-crisis-while-reading-about-the-web-and-you-should-too-b9c1b4226638"],
         "168": ["Jun 17", "A bit more on Twitter/X's new encrypted messaging", "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"],
         "167": ["Jun 16", "Merging Humans and AI: The Rise of Biological Computers", "https://www.youtube.com/watch?v=DfUkaE7HcnU"],
