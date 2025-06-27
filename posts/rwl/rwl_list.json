@@ -1,5 +1,11 @@
 {
     "2025" : {
+        "177": ["Jun 26", "Disclosure: Covert Web-to-App Tracking via Localhost on Android", "https://localmess.github.io/"],
+        "176": ["Jun 25", "Poison everywhere: No output from your MCP server is safe", "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe"],
+        "175": ["Jun 24", "Novel SSRF Technique Involving HTTP Redirect Loops", "https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops/"],
+        "174": ["Jun 23", "What is ClickHouse?", "https://clickhouse.com/docs/intro"],
+        "173": ["Jun 22", "I wrote one of the fastest DataFrame libraries", "https://pola.rs/posts/i-wrote-one-of-the-fastest-dataframe-libraries/"],
+        "172": ["Jun 21", "Intro to Cap'n Proto", "https://capnproto.org/"],
         "171": ["Jun 20", "Securing React With Trusted Types by Philippe De Ryck", "https://www.youtube.com/watch?v=Hw8Tq3jq2Xc"],
         "170": ["Jun 19", "Cookies Having Independent Partitioned State (CHIPS)", "https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/Privacy_sandbox/Partitioned_cookies"],
         "169": ["Jun 18", "I had an existential crisis while reading about the web — and you should too", "https://medium.com/@kybek/i-had-an-existential-crisis-while-reading-about-the-web-and-you-should-too-b9c1b4226638"],
