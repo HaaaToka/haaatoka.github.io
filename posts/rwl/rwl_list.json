@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "180": ["Jun 29", "Loophole of getting Google Form associated with Google Spreadsheet with no editor/owner access", "https://bughunters.google.com/reports/vrp/yBeFmSrJi/report"],
+        "179": ["Jun 28", "Make Self-XSS Great Again", "https://blog.slonser.info/posts/make-self-xss-great-again/"],
+        "178": ["Jun 27", "Cloudflare CEO on the rise of 'zero-click searches': It'll be much harder to be a content creator", "https://www.youtube.com/watch?v=WQf-eB2xSew"],
         "177": ["Jun 26", "Disclosure: Covert Web-to-App Tracking via Localhost on Android", "https://localmess.github.io/"],
         "176": ["Jun 25", "Poison everywhere: No output from your MCP server is safe", "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe"],
         "175": ["Jun 24", "Novel SSRF Technique Involving HTTP Redirect Loops", "https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops/"],
