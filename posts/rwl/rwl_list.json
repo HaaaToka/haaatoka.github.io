@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "183": ["Jul 2", "Most enterprises can’t secure AI, Accenture says", "https://www.ciodive.com/news/cybersecurity-strategy-challenges-AI-automation-agents-Accenture/751847/"],
+        "182": ["Jul 1", "Cloudflare Just Changed How AI Crawlers Scrape the Internet-at-Large; Permission-Based Approach Makes Way for A New Business Model", "https://www.cloudflare.com/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/"],
+        "181": ["Jun 30", "Considering migrating program from HackerOne to Bugcrowd - looking for experiences with both platforms", "https://www.reddit.com/r/bugbounty/comments/1la9u52/considering_migrating_program_from_hackerone_to/"],
         "180": ["Jun 29", "Loophole of getting Google Form associated with Google Spreadsheet with no editor/owner access", "https://bughunters.google.com/reports/vrp/yBeFmSrJi/report"],
         "179": ["Jun 28", "Make Self-XSS Great Again", "https://blog.slonser.info/posts/make-self-xss-great-again/"],
         "178": ["Jun 27", "Cloudflare CEO on the rise of 'zero-click searches': It'll be much harder to be a content creator", "https://www.youtube.com/watch?v=WQf-eB2xSew"],
