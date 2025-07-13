@@ -1,5 +1,11 @@
 {
     "2025" : {
+        "189": ["Jul 8", "SAML roulette: the hacker always wins(XML round-trip vulnerability)", "https://portswigger.net/research/saml-roulette-the-hacker-always-wins"],
+        "188": ["Jul 7", "How I hacked hackers at LeHack 2025", "https://7h30th3r0n3.fr/how-i-hacked-hackers-at-lehack-2025/"],
+        "187": ["Jul 6", "Using server-sent events(SSE)", "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events"],
+        "186": ["Jul 5", "Remember the problems encountered when deploying SSE message push to Cloudflare", "https://medium.com/@imrockpan/remember-the-problems-encountered-when-deploying-sse-message-push-to-cloudflare-c3506c42e9e2"],
+        "185": ["Jul 4", "What Does a Trip Sitter Do?", "https://www.verywellmind.com/what-does-a-trip-sitter-do-6742171"],
+        "184": ["Jul 3", "What is Barista FIRE? A Blend of Early Retirement and Part-Time Work", "https://projectionlab.com/financial-terms/barista-fire"],
         "183": ["Jul 2", "Most enterprises can’t secure AI, Accenture says", "https://www.ciodive.com/news/cybersecurity-strategy-challenges-AI-automation-agents-Accenture/751847/"],
         "182": ["Jul 1", "Cloudflare Just Changed How AI Crawlers Scrape the Internet-at-Large; Permission-Based Approach Makes Way for A New Business Model", "https://www.cloudflare.com/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/"],
         "181": ["Jun 30", "Considering migrating program from HackerOne to Bugcrowd - looking for experiences with both platforms", "https://www.reddit.com/r/bugbounty/comments/1la9u52/considering_migrating_program_from_hackerone_to/"],
