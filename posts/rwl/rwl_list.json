@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "196": ["Jul 15", "", ""],
+        "195": ["Jul 14", "", ""],
+        "194": ["Jul 13", "", ""],
+        "193": ["Jul 12", "How to Grow Vulnerability Management Into Exposure Management", "https://www.gartner.com/doc/reprints?id=1-2KQ1F76K&ct=250407"],
+        "192": ["Jul 11", "PHP 8: Observability baked right in", "https://www.datadoghq.com/blog/engineering/php-8-observability-baked-right-in/#the-observability-landscape-before-php-8"],
+        "191": ["Jul 10", "PHP Function IDN_To_ASCII", "https://code.desertcoderz.com/php/function/idn_to_ascii"],
+        "190": ["Jul 9", "Unicode IDNA Compatibility Processing", "https://www.unicode.org/reports/tr46/"],
         "189": ["Jul 8", "SAML roulette: the hacker always wins(XML round-trip vulnerability)", "https://portswigger.net/research/saml-roulette-the-hacker-always-wins"],
         "188": ["Jul 7", "How I hacked hackers at LeHack 2025", "https://7h30th3r0n3.fr/how-i-hacked-hackers-at-lehack-2025/"],
         "187": ["Jul 6", "Using server-sent events(SSE)", "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events"],
