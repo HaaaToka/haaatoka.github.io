@@ -1,10 +1,10 @@
 {
     "2025" : {
-        "196": ["Jul 15", "", ""],
-        "195": ["Jul 14", "", ""],
-        "194": ["Jul 13", "", ""],
+        "196": ["Jul 15", "Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale", "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/"],
+        "195": ["Jul 14", "Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling", "https://portswigger.net/research/browser-powered-desync-attacks"],
+        "194": ["Jul 13", "Everything I'll forget about prompting LLMs", "https://olickel.com/everything-i-know-about-prompting-llms"],
         "193": ["Jul 12", "How to Grow Vulnerability Management Into Exposure Management", "https://www.gartner.com/doc/reprints?id=1-2KQ1F76K&ct=250407"],
-        "192": ["Jul 11", "PHP 8: Observability baked right in", "https://www.datadoghq.com/blog/engineering/php-8-observability-baked-right-in/#the-observability-landscape-before-php-8"],
+        "192": ["Jul 11", "PHP 8: Observability baked right in", "https://www.datadoghq.com/blog/engineering/php-8-observability-baked-right-in/"],
         "191": ["Jul 10", "PHP Function IDN_To_ASCII", "https://code.desertcoderz.com/php/function/idn_to_ascii"],
         "190": ["Jul 9", "Unicode IDNA Compatibility Processing", "https://www.unicode.org/reports/tr46/"],
         "189": ["Jul 8", "SAML roulette: the hacker always wins(XML round-trip vulnerability)", "https://portswigger.net/research/saml-roulette-the-hacker-always-wins"],
