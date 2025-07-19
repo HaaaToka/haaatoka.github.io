@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "200": ["Jul 19", "The AI/LLM Hacking Cheatsheet", "https://www.synack.com/exploits-explained/the-ai-llm-hacking-cheatsheet/"],
+        "199": ["Jul 18", "Is your AI safe? Threat analysis of MCP (Model Context Protocol)", "https://www.cyberark.com/resources/threat-research-blog/is-your-ai-safe-threat-analysis-of-mcp-model-context-protocol"],
+        "198": ["Jul 17", "[TR]Masters and slaves of artificial intelligence", "https://www.mserdark.com/yapay-zekanin-efendileri-ve-koleleri/"],
+        "197": ["Jul 16", "Small Language Models are the Future of Agentic AI", "https://arxiv.org/pdf/2506.02153"],
         "196": ["Jul 15", "Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale", "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/"],
         "195": ["Jul 14", "Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling", "https://portswigger.net/research/browser-powered-desync-attacks"],
         "194": ["Jul 13", "Everything I'll forget about prompting LLMs", "https://olickel.com/everything-i-know-about-prompting-llms"],
