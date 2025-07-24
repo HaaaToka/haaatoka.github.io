@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "202": ["Jul 21", "ReportingObserver", "https://developer.mozilla.org/en-US/docs/Web/API/ReportingObserver"],
+        "201": ["Jul 20", "Why SCA sucks (at detecting malicious packages)", "https://sourcecodered.com/sca-sucks/"],
         "200": ["Jul 19", "The AI/LLM Hacking Cheatsheet", "https://www.synack.com/exploits-explained/the-ai-llm-hacking-cheatsheet/"],
         "199": ["Jul 18", "Is your AI safe? Threat analysis of MCP (Model Context Protocol)", "https://www.cyberark.com/resources/threat-research-blog/is-your-ai-safe-threat-analysis-of-mcp-model-context-protocol"],
         "198": ["Jul 17", "[TR]Masters and slaves of artificial intelligence", "https://www.mserdark.com/yapay-zekanin-efendileri-ve-koleleri/"],
