@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "204": ["Jul 23", "curl those funny IPv4 addresses", "https://daniel.haxx.se/blog/2021/04/19/curl-those-funny-ipv4-addresses/"],
+        "203": ["Jul 22", "SSRF Bypass filters", "https://github.com/0xn3va/cheat-sheets/blob/main/Web%20Application/Server%20Side%20Request%20Forgery/README.md"],
         "202": ["Jul 21", "ReportingObserver", "https://developer.mozilla.org/en-US/docs/Web/API/ReportingObserver"],
         "201": ["Jul 20", "Why SCA sucks (at detecting malicious packages)", "https://sourcecodered.com/sca-sucks/"],
         "200": ["Jul 19", "The AI/LLM Hacking Cheatsheet", "https://www.synack.com/exploits-explained/the-ai-llm-hacking-cheatsheet/"],
