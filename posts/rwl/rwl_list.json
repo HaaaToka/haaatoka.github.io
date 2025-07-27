@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "208": ["Jul 27", "How I Chained Directory Traversal and CSV Parser Abuse for RCE in a Django App", "https://jineeshak.github.io/posts/Chaining-Directory-Traversal-and-CSV-Parser-Abuse-for-RCE-in-Django/"],
+        "207": ["Jul 26", "How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets", "https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets"],
+        "206": ["Jul 25", "How I Escalated Simple HTML Injection to SSRF via PDF Rendering", "https://medium.com/@0x_xnum/how-i-escalated-simple-html-injection-to-ssrf-via-pdf-rendering-682ea94b3194"],
+        "205": ["Jul 24", "Solving the Engineering Productivity Paradox", "https://www.sonarsource.com/blog/solving-the-engineering-productivity-paradox/"],
         "204": ["Jul 23", "curl those funny IPv4 addresses", "https://daniel.haxx.se/blog/2021/04/19/curl-those-funny-ipv4-addresses/"],
         "203": ["Jul 22", "SSRF Bypass filters", "https://github.com/0xn3va/cheat-sheets/blob/main/Web%20Application/Server%20Side%20Request%20Forgery/README.md"],
         "202": ["Jul 21", "ReportingObserver", "https://developer.mozilla.org/en-US/docs/Web/API/ReportingObserver"],
