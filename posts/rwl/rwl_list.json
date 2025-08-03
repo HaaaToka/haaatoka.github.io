@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "215": ["Aug 3", "Securing React With Trusted Types by Philippe De Ryck", "https://www.youtube.com/watch?v=Hw8Tq3jq2Xc"],
+        "214": ["Aug 2", "Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses", "https://blog.cloudflare.com/tr-tr/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/"],
+        "213": ["Aug 1", "Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution", "https://retr0.blog/blog/llama-rpc-rce"],
+        "212": ["Jul 31", "GH Archive", "https://www.gharchive.org/"],
+        "211": ["Jul 30", "Socket Now Protects the Chrome Extension Ecosystem", "https://socket.dev/blog/socket-now-protects-the-chrome-extension-ecosystem"],
+        "210": ["Jul 29", "eBPF-Based PHP Extension Memory Leak Runtime Monitoring", "https://medium.com/@psy_maestro/ebpf-based-php-extension-memory-leak-runtime-monitoring-9a88cbe58e76"],
+        "209": ["Jul 28", "Critical ImageMagick Flaw: Exploiting File Name Templates to Break Linux Systems", "https://linuxsecurity.com/news/security-vulnerabilities/imagemagick-flaw-exploiting-file-name-templates"],
         "208": ["Jul 27", "How I Chained Directory Traversal and CSV Parser Abuse for RCE in a Django App", "https://jineeshak.github.io/posts/Chaining-Directory-Traversal-and-CSV-Parser-Abuse-for-RCE-in-Django/"],
         "207": ["Jul 26", "How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets", "https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets"],
         "206": ["Jul 25", "How I Escalated Simple HTML Injection to SSRF via PDF Rendering", "https://medium.com/@0x_xnum/how-i-escalated-simple-html-injection-to-ssrf-via-pdf-rendering-682ea94b3194"],
