@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "219": ["Aug 7", "Introducing GPT-5", "https://openai.com/index/introducing-gpt-5/"],
+        "218": ["Aug 6", "Mitigating prompt injection attacks with a layered defense strategy", "https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html"],
+        "217": ["Aug 5", "Genie 3: A new frontier for world models", "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"],
+        "216": ["Aug 4", "What Is a Zero-Knowledge Proof?", "https://chain.link/education/zero-knowledge-proof-zkp"],
         "215": ["Aug 3", "Identity Fundamentals", "https://auth0.com/docs/get-started/identity-fundamentals"],
         "214": ["Aug 2", "Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses", "https://blog.cloudflare.com/tr-tr/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/"],
         "213": ["Aug 1", "Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution", "https://retr0.blog/blog/llama-rpc-rce"],
