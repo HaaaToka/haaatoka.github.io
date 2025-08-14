@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "220": ["Aug 8", "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths", "https://arxiv.org/pdf/2504.17033"],
         "219": ["Aug 7", "Introducing GPT-5", "https://openai.com/index/introducing-gpt-5/"],
         "218": ["Aug 6", "Mitigating prompt injection attacks with a layered defense strategy", "https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html"],
         "217": ["Aug 5", "Genie 3: A new frontier for world models", "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"],
