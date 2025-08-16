@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "228": ["Aug 16", "Why are people working, and for what?", "https://www.quora.com/Why-are-people-working-and-for-what"],
+        "227": ["Aug 15", "How I made $64k from deleted files — a bug bounty story", "https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b"],
+        "226": ["Aug 14", "Amazon Q: Now with Helpful AI-Powered Self-Destruct Capabilities", "https://www.lastweekinaws.com/blog/amazon-q-now-with-helpful-ai-powered-self-destruct-capabilities/"],
+        "225": ["Aug 13", "npm Phishing Email Targets Developers with Typosquatted Domain", "https://socket.dev/blog/npm-phishing-email-targets-developers-with-typosquatted-domain"],
+        "224": ["Aug 12", "Designing a SIMD Algorithm from Scratch", "https://mcyoung.xyz/2023/11/27/simd-base64/"],
+        "223": ["Aug 11", "Edition 30: The SDLC is changing and so will AppSec (again)", "https://boringappsec.substack.com/p/the-sdlc-is-changing-and-so-will"],
+        "222": ["Aug 10", "Why Do Multi-Agent LLM Systems Fail?", "https://arxiv.org/pdf/2503.13657"],
         "221": ["Aug 9", "The Mandela Effect: How Masses of People Can Have the Same False Memory", "https://www.verywellmind.com/what-is-the-mandela-effect-4589394"],
         "220": ["Aug 8", "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths", "https://arxiv.org/pdf/2504.17033"],
         "219": ["Aug 7", "Introducing GPT-5", "https://openai.com/index/introducing-gpt-5/"],
