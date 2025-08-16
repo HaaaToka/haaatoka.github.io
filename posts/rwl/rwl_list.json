@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "221": ["Aug 9", "The Mandela Effect: How Masses of People Can Have the Same False Memory", "https://www.verywellmind.com/what-is-the-mandela-effect-4589394"],
         "220": ["Aug 8", "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths", "https://arxiv.org/pdf/2504.17033"],
         "219": ["Aug 7", "Introducing GPT-5", "https://openai.com/index/introducing-gpt-5/"],
         "218": ["Aug 6", "Mitigating prompt injection attacks with a layered defense strategy", "https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html"],
