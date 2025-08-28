@@ -1,5 +1,17 @@
 {
     "2025" : {
+        "240": ["Aug 28", "[TR]Escape from Being a Manager", "https://sonercanko.medium.com/y%C3%B6neticilikten-ka%C3%A7%C4%B1%C5%9F-1594732bab60"],
+        "239": ["Aug 27", "s1ngularity: supply chain attack in Nx packages", "https://vercel.com/changelog/s1ngularity-supply-chain-attack-in-nx-packages"],
+        "238": ["Aug 26", "Introducing Gemini 2.5 Flash Image, our state-of-the-art image model", "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"],
+        "237": ["Aug 25", "Teaching Software Engineers to Threat Model: We Did It, and So Can You", "https://www.youtube.com/watch?v=PgiwZmz2IIQ"],
+        "236": ["Aug 24", "AppSec is a structured data problem: Why shifting left doesn't work & asks too much from everyone.", "https://slideslive.com/39021675/appsec-is-a-structured-data-problem-why-shifting-left-doesnt-work-asks-too-much-from-everyone"],
+        "235": ["Aug 23", "Small Language Models for Application Security", "https://www.youtube.com/watch?v=gkxOmbT2Jls"],
+        "234": ["Aug 22", "Meet your new AI coding teammate: Gemini CLI GitHub Actions", "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/"],
+        "233": ["Aug 21", "Introducing OSS Rebuild: Open Source, Rebuilt to Last", "https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html"],
+        "232": ["Aug 20", "How I hacked hundreds of companies through their helpdesk", "https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c"],
+        "231": ["Aug 19", "The Ticket Trick Hack", "https://www.sherpadesk.com/blog/ticket-trick-hack-protection-for-small-businesses"],
+        "230": ["Aug 18", "Browser Use", "https://github.com/browser-use/browser-use"],
+        "229": ["Aug 17", "Phineas Fisher's account of how he took down HackingTeam", "https://gist.github.com/jaredsburrows/9e121d2e5f1147ab12a696cf548b90b0"],
         "228": ["Aug 16", "Why are people working, and for what?", "https://www.quora.com/Why-are-people-working-and-for-what"],
         "227": ["Aug 15", "How I made $64k from deleted files — a bug bounty story", "https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b"],
         "226": ["Aug 14", "Amazon Q: Now with Helpful AI-Powered Self-Destruct Capabilities", "https://www.lastweekinaws.com/blog/amazon-q-now-with-helpful-ai-powered-self-destruct-capabilities/"],
