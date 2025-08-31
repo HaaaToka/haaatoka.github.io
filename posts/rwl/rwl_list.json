@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "243": ["Aug 31", "[TR]BUSIBER & Cyber Clubs Association Summer Camp 2025", "https://cybersec.bogazici.edu.tr/tr/siber-guvenlik-yaz-kampi-2025"],
+        "242": ["Aug 30", "Engineering Velocity: Inside Anza’s Performance Team with Alessandro Decina", "https://www.helius.dev/blog/solana-performance-engineering"],
+        "241": ["Aug 29", "Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking", "https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/"],
         "240": ["Aug 28", "[TR]Escape from Being a Manager", "https://sonercanko.medium.com/y%C3%B6neticilikten-ka%C3%A7%C4%B1%C5%9F-1594732bab60"],
         "239": ["Aug 27", "s1ngularity: supply chain attack in Nx packages", "https://vercel.com/changelog/s1ngularity-supply-chain-attack-in-nx-packages"],
         "238": ["Aug 26", "Introducing Gemini 2.5 Flash Image, our state-of-the-art image model", "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"],
