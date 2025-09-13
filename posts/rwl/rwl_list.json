@@ -1,5 +1,18 @@
 {
     "2025" : {
+        "256": ["Sep 13", "Programmer's Day", "https://en.wikipedia.org/wiki/Programmer%27s_Day"],
+        "255": ["Sep 12", "Building Effective LLM Agents | AI Cyber Challenge", "https://theori.io/blog/building-effective-llm-agents-63446"],
+        "254": ["Sep 11", "Revisiting automating MS-RPC vulnerability research and releasing the tool", "https://www.incendium.rocks/posts/Revisiting-MS-RPC-Vulnerability-Research-automation/"],
+        "253": ["Sep 10", "Merge-of-Thought Distillation", "https://arxiv.org/pdf/2509.08814v2"],
+        "252": ["Sep 9", "Memory Integrity Enforcement: A complete vision for memory safety in Apple devices", "https://security.apple.com/blog/memory-integrity-enforcement/"],
+        "251": ["Sep 8", "Ex-WhatsApp cybersecurity executive says Meta endangered billions of users in new suit", "https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp"],
+        "250": ["Sep 7", "GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)", "https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/"],
+        "249": ["Sep 6", "Can AI weaponize new CVEs in under 15 minutes?", "https://valmarelox.substack.com/p/can-ai-weaponize-new-cves-in-under"],
+        "248": ["Sep 5", "From Signal to the Android SDK: Chaining Path Traversal, Mimetype Confusion, Security Check Bypass and File Descriptor Bruteforce for Arbitrary File Access", "https://blog.ostorlab.co/signal-arbitrary-file-read.html"],
+        "247": ["Sep 4", "XBOW, a system that autonomously finds and exploits potential security vulnerabilities!", "https://xbow.com/"],
+        "246": ["Sep 3", "Finding vulnerabilities in modern web apps using Claude Code and OpenAI Codex", "https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex/"],
+        "245": ["Sep 2", "The impact of the Salesloft Drift breach on Cloudflare and our customers", "https://blog.cloudflare.com/response-to-salesloft-drift-incident/"],
+        "244": ["Sep 1", "When a SSRF is enough: Full Docker Escape on Windows Docker Desktop (CVE-2025-9074)", "https://blog.qwertysecurity.com/Articles/blog3.html"],
         "243": ["Aug 31", "[TR]BUSIBER & Cyber Clubs Association Summer Camp 2025", "https://cybersec.bogazici.edu.tr/tr/siber-guvenlik-yaz-kampi-2025"],
         "242": ["Aug 30", "Engineering Velocity: Inside Anza’s Performance Team with Alessandro Decina", "https://www.helius.dev/blog/solana-performance-engineering"],
         "241": ["Aug 29", "Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking", "https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/"],
