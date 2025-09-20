@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "263": ["Sep 20", "MCP Security: Network-Exposed Servers Are Backdoors to Your Private Data", "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/mcp-security-network-exposed-servers-are-backdoors-to-your-private-data"],
+        "262": ["Sep 19", "The Hidden Risks of the NPM Supply Chain Attacks: AI Agents", "https://www.oligo.security/blog/the-hidden-risks-of-the-npm-supply-chain-attacks-ai-agents"],
+        "261": ["Sep 18", "Hosting A Website On A Disposable Vape", "https://hackaday.com/2025/09/15/hosting-a-website-on-a-disposable-vape/ "],
+        "260": ["Sep 17", "Popular Tinycolor npm Package Compromised in Supply Chain Attack Affecting 40+ Packages", "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"],
+        "259": ["Sep 16", "Aikido Intel - Open Source Threat Intelligence", "https://intel.aikido.dev/"],
+        "258": ["Sep 15", "Geedge & MESA Leak: Analyzing the Great Firewall's Largest Document Leak", "https://gfw.report/blog/geedge_and_mesa_leak/en/"],
+        "257": ["Sep 14", "Netflix Vulnerability: Dependency Confusion in Action", "https://www.landh.tech/blog/20250610-netflix-vulnerability-dependency-confusion"],
         "256": ["Sep 13", "Programmer's Day", "https://en.wikipedia.org/wiki/Programmer%27s_Day"],
         "255": ["Sep 12", "Building Effective LLM Agents | AI Cyber Challenge", "https://theori.io/blog/building-effective-llm-agents-63446"],
         "254": ["Sep 11", "Revisiting automating MS-RPC vulnerability research and releasing the tool", "https://www.incendium.rocks/posts/Revisiting-MS-RPC-Vulnerability-Research-automation/"],
