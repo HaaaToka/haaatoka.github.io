@@ -1,5 +1,6 @@
 {
     "2025" : {
+        "271": ["Sep 28", "Chrome DevTools (MCP) for your AI agent", "https://developer.chrome.com/blog/chrome-devtools-mcp"],
         "270": ["Sep 27", "How Odin.fun Lost 58.2 BTC in a $7M Liquidity Exploit", "https://www.quillaudits.com/blog/hack-analysis/how-odinfun-lost-58-3BTC-to-worthless-liquidity"],
         "269": ["Sep 26", "Researcher Exposes Zero-Day Clickjacking Vulnerabilities in Major Password Managers", "https://socket.dev/blog/password-manager-clickjacking"],
         "268": ["Sep 25", "Jaguar Land Rover's Cyberattack Nightmare Could End Up Costing It Billions", "https://www.motortrend.com/news/jaguar-land-rover-cyber-attack-production-cost"],
