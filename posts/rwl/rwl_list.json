@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "275": ["Oct 2", "Tree-sitter", "https://tree-sitter.github.io/tree-sitter/"],
+        "274": ["Oct 1", "Introducing Socket Firewall: Free, Proactive Protection for Your Software Supply Chain", "https://socket.dev/blog/introducing-socket-firewall"],
+        "273": ["Sep 30", "Will security companies disappear?", "https://franklyspeaking.substack.com/p/will-security-companies-disappear"],
+        "272": ["Sep 29", "[TR]IONIQ 6 FAQ", "https://ta2nc.blogspot.com/2024/12/ioniq-6-sk-sorulan-sorular-cevaplar.html"],
         "271": ["Sep 28", "Chrome DevTools (MCP) for your AI agent", "https://developer.chrome.com/blog/chrome-devtools-mcp"],
         "270": ["Sep 27", "How Odin.fun Lost 58.2 BTC in a $7M Liquidity Exploit", "https://www.quillaudits.com/blog/hack-analysis/how-odinfun-lost-58-3BTC-to-worthless-liquidity"],
         "269": ["Sep 26", "Researcher Exposes Zero-Day Clickjacking Vulnerabilities in Major Password Managers", "https://socket.dev/blog/password-manager-clickjacking"],
