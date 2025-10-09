@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "279": ["Oct 6", "Introducing AgentKit", "https://openai.com/index/introducing-agentkit/ "],
+        "278": ["Oct 5", "Redis RCE - CVE-2025-49844", "https://redis.io/blog/security-advisory-cve-2025-49844/"],
         "277": ["Oct 4", "[TR]Tired of People Using You? Apply These 3 Boundary Rules! Watch If You're Feeling Burned Out!", "https://www.youtube.com/watch?v=9yBJiW31a1M https://www.youtube.com/watch?v=9yBJiW31a1M "],
         "276": ["Oct 3", "Self-Fulfilling Prophecy In Psychology", "https://www.simplypsychology.org/self-fulfilling-prophecy.html"],
         "275": ["Oct 2", "Tree-sitter", "https://tree-sitter.github.io/tree-sitter/"],
