@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "282": ["Oct 9", "Subverting code integrity checks to locally backdoor Signal, 1Password, Slack, and more", "https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/"],
+        "281": ["Oct 8", "iOS/macOS DNG Image Processing Memory Corruption", "https://github.com/hunters-sec/CVE-2025-43300"],
+        "280": ["Oct 7", "How security leaders are scaling testing with bug bounty programs", "https://www.intigriti.com/blog/business-insights/how-security-leaders-are-scaling-testing-with-bug-bounty-programs"],
         "279": ["Oct 6", "Introducing AgentKit", "https://openai.com/index/introducing-agentkit/ "],
         "278": ["Oct 5", "Redis RCE - CVE-2025-49844", "https://redis.io/blog/security-advisory-cve-2025-49844/"],
         "277": ["Oct 4", "[TR]Tired of People Using You? Apply These 3 Boundary Rules! Watch If You're Feeling Burned Out!", "https://www.youtube.com/watch?v=9yBJiW31a1M https://www.youtube.com/watch?v=9yBJiW31a1M "],
