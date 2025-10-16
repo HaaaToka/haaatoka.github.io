@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "289": ["Oct 16", "Your computer mouse has big ears.", "https://sites.google.com/view/mic-e-mouse"],
+        "288": ["Oct 15", "LLM-Driven SAST-Genius: A Hybrid Static Analysis Framework for Comprehensive and Actionable Security", "https://arxiv.org/pdf/2509.15433"],
+        "287": ["Oct 14", "Superfoods or Superhype?", "https://nutritionsource.hsph.harvard.edu/superfoods/"],
         "286": ["Oct 13", "Python 3.14 Pi Release", "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"],
         "285": ["Oct 12", "The Paradox of the Control Freak Manager: Recognizing the Signs and Solutions", "https://www.linkedin.com/pulse/paradox-control-freak-manager-recognizing-signs-valeriya-georgieva-cosbf/"],
         "284": ["Oct 11", "HTTP/1.1 must die: the desync endgame", "https://portswigger.net/research/http1-must-die"],
