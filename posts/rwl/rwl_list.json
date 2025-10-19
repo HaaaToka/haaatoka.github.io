@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "292": ["Oct 19", "MCP for Beginners", "https://www.youtube.com/playlist?list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d"],
+        "291": ["Oct 18", "Pixnapping Attack", "https://www.pixnapping.com/"],
         "290": ["Oct 17", "The Cockroach Theory", "https://www.investopedia.com/terms/c/cockroach-theory.asp"],
         "289": ["Oct 16", "Your computer mouse has big ears.", "https://sites.google.com/view/mic-e-mouse"],
         "288": ["Oct 15", "LLM-Driven SAST-Genius: A Hybrid Static Analysis Framework for Comprehensive and Actionable Security", "https://arxiv.org/pdf/2509.15433"],
