@@ -1,5 +1,12 @@
 {
     "2025" : {
+        "305": ["Nov 1", "AI-Native SAST that understands your code", "https://corgea.com/scanning"],
+        "304": ["Oct 31", "AgentFlayer: When a Jira Ticket Can Steal Your Secrets", "https://labs.zenity.io/p/when-a-jira-ticket-can-steal-your-secrets"],
+        "303": ["Oct 30", "Introducing Aardvark: OpenAI’s agentic security researcher", "https://openai.com/index/introducing-aardvark/"],
+        "302": ["Oct 29", "Introducing CodeMender: an AI agent for code security", "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/"],
+        "301": ["Oct 28", "WhatsApp is banning AI chatbots like ChatGPT soon", "https://www.pcworld.com/article/2954729/whatsapp-is-banning-ai-chatbots-like-chatgpt-soon-heres-why.html"],
+        "300": ["Oct 27", "Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites", "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf"],
+        "299": ["Oct 26", "Mago The Oxidized PHP Toolchain", "https://github.com/carthage-software/mago"],
         "298": ["Oct 25", "Beyond AI Security Standards: Which Framework is Right for You?", "https://medium.com/trendyol-tech/beyond-ai-security-standards-which-framework-is-right-for-you-d664862d0df9"],
         "297": ["Oct 24", "Summary of the Amazon DynamoDB Service Disruption in the Northern Virginia (US-EAST-1) Region", "https://aws.amazon.com/message/101925/"],
         "296": ["Oct 23", "Introducing ChatGPT Atlas", "https://openai.com/index/introducing-chatgpt-atlas/"],
