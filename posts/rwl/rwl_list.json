@@ -1,5 +1,10 @@
 {
     "2025" : {
+        "310": ["Nov 6", "OpenAI Guardrails", "https://guardrails.openai.com/ "],
+        "309": ["Nov 5", "Django CVE-2025-64458 and CVE-2025-64459", "https://seclists.org/oss-sec/2025/q4/147"],
+        "308": ["Nov 4", "An eBPF Loophole: Using XDP for Egress Traffic", "https://loopholelabs.io/blog/xdp-for-egress-traffic"],
+        "307": ["Nov 3", "Token-Oriented Object Notation (TOON)", "https://github.com/toon-format/toon"],
+        "306": ["Nov 2", "Big Mac Index", "https://en.wikipedia.org/wiki/Big_Mac_Index"],
         "305": ["Nov 1", "AI-Native SAST that understands your code", "https://corgea.com/scanning"],
         "304": ["Oct 31", "AgentFlayer: When a Jira Ticket Can Steal Your Secrets", "https://labs.zenity.io/p/when-a-jira-ticket-can-steal-your-secrets"],
         "303": ["Oct 30", "Introducing Aardvark: OpenAI’s agentic security researcher", "https://openai.com/index/introducing-aardvark/"],
