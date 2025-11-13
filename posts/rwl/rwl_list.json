@@ -1,5 +1,11 @@
 {
     "2025" : {
+        "316": ["Nov 12", "[TR]Turkcell Announces Strategic Partnership with Google Cloud", "https://medya.turkcell.com.tr/bulletins/turkcell-google-cloud-ile-stratejik-ortaklik-kurdugunu-duyurdu/"],
+        "315": ["Nov 11", "sudo-rs : Partial password reveal when password timeout occurs", "https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-c978-wq47-pvvw"],
+        "314": ["Nov 10", "AI jailbreaks: What they are and how they can be mitigated", "https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/"],
+        "313": ["Nov 9", "Opengrep - Intrafile tainting", "https://github.com/opengrep/opengrep/wiki/Intrafile-tainting-tutorial"],
+        "312": ["Nov 8", "AI-driven tool for deep security code review", "https://github.com/arm/metis/"],
+        "311": ["Nov 7", "Abandonware", "https://en.wikipedia.org/wiki/Abandonware"],
         "310": ["Nov 6", "OpenAI Guardrails", "https://guardrails.openai.com/ "],
         "309": ["Nov 5", "Django CVE-2025-64458 and CVE-2025-64459", "https://seclists.org/oss-sec/2025/q4/147"],
         "308": ["Nov 4", "An eBPF Loophole: Using XDP for Egress Traffic", "https://loopholelabs.io/blog/xdp-for-egress-traffic"],
