@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "319": ["Nov 15", "Planning red teaming for large language models (LLMs) and their applications", "https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/red-teaming"],
+        "318": ["Nov 14", "Chatgpt-DAN", "https://github.com/alexisvalentino/Chatgpt-DAN"],
+        "317": ["Nov 13", "What is responsible AI?", "https://www.ibm.com/think/topics/responsible-ai"],
         "316": ["Nov 12", "[TR]Turkcell Announces Strategic Partnership with Google Cloud", "https://medya.turkcell.com.tr/bulletins/turkcell-google-cloud-ile-stratejik-ortaklik-kurdugunu-duyurdu/"],
         "315": ["Nov 11", "sudo-rs : Partial password reveal when password timeout occurs", "https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-c978-wq47-pvvw"],
         "314": ["Nov 10", "AI jailbreaks: What they are and how they can be mitigated", "https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/"],
