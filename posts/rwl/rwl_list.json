@@ -1,5 +1,10 @@
 {
     "2025" : {
+        "324": ["Nov 20", "Our AI assistant keeps getting jailbroken and it’s becoming a security nightmare", "https://www.reddit.com/r/LocalLLaMA/comments/1p145pj/our_ai_assistant_keeps_getting_jailbroken_and_its/"],
+        "323": ["Nov 19", "Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack", "https://crescendo-the-multiturn-jailbreak.github.io/"],
+        "322": ["Nov 18", "Modifying GodPotato to Evade Antivirus", "https://medium.com/@luisgerardomoret_69654/modifying-godpotato-to-evade-antivirus-f066aa779cf9"],
+        "321": ["Nov 17", "Python Risk Identification Tool for generative AI", "https://azure.github.io/PyRIT/index.html"],
+        "320": ["Nov 16", "AirPods liberated from Apple's ecosystem", "https://github.com/kavishdevar/librepods"],
         "319": ["Nov 15", "Planning red teaming for large language models (LLMs) and their applications", "https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/red-teaming"],
         "318": ["Nov 14", "Chatgpt-DAN", "https://github.com/alexisvalentino/Chatgpt-DAN"],
         "317": ["Nov 13", "What is responsible AI?", "https://www.ibm.com/think/topics/responsible-ai"],
