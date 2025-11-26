@@ -1,5 +1,7 @@
 {
     "2025" : {
+        "326": ["Nov 22", "[TR]99% of Developers Don't Notice This Vulnerability in Code", "https://www.youtube.com/watch?v=Owz-1fRV4bo"],
+        "325": ["Nov 21", "BlackHat SecTor | AI-Powered Captcha Bypass", "https://www.youtube.com/watch?v=2fkiIENZfcE"],
         "324": ["Nov 20", "Our AI assistant keeps getting jailbroken and it’s becoming a security nightmare", "https://www.reddit.com/r/LocalLLaMA/comments/1p145pj/our_ai_assistant_keeps_getting_jailbroken_and_its/"],
         "323": ["Nov 19", "Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack", "https://crescendo-the-multiturn-jailbreak.github.io/"],
         "322": ["Nov 18", "Modifying GodPotato to Evade Antivirus", "https://medium.com/@luisgerardomoret_69654/modifying-godpotato-to-evade-antivirus-f066aa779cf9"],
@@ -14,7 +16,7 @@
         "313": ["Nov 9", "Opengrep - Intrafile tainting", "https://github.com/opengrep/opengrep/wiki/Intrafile-tainting-tutorial"],
         "312": ["Nov 8", "AI-driven tool for deep security code review", "https://github.com/arm/metis/"],
         "311": ["Nov 7", "Abandonware", "https://en.wikipedia.org/wiki/Abandonware"],
-        "310": ["Nov 6", "OpenAI Guardrails", "https://guardrails.openai.com/ "],
+        "310": ["Nov 6", "OpenAI Guardrails", "https://guardrails.openai.com/"],
         "309": ["Nov 5", "Django CVE-2025-64458 and CVE-2025-64459", "https://seclists.org/oss-sec/2025/q4/147"],
         "308": ["Nov 4", "An eBPF Loophole: Using XDP for Egress Traffic", "https://loopholelabs.io/blog/xdp-for-egress-traffic"],
         "307": ["Nov 3", "Token-Oriented Object Notation (TOON)", "https://github.com/toon-format/toon"],
