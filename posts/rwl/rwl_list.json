@@ -1,5 +1,9 @@
 {
     "2025" : {
+        "330": ["Nov 26", "FFmpeg to Google: Fund Us or Stop Sending Bugs", "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"],
+        "329": ["Nov 25", "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys", "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html"],
+        "328": ["Nov 24", "Disrupting the first reported AI-orchestrated cyber espionage campaign", "https://www.anthropic.com/news/disrupting-AI-espionage"],
+        "327": ["Nov 23", "OWASP AI Testing Guide", "https://github.com/OWASP/www-project-ai-testing-guide/"],
         "326": ["Nov 22", "[TR]99% of Developers Don't Notice This Vulnerability in Code", "https://www.youtube.com/watch?v=Owz-1fRV4bo"],
         "325": ["Nov 21", "BlackHat SecTor | AI-Powered Captcha Bypass", "https://www.youtube.com/watch?v=2fkiIENZfcE"],
         "324": ["Nov 20", "Our AI assistant keeps getting jailbroken and it’s becoming a security nightmare", "https://www.reddit.com/r/LocalLLaMA/comments/1p145pj/our_ai_assistant_keeps_getting_jailbroken_and_its/"],
