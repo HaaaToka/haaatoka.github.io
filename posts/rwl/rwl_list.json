@@ -1,5 +1,16 @@
 {
     "2025" : {
+        "345": ["Dec 11", "GenAI Red Teaming Training", "https://github.com/schwartz1375/genai-security-training"],
+        "344": ["Dec 10", "OpenZL", "https://openzl.org/"],
+        "343": ["Dec 9", "postmarketOS", "https://postmarketos.org/"],
+        "342": ["Dec 8", "Open Source Summit", "https://events.linuxfoundation.org/open-source-summit-japan/"],
+        "341": ["Dec 7", "Hacking India’s largest automaker: Tata Motors", "https://eaton-works.com/2025/10/28/tata-motors-hack/"],
+        "340": ["Dec 6", "Practical LLM Security:Takeaways From a Year in the Trenches", "https://github.com/schwartz1375/genai-essentials/blob/main/llm_security.ipynb"],
+        "339": ["Dec 5", "The Latte Factor: 8 Ways We Often Overspend", "https://www.becomingminimalist.com/latte-factor/"],
+        "338": ["Dec 4", "Zstandard", "https://facebook.github.io/zstd/"],
+        "337": ["Dec 3", "Critical Security Vulnerability in React Server Components", "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components"],
+        "336": ["Dec 2", "Use This Framework to Anticipate The Impact of AI on Jobs", "https://www.gartner.com/en/articles/ai-impact-on-jobs"],
+        "335": ["Dec 1", "Can a quick snooze help with energy and focus? The science behind power naps", "https://www.health.harvard.edu/staying-healthy/can-a-quick-snooze-help-with-energy-and-focus-the-science-behind-power-naps"],
         "334": ["Nov 30", "How We Saved $500,000 Per Year by Rolling Our Own S3", "https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143?gi=df8625e86286"],
         "333": ["Nov 29", "Demystifying The PrintNightmare Vulnerability", "https://www.sygnia.co/threat-reports-and-advisories/demystifying-the-print-nightmare-vulnerability/"],
         "332": ["Nov 28", "NotebookLM", "https://notebooklm.google/"],
