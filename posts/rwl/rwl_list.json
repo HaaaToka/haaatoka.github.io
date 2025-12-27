@@ -1,5 +1,10 @@
 {
     "2025" : {
+        "362": ["Dec 28", "Pillar Security Unveils RedGraph: The World’s First Attack Surface Mapping & Continuous Testing for AI Agents", "https://www.pillar.security/blog/pillar-security-unveils-redgraph-the-worlds-first-attack-surface-mapping-continuous-testing-for-ai-agents"],
+        "361": ["Dec 27", "How we built Escape DAST's proprietary web application crawling algorithm and what makes it innovative", "https://escape.tech/blog/escape-dast-web-app-algorithm/"],
+        "360": ["Dec 26", "Why the Sanitizer API is just setHTML", "https://frederikbraun.de/why-sethtml.html"],
+        "359": ["Dec 25", "What is the lipstick index?", "https://www.chase.com/personal/investments/learning-and-insights/article/what-is-the-lipstick-index"],
+        "358": ["Dec 24", "Strengthening supply chain security: Preparing for the next malware campaign", "https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/"],
         "357": ["Dec 23", "It Goes Deeper Than Your Operating System", "https://www.youtube.com/watch?v=QlB1-sCp6o0"],
         "356": ["Dec 22", "Beyond Zstandard: The Future of Data Compression", "https://www.youtube.com/watch?v=PyPViJiCewM"],
         "355": ["Dec 21", "We Need an Open-source Phone OS - PostmarketOS!", "https://www.youtube.com/watch?v=_Z2IYDMYq90"],
