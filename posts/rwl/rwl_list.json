@@ -1,5 +1,8 @@
 {
     "2025" : {
+        "365": ["Dec 31", "Hacky Bells", "https://www.youtube.com/watch?v=3CWJNqyub3o"],
+        "364": ["Dec 30", "The Cyber Year in Review: Evolution of Attacks in 2025", "https://www.cuinfosecurity.com/blogs/cyber-year-in-review-evolution-attacks-in-2025-p-3998"],
+        "363": ["Dec 29", "Loss aversion", "https://www.ebsco.com/research-starters/social-sciences-and-humanities/loss-aversion"],
         "362": ["Dec 28", "Pillar Security Unveils RedGraph: The World’s First Attack Surface Mapping & Continuous Testing for AI Agents", "https://www.pillar.security/blog/pillar-security-unveils-redgraph-the-worlds-first-attack-surface-mapping-continuous-testing-for-ai-agents"],
         "361": ["Dec 27", "How we built Escape DAST's proprietary web application crawling algorithm and what makes it innovative", "https://escape.tech/blog/escape-dast-web-app-algorithm/"],
         "360": ["Dec 26", "Why the Sanitizer API is just setHTML", "https://frederikbraun.de/why-sethtml.html"],
