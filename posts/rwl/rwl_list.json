@@ -1,5 +1,7 @@
 {
     "2026": {
+        "42": ["May 23", "Google’s AI endgame is here… everything you missed at I/O 2026", "https://www.youtube.com/watch?v=9OQ5vaYbGV0"],
+        "41": ["May 20", "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos", "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"],
         "40": ["May 17", "Enshittification", "https://www.youtube.com/watch?v=jtjw_Ahlehs"],
         "39": ["May 14", "NGINX Rift: CVE-2026-42945 Critical Heap Buffer Overflow Vulnerability Explained", "https://www.picussecurity.com/resource/blog/nginx-rift-cve-2026-42945-critical-heap-buffer-overflow-vulnerability-explained"],
         "38": ["May 12", "TanStack npm packages compromised", "https://x.com/tan_stack/status/2053948103766716630"],
