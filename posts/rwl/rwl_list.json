@@ -1,5 +1,8 @@
 {
     "2026": {
+        "48": ["Jun 6", "Arm-based NVIDIA RTX Spark is redefining PCs for the agentic era", "https://newsroom.arm.com/news/arm-agentic-pc-era-with-nvidia-rtx-spark"],
+        "47": ["Jun 2", "CVE-2026-23479: Redis Use-After-Free in unblockClientOnKey Leading to RCE", "https://www.zeroday.cloud/blog/redis-cve-2026-23479-deep-dive"],
+        "46": ["Jun 1", "Meta AI Support Assistant account takeover flow", "http://x.com/RachelTobac/status/2061508189695479826"],
         "45": ["May 31", "Oh MyAudi!", "https://decoder.cloud/2026/05/08/oh-myaudi/"],
         "44": ["May 28", "From a Misconfigured Grafana to 507 Private Meta Repos: A Bug Worth $157K", "https://sectricity.com/blog/misconfigured-grafana-507-private-meta-repos/"],
         "43": ["May 26", "Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs", "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"],
