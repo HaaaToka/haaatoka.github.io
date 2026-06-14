@@ -1,5 +1,7 @@
 {
     "2026": {
+        "50": ["Jun 12", "Stealing Passwords via HTML Injection Under a Strict CSP", "https://afine.com/blogs/stealing-passwords-via-html-injection-under-a-strict-csp"],
+        "49": ["Jun 9", "Mini Shai-Hulud, Miasma, and Hades Worms Target Bioinformatics and MCP Developers via Malicious PyPI Wheels", "https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious"],
         "48": ["Jun 6", "Arm-based NVIDIA RTX Spark is redefining PCs for the agentic era", "https://newsroom.arm.com/news/arm-agentic-pc-era-with-nvidia-rtx-spark"],
         "47": ["Jun 2", "CVE-2026-23479: Redis Use-After-Free in unblockClientOnKey Leading to RCE", "https://www.zeroday.cloud/blog/redis-cve-2026-23479-deep-dive"],
         "46": ["Jun 1", "Meta AI Support Assistant account takeover flow", "http://x.com/RachelTobac/status/2061508189695479826"],
