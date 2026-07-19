@@ -1,5 +1,14 @@
 {
     "2026": {
+        "65": ["July 19", "LLMs in SAST: Good, Bad, Costly", "https://asecurityengineer.com/posts/llms-in-sast/"],
+        "64": ["July 16", "The Myth of Multitasking", "https://www.neuroleadership.com/articles/the-myth-of-multitasking"],
+        "63": ["July 14", "A backdoor in a LinkedIn job offer", "https://roman.pt/posts/linkedin-backdoor/"],
+        "62": ["July 11", "Hacking Google with A.I. for $500,000", "https://brutecat.com/articles/hacking-google-with-ai/ "],
+        "61": ["July 8", "Your AppSec Toolchain Was Built for Two Sources of Code. There's Now a Third.", "https://www.linkedin.com/pulse/your-appsec-toolchain-built-two-sources-code-theres-now-santhan-v4wpc"],
+        "60": ["July 6", "MFA Fatigue Attacks", "https://abnormal.ai/glossary/mfa-fatigue-attacks "],
+        "59": ["July 3", "Caveman; AI Agent Skill/Plugin", "https://github.com/juliusbrussee/caveman"],
+        "58": ["July 1", "Comparing AI Application Security Testing Platforms", "https://blog.doyensec.com/2026/05/27/aikido-xbow.html"],
+        "57": ["Jun 29", "The Linux pedit COW Flaw Behind a New Root Exploit", "https://tuxcare.com/blog/pedit-cow-cve/  "],
         "55": ["Jun 27", "Will It Mythos?", "https://swelljoe.com/post/will-it-mythos/"],
         "56": ["Jun 24", "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack", "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"],
         "54": ["Jun 21", "Marketplace Takeover: How We Could’ve Taken Over Every Developer Using a VSCode Fork; Putting Millions at Risk", "https://www.koi.ai/blog/marketplace-takeover-how-we-couldve-taken-over-every-developer-using-a-vscode-fork-putting-millions-at-risk"],
