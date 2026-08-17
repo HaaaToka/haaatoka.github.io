@@ -1,5 +1,11 @@
 {
     "2026": {
+        "78": ["Aug 16", "The Real North Star Was Never 'Shift Left'", "https://www.runsybil.com/blog/the-real-north-star-was-never-shift-left"],
+        "77": ["Aug 13", "Xiaomi-Robotics-1", "https://robotics.xiaomi.com/xiaomi-robotics-1.html"],
+        "76": ["Aug 11", "Comparing Open-Source AI Code Security Harnesses", "https://semgrep.dev/blog/2026/comparing-open-source-ai-code-security-harnesses/"],
+        "75": ["Aug 9", "Introducing selfie for sign-in: a new, easy way to access your Google Account", "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/"],
+        "74": ["Aug 6", "How Figma stays ahead of vulnerabilities with agents", "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/"],
+        "73": ["Aug 4", "Popular npm Packages in the keyv and Cacheable Namespaces Compromised in Active Supply Chain Attack", "https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain"],
         "72": ["Aug 1", "Introducing Precursor: detecting agentic behavior with continuous client-side signals", "https://blog.cloudflare.com/introducing-precursor/"],
         "71": ["July 30", "Introducing Gemini 3.5 Flash Cyber", "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"],
         "70": ["July 28", "A critical SQL injection flaw in the PGSQL and PDO_PGSQL PHP extensions", "https://feedly.com/cve/CVE-2026-17543"],
