@@ -1,5 +1,8 @@
 {
     "2026": {
+        "81": ["Aug 23", "CSS:the bomb inside your inbox", "https://portswigger.net/research/css-the-bomb-inside-your-inbox"],
+        "80": ["Aug 20", "Supply chain attack on arrayref : Rust", "https://github.com/rustsec/advisory-db/issues/3161"],
+        "79": ["Aug 18", "Why Problem Statements Aren't Enough", "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough"],
         "78": ["Aug 16", "The Real North Star Was Never 'Shift Left'", "https://www.runsybil.com/blog/the-real-north-star-was-never-shift-left"],
         "77": ["Aug 13", "Xiaomi-Robotics-1", "https://robotics.xiaomi.com/xiaomi-robotics-1.html"],
         "76": ["Aug 11", "Comparing Open-Source AI Code Security Harnesses", "https://semgrep.dev/blog/2026/comparing-open-source-ai-code-security-harnesses/"],
