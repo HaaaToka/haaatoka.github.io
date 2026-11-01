@@ -1,10 +1,13 @@
 {
     "2026": {
+        "108": ["Oct 30", "Trojanized Claude Code Extension Plants an SSH Backdoor", "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor "],
+        "107": ["Oct 28", "8 eMudhra certificates are compromised", "https://blog.cloudflare.com/emudhra-certificate-compromise/"],
+        "106": ["Oct 26", "Vulnpocalypse", "http://community.ibm.com/community/user/blogs/eddie-roe/2026/09/09/vulnpocalypse-and-the-mainframe"],
         "105": ["Oct 24", "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases", "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"],
         "104": ["Oct 21", "Today's PHP Security Release, and How We're Strengthening PHP Security", "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"],
         "103": ["Oct 17", "Understanding security embargoes at Red Hat", "https://www.redhat.com/en/blog/Understanding-security-embargoes-at-Red-Hat"],
         "102": ["Oct 14", "Saudi employee charged with planting recording device in OpenAI office", "https://www.bbc.com/news/articles/cwg5jq4vlddzo"],
-        "101": ["Oct 11", "AI Just Crossed the Terrifying Line - Now What?", "https://www.youtube.com/watch?v=ujkD4SxPKOI"],
+        "101": ["Oct 11", "MAD Bugs: Finding and Exploiting a 21-Year-Old Vulnerability in PHP", "https://blog.calif.io/p/mad-bugs-finding-and-exploiting-a"],
         "100": ["Oct 9", "AI Just Crossed the Terrifying Line - Now What?", "https://www.youtube.com/watch?v=ujkD4SxPKOI"],
         "99": ["Oct 6", "Chrome's Response to Recent ccTLD Registry Hijacks", "https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/"],
         "98": ["Oct 3", "Satisficer", "https://www.psychologistworld.com/cognitive/maximizers-satisficers-decision-making"],
