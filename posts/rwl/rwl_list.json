@@ -1,5 +1,8 @@
 {
     "2026": {
+        "111": ["Nov 6", "*sshole: OpenSSH Authentication Bypass Gives Attackers Root on Alpine Linux", "https://sshhole.com/"],
+        "110": ["Nov 3", "Sam Vimes 'Boots' Theory of Socio-Economic Unfairness", "https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/"],
+        "109": ["Nov 1", "Cathay Pacific says Amadeus breach affected 53,000 bookings", "https://www.reuters.com/legal/litigation/cathay-pacific-says-amadeus-breach-affected-53000-bookings-2026-10-30/"],
         "108": ["Oct 30", "Trojanized Claude Code Extension Plants an SSH Backdoor", "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor "],
         "107": ["Oct 28", "8 eMudhra certificates are compromised", "https://blog.cloudflare.com/emudhra-certificate-compromise/"],
         "106": ["Oct 26", "Vulnpocalypse", "http://community.ibm.com/community/user/blogs/eddie-roe/2026/09/09/vulnpocalypse-and-the-mainframe"],
